@@ -1,0 +1,16 @@
+election_type:
+    g: general
+    pp: presidential-primary
+    pr: primary-runoff
+    pc: presidential-caucus
+    pcc: presidential-caucus-convention
+    p: primary
+govt_type:
+    - senate
+    - house
+    - congress
+    # when senate/house is not clear 
+    - president
+    - governor
+
+

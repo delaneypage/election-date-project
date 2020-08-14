@@ -1,0 +1,1117 @@
+,state_name,date,election_type,party,govt_type,election_key,state_abbr
+0,puerto rico,2000-11-09,p,np,congress,2000-11-09-p-PR,PR
+1,california,2000-03-02,p,np,congress,2000-03-02-p-CA,CA
+2,maryland,2000-03-02,p,np,congress,2000-03-02-p-MD,MD
+3,ohio,2000-03-02,p,np,congress,2000-03-02-p-OH,OH
+4,mississippi,2000-03-09,p,np,congress,2000-03-09-p-MS,MS
+5,texas,2000-03-09,p,np,congress,2000-03-09-p-TX,TX
+6,illinois,2000-03-16,p,np,congress,2000-03-16-p-IL,IL
+7,pennsylvania,2000-04-27,p,np,congress,2000-04-27-p-PA,PA
+8,indiana,2000-05-04,p,np,congress,2000-05-04-p-IN,IN
+9,nebraska,2000-05-11,p,np,congress,2000-05-11-p-NE,NE
+10,west virginia,2000-05-11,p,np,congress,2000-05-11-p-WV,WV
+11,arkansas,2000-05-18,p,np,congress,2000-05-18-p-AR,AR
+12,kentucky,2000-05-18,p,np,congress,2000-05-18-p-KY,KY
+13,oregon,2000-05-18,p,np,congress,2000-05-18-p-OR,OR
+14,idaho,2000-05-25,p,np,congress,2000-05-25-p-ID,ID
+15,alabama,2000-06-01,p,np,congress,2000-06-01-p-AL,AL
+16,new mexico,2000-06-01,p,np,congress,2000-06-01-p-NM,NM
+17,south dakota,2000-06-01,p,np,congress,2000-06-01-p-SD,SD
+18,iowa,2000-06-08,p,np,congress,2000-06-08-p-IA,IA
+19,maine,2000-06-08,p,np,congress,2000-06-08-p-ME,ME
+20,montana,2000-06-08,p,np,congress,2000-06-08-p-MT,MT
+21,new jersey,2000-06-08,p,np,congress,2000-06-08-p-NJ,NJ
+22,north dakota,2000-06-08,p,np,congress,2000-06-08-p-ND,ND
+23,south carolina,2000-06-08,p,np,congress,2000-06-08-p-SC,SC
+24,virginia,2000-06-08,p,np,congress,2000-06-08-p-VA,VA
+25,utah,2000-06-22,p,np,congress,2000-06-22-p-UT,UT
+26,georgia,2000-07-20,p,np,congress,2000-07-20-p-GA,GA
+27,north carolina,2000-07-20,p,np,congress,2000-07-20-p-NC,NC
+28,oklahoma,2000-07-27,p,np,congress,2000-07-27-p-OK,OK
+29,kansas,2000-08-03,p,np,congress,2000-08-03-p-KS,KS
+30,michigan,2000-08-03,p,np,congress,2000-08-03-p-MI,MI
+31,missouri,2000-08-03,p,np,congress,2000-08-03-p-MO,MO
+32,tennessee,2000-08-05,p,np,congress,2000-08-05-p-TN,TN
+33,colorado,2000-08-10,p,np,congress,2000-08-10-p-CO,CO
+34,connecticut,2000-08-10,p,np,congress,2000-08-10-p-CT,CT
+35,wyoming,2000-08-17,p,np,congress,2000-08-17-p-WY,WY
+36,alaska,2000-08-24,p,np,congress,2000-08-24-p-AK,AK
+37,florida,2000-08-31,p,np,congress,2000-08-31-p-FL,FL
+38,guam,2000-09-04,p,np,congress,2000-09-04-p-GU,GU
+39,arizona,2000-09-07,p,np,congress,2000-09-07-p-AZ,AZ
+40,nevada,2000-09-07,p,np,congress,2000-09-07-p-NV,NV
+41,delaware,2000-09-11,p,np,congress,2000-09-11-p-DE,DE
+42,virgin islands,2000-09-11,p,np,congress,2000-09-11-p-VI,VI
+43,district of columbia,2000-09-14,p,np,congress,2000-09-14-p-DC,DC
+44,massachusetts,2000-09-14,p,np,congress,2000-09-14-p-MA,MA
+45,minnesota,2000-09-14,p,np,congress,2000-09-14-p-MN,MN
+46,new hampshire,2000-09-14,p,np,congress,2000-09-14-p-NH,NH
+47,new york,2000-09-14,p,np,congress,2000-09-14-p-NY,NY
+48,rhode island,2000-09-14,p,np,congress,2000-09-14-p-RI,RI
+49,vermont,2000-09-14,p,np,congress,2000-09-14-p-VT,VT
+50,washington,2000-09-14,p,np,congress,2000-09-14-p-WA,WA
+51,wisconsin,2000-09-14,p,np,congress,2000-09-14-p-WI,WI
+52,hawaii,2000-09-18,p,np,congress,2000-09-18-p-HI,HI
+53,american samoa,2000-11-02,p,np,congress,2000-11-02-p-AS,AS
+54,puerto rico,2004-11-09,p,np,congress,2004-11-09-p-PR,PR
+55,california,2004-03-02,p,np,congress,2004-03-02-p-CA,CA
+56,maryland,2004-03-02,p,np,congress,2004-03-02-p-MD,MD
+57,ohio,2004-03-02,p,np,congress,2004-03-02-p-OH,OH
+58,mississippi,2004-03-09,p,np,congress,2004-03-09-p-MS,MS
+59,texas,2004-03-09,p,np,congress,2004-03-09-p-TX,TX
+60,illinois,2004-03-16,p,np,congress,2004-03-16-p-IL,IL
+61,pennsylvania,2004-04-27,p,np,congress,2004-04-27-p-PA,PA
+62,indiana,2004-05-04,p,np,congress,2004-05-04-p-IN,IN
+63,nebraska,2004-05-11,p,np,congress,2004-05-11-p-NE,NE
+64,west virginia,2004-05-11,p,np,congress,2004-05-11-p-WV,WV
+65,arkansas,2004-05-18,p,np,congress,2004-05-18-p-AR,AR
+66,kentucky,2004-05-18,p,np,congress,2004-05-18-p-KY,KY
+67,oregon,2004-05-18,p,np,congress,2004-05-18-p-OR,OR
+68,idaho,2004-05-25,p,np,congress,2004-05-25-p-ID,ID
+69,alabama,2004-06-01,p,np,congress,2004-06-01-p-AL,AL
+70,new mexico,2004-06-01,p,np,congress,2004-06-01-p-NM,NM
+71,south dakota,2004-06-01,p,np,congress,2004-06-01-p-SD,SD
+72,iowa,2004-06-08,p,np,congress,2004-06-08-p-IA,IA
+73,maine,2004-06-08,p,np,congress,2004-06-08-p-ME,ME
+74,montana,2004-06-08,p,np,congress,2004-06-08-p-MT,MT
+75,new jersey,2004-06-08,p,np,congress,2004-06-08-p-NJ,NJ
+76,north dakota,2004-06-08,p,np,congress,2004-06-08-p-ND,ND
+77,south carolina,2004-06-08,p,np,congress,2004-06-08-p-SC,SC
+78,virginia,2004-06-08,p,np,congress,2004-06-08-p-VA,VA
+79,utah,2004-06-22,p,np,congress,2004-06-22-p-UT,UT
+80,georgia,2004-07-20,p,np,congress,2004-07-20-p-GA,GA
+81,north carolina,2004-07-20,p,np,congress,2004-07-20-p-NC,NC
+82,oklahoma,2004-07-27,p,np,congress,2004-07-27-p-OK,OK
+83,kansas,2004-08-03,p,np,congress,2004-08-03-p-KS,KS
+84,michigan,2004-08-03,p,np,congress,2004-08-03-p-MI,MI
+85,missouri,2004-08-03,p,np,congress,2004-08-03-p-MO,MO
+86,tennessee,2004-08-05,p,np,congress,2004-08-05-p-TN,TN
+87,colorado,2004-08-10,p,np,congress,2004-08-10-p-CO,CO
+88,connecticut,2004-08-10,p,np,congress,2004-08-10-p-CT,CT
+89,wyoming,2004-08-17,p,np,congress,2004-08-17-p-WY,WY
+90,alaska,2004-08-24,p,np,congress,2004-08-24-p-AK,AK
+91,florida,2004-08-31,p,np,congress,2004-08-31-p-FL,FL
+92,guam,2004-09-04,p,np,congress,2004-09-04-p-GU,GU
+93,arizona,2004-09-07,p,np,congress,2004-09-07-p-AZ,AZ
+94,nevada,2004-09-07,p,np,congress,2004-09-07-p-NV,NV
+95,delaware,2004-09-11,p,np,congress,2004-09-11-p-DE,DE
+96,virgin islands,2004-09-11,p,np,congress,2004-09-11-p-VI,VI
+97,district of columbia,2004-09-14,p,np,congress,2004-09-14-p-DC,DC
+98,massachusetts,2004-09-14,p,np,congress,2004-09-14-p-MA,MA
+99,minnesota,2004-09-14,p,np,congress,2004-09-14-p-MN,MN
+100,new hampshire,2004-09-14,p,np,congress,2004-09-14-p-NH,NH
+101,new york,2004-09-14,p,np,congress,2004-09-14-p-NY,NY
+102,rhode island,2004-09-14,p,np,congress,2004-09-14-p-RI,RI
+103,vermont,2004-09-14,p,np,congress,2004-09-14-p-VT,VT
+104,washington,2004-09-14,p,np,congress,2004-09-14-p-WA,WA
+105,wisconsin,2004-09-14,p,np,congress,2004-09-14-p-WI,WI
+106,hawaii,2004-09-18,p,np,congress,2004-09-18-p-HI,HI
+107,american samoa,2004-11-02,p,np,congress,2004-11-02-p-AS,AS
+108,illinois,2008-02-05,p,np,congress,2008-02-05-p-IL,IL
+109,maryland,2008-02-12,p,np,congress,2008-02-12-p-MD,MD
+110,ohio,2008-03-04,p,np,congress,2008-03-04-p-OH,OH
+111,texas,2008-03-04,p,np,congress,2008-03-04-p-TX,TX
+112,puerto rico,2008-03-09,p,np,congress,2008-03-09-p-PR,PR
+113,mississippi,2008-03-11,p,np,congress,2008-03-11-p-MS,MS
+114,pennsylvania,2008-04-22,p,np,congress,2008-04-22-p-PA,PA
+115,indiana,2008-05-06,p,np,congress,2008-05-06-p-IN,IN
+116,north carolina,2008-05-06,p,np,congress,2008-05-06-p-NC,NC
+117,nebraska,2008-05-13,p,np,congress,2008-05-13-p-NE,NE
+118,west virginia,2008-05-13,p,np,congress,2008-05-13-p-WV,WV
+119,kentucky,2008-05-20,p,np,congress,2008-05-20-p-KY,KY
+120,oregon,2008-05-20,p,np,congress,2008-05-20-p-OR,OR
+121,arkansas,2008-05-20,p,np,congress,2008-05-20-p-AR,AR
+122,idaho,2008-05-27,p,np,congress,2008-05-27-p-ID,ID
+123,california,2008-06-03,p,np,congress,2008-06-03-p-CA,CA
+124,iowa,2008-06-03,p,np,congress,2008-06-03-p-IA,IA
+125,montana,2008-06-03,p,np,congress,2008-06-03-p-MT,MT
+126,new jersey,2008-06-03,p,np,congress,2008-06-03-p-NJ,NJ
+127,new mexico,2008-06-03,p,np,congress,2008-06-03-p-NM,NM
+128,south dakota,2008-06-03,p,np,congress,2008-06-03-p-SD,SD
+129,alabama,2008-06-03,p,np,congress,2008-06-03-p-AL,AL
+130,maine,2008-06-10,p,np,congress,2008-06-10-p-ME,ME
+131,north dakota,2008-06-10,p,np,congress,2008-06-10-p-ND,ND
+132,virginia,2008-06-10,p,np,congress,2008-06-10-p-VA,VA
+133,south carolina,2008-06-10,p,np,congress,2008-06-10-p-SC,SC
+134,utah,2008-06-24,p,np,congress,2008-06-24-p-UT,UT
+135,georgia,2008-07-15,p,np,congress,2008-07-15-p-GA,GA
+136,oklahoma,2008-07-29,p,np,congress,2008-07-29-p-OK,OK
+137,kansas,2008-08-05,p,np,congress,2008-08-05-p-KS,KS
+138,michigan,2008-08-05,p,np,congress,2008-08-05-p-MI,MI
+139,missouri,2008-08-05,p,np,congress,2008-08-05-p-MO,MO
+140,tennessee,2008-08-07,p,np,congress,2008-08-07-p-TN,TN
+141,colorado,2008-08-12,p,np,congress,2008-08-12-p-CO,CO
+142,connecticut,2008-08-12,p,np,congress,2008-08-12-p-CT,CT
+143,nevada,2008-08-12,p,np,congress,2008-08-12-p-NV,NV
+144,washington,2008-08-19,p,np,congress,2008-08-19-p-WA,WA
+145,wyoming,2008-08-19,p,np,congress,2008-08-19-p-WY,WY
+146,alaska,2008-08-26,p,np,congress,2008-08-26-p-AK,AK
+147,florida,2008-08-26,p,np,congress,2008-08-26-p-FL,FL
+148,arizona,2008-09-02,p,np,congress,2008-09-02-p-AZ,AZ
+149,guam,2008-09-06,p,np,congress,2008-09-06-p-GU,GU
+150,louisiana,2008-09-06,p,np,congress,2008-09-06-p-LA,LA
+151,delaware,2008-09-09,p,np,congress,2008-09-09-p-DE,DE
+152,district of columbia,2008-09-09,p,np,congress,2008-09-09-p-DC,DC
+153,minnesota,2008-09-09,p,np,congress,2008-09-09-p-MN,MN
+154,new hampshire,2008-09-09,p,np,congress,2008-09-09-p-NH,NH
+155,new york,2008-09-09,p,np,congress,2008-09-09-p-NY,NY
+156,rhode island,2008-09-09,p,np,congress,2008-09-09-p-RI,RI
+157,vermont,2008-09-09,p,np,congress,2008-09-09-p-VT,VT
+158,wisconsin,2008-09-09,p,np,congress,2008-09-09-p-WI,WI
+159,virgin islands,2008-09-13,p,np,congress,2008-09-13-p-VI,VI
+160,massachusetts,2008-09-16,p,np,congress,2008-09-16-p-MA,MA
+161,hawaii,2008-09-20,p,np,congress,2008-09-20-p-HI,HI
+162,american samoa,2008-11-04,p,np,congress,2008-11-04-p-AS,AS
+163,ohio,2012-03-06,p,np,congress,2012-03-06-p-OH,OH
+164,alabama,2012-03-13,p,np,congress,2012-03-13-p-AL,AL
+165,mississippi,2012-03-13,p,np,congress,2012-03-13-p-MS,MS
+166,puerto rico,2012-03-18,p,np,congress,2012-03-18-p-PR,PR
+167,illinois,2012-03-20,p,np,congress,2012-03-20-p-IL,IL
+168,district of columbia,2012-04-03,p,np,congress,2012-04-03-p-DC,DC
+169,maryland,2012-04-01,p,np,congress,2012-04-01-p-MD,MD
+170,pennsylvania,2012-04-24,p,np,congress,2012-04-24-p-PA,PA
+171,indiana,2012-05-01,p,np,congress,2012-05-01-p-IN,IN
+172,north carolina,2012-05-08,p,np,congress,2012-05-08-p-NC,NC
+173,west virginia,2012-05-08,p,np,congress,2012-05-08-p-WV,WV
+174,idaho,2012-05-15,p,np,congress,2012-05-15-p-ID,ID
+175,nebraska,2012-05-15,p,np,congress,2012-05-15-p-NE,NE
+176,oregon,2012-05-15,p,np,congress,2012-05-15-p-OR,OR
+177,arkansas,2012-05-22,p,np,congress,2012-05-22-p-AR,AR
+178,kentucky,2012-05-22,p,np,congress,2012-05-22-p-KY,KY
+179,texas,2012-05-29,p,np,congress,2012-05-29-p-TX,TX
+180,california,2012-06-05,p,np,congress,2012-06-05-p-CA,CA
+181,iowa,2012-06-05,p,np,congress,2012-06-05-p-IA,IA
+182,montana,2012-06-05,p,np,congress,2012-06-05-p-MT,MT
+183,new jersey,2012-06-05,p,np,congress,2012-06-05-p-NJ,NJ
+184,new mexico,2012-06-05,p,np,congress,2012-06-05-p-NM,NM
+185,south dakota,2012-06-05,p,np,congress,2012-06-05-p-SD,SD
+186,maine,2012-06-12,p,np,congress,2012-06-12-p-ME,ME
+187,nevada,2012-06-12,p,np,congress,2012-06-12-p-NV,NV
+188,north dakota,2012-06-12,p,np,congress,2012-06-12-p-ND,ND
+189,south carolina,2012-06-12,p,np,congress,2012-06-12-p-SC,SC
+190,virginia,2012-06-12,p,np,congress,2012-06-12-p-VA,VA
+191,colorado,2012-06-26,p,np,congress,2012-06-26-p-CO,CO
+192,new york,2012-06-26,p,np,congress,2012-06-26-p-NY,NY
+193,oklahoma,2012-06-26,p,np,congress,2012-06-26-p-OK,OK
+194,utah,2012-06-26,p,np,congress,2012-06-26-p-UT,UT
+195,georgia,2012-07-31,p,np,congress,2012-07-31-p-GA,GA
+196,tennessee,2012-08-02,p,np,congress,2012-08-02-p-TN,TN
+197,kansas,2012-08-01,p,np,congress,2012-08-01-p-KS,KS
+198,michigan,2012-08-01,p,np,congress,2012-08-01-p-MI,MI
+199,missouri,2012-08-07,p,np,congress,2012-08-07-p-MO,MO
+200,washington,2012-08-07,p,np,congress,2012-08-07-p-WA,WA
+201,hawaii,2012-08-11,p,np,congress,2012-08-11-p-HI,HI
+202,connecticut,2012-08-14,p,np,congress,2012-08-14-p-CT,CT
+203,florida,2012-08-14,p,np,congress,2012-08-14-p-FL,FL
+204,minnesota,2012-08-14,p,np,congress,2012-08-14-p-MN,MN
+205,wisconsin,2012-08-14,p,np,congress,2012-08-14-p-WI,WI
+206,wyoming,2012-08-21,p,np,congress,2012-08-21-p-WY,WY
+207,alaska,2012-08-28,p,np,congress,2012-08-28-p-AK,AK
+208,arizona,2012-08-28,p,np,congress,2012-08-28-p-AZ,AZ
+209,vermont,2012-08-28,p,np,congress,2012-08-28-p-VT,VT
+210,guam,2012-09-01,p,np,congress,2012-09-01-p-GU,GU
+211,massachusetts,2012-09-06,p,np,congress,2012-09-06-p-MA,MA
+212,virgin islands,2012-09-08,p,np,congress,2012-09-08-p-VI,VI
+213,delaware,2012-09-11,p,np,congress,2012-09-11-p-DE,DE
+214,new hampshire,2012-09-11,p,np,congress,2012-09-11-p-NH,NH
+215,rhode island,2012-09-11,p,np,congress,2012-09-11-p-RI,RI
+216,arkansas,2016-03-01,p,np,congress,2016-03-01-p-AR,AR
+217,alabama,2016-03-01,p,np,congress,2016-03-01-p-AL,AL
+218,texas,2016-03-01,p,np,congress,2016-03-01-p-TX,TX
+219,mississippi,2016-03-08,p,np,congress,2016-03-08-p-MS,MS
+220,illinois,2016-03-15,p,np,congress,2016-03-15-p-IL,IL
+221,north carolina,2016-03-15,p,np,senate,2016-03-15-p-NC,NC
+222,ohio,2016-03-15,p,np,congress,2016-03-15-p-OH,OH
+223,maryland,2016-04-26,p,np,congress,2016-04-26-p-MD,MD
+224,pennsylvania,2016-04-26,p,np,congress,2016-04-26-p-PA,PA
+225,indiana,2016-05-03,p,np,congress,2016-05-03-p-IN,IN
+226,nebraska,2016-05-10,p,np,congress,2016-05-10-p-NE,NE
+227,west virginia,2016-05-10,p,np,congress,2016-05-10-p-WV,WV
+228,idaho,2016-05-17,p,np,congress,2016-05-17-p-ID,ID
+229,kentucky,2016-05-17,p,np,congress,2016-05-17-p-KY,KY
+230,oregon,2016-05-17,p,np,congress,2016-05-17-p-OR,OR
+231,georgia,2016-05-24,p,np,congress,2016-05-24-p-GA,GA
+232,puerto rico,2016-06-05,p,np,congress,2016-06-05-p-PR,PR
+233,california,2016-06-07,p,np,congress,2016-06-07-p-CA,CA
+234,iowa,2016-06-07,p,np,congress,2016-06-07-p-IA,IA
+235,montana,2016-06-07,p,np,congress,2016-06-07-p-MT,MT
+236,new jersey,2016-06-07,p,np,congress,2016-06-07-p-NJ,NJ
+237,new mexico,2016-06-07,p,np,congress,2016-06-07-p-NM,NM
+238,north carolina,2016-06-07,p,np,house,2016-06-07-p-NC,NC
+239,south dakota,2016-06-07,p,np,congress,2016-06-07-p-SD,SD
+240,district of columbia,2016-06-14,p,np,congress,2016-06-14-p-DC,DC
+241,maine,2016-06-14,p,np,congress,2016-06-14-p-ME,ME
+242,nevada,2016-06-14,p,np,congress,2016-06-14-p-NV,NV
+243,north dakota,2016-06-14,p,np,congress,2016-06-14-p-ND,ND
+244,south carolina,2016-06-14,p,np,congress,2016-06-14-p-SC,SC
+245,virginia,2016-06-14,p,np,congress,2016-06-14-p-VA,VA
+246,colorado,2016-06-28,p,np,congress,2016-06-28-p-CO,CO
+247,new york,2016-06-28,p,np,congress,2016-06-28-p-NY,NY
+248,oklahoma,2016-06-28,p,np,congress,2016-06-28-p-OK,OK
+249,utah,2016-06-28,p,np,congress,2016-06-28-p-UT,UT
+250,kansas,2016-08-02,p,np,congress,2016-08-02-p-KS,KS
+251,michigan,2016-08-02,p,np,congress,2016-08-02-p-MI,MI
+252,missouri,2016-08-02,p,np,congress,2016-08-02-p-MO,MO
+253,washington,2016-08-02,p,np,congress,2016-08-02-p-WA,WA
+254,tennessee,2016-08-04,p,np,congress,2016-08-04-p-TN,TN
+255,virgin islands,2016-08-06,p,np,congress,2016-08-06-p-VI,VI
+256,connecticut,2016-08-09,p,np,congress,2016-08-09-p-CT,CT
+257,minnesota,2016-08-09,p,np,congress,2016-08-09-p-MN,MN
+258,vermont,2016-08-09,p,np,congress,2016-08-09-p-VT,VT
+259,wisconsin,2016-08-09,p,np,congress,2016-08-09-p-WI,WI
+260,hawaii,2016-08-13,p,np,congress,2016-08-13-p-HI,HI
+261,alaska,2016-08-16,p,np,congress,2016-08-16-p-AK,AK
+262,wyoming,2016-08-16,p,np,congress,2016-08-16-p-WY,WY
+263,guam,2016-08-27,p,np,congress,2016-08-27-p-GU,GU
+264,arizona,2016-08-30,p,np,congress,2016-08-30-p-AZ,AZ
+265,florida,2016-08-30,p,np,congress,2016-08-30-p-FL,FL
+266,massachusetts,2016-09-08,p,np,congress,2016-09-08-p-MA,MA
+267,delaware,2016-09-13,p,np,congress,2016-09-13-p-DE,DE
+268,new hampshire,2016-09-13,p,np,congress,2016-09-13-p-NH,NH
+269,rhode island,2016-09-13,p,np,congress,2016-09-13-p-RI,RI
+270,alabama,2020-03-03,p,np,congress,2020-03-03-p-AL,AL
+271,arkansas,2020-03-03,p,np,congress,2020-03-03-p-AR,AR
+272,california,2020-03-03,p,np,congress,2020-03-03-p-CA,CA
+273,north carolina,2020-03-03,p,np,congress,2020-03-03-p-NC,NC
+274,texas,2020-03-03,p,np,congress,2020-03-03-p-TX,TX
+275,mississippi,2020-03-10,p,np,congress,2020-03-10-p-MS,MS
+276,illinois,2020-03-17,p,np,congress,2020-03-17-p-IL,IL
+277,ohio,2020-04-28,p,np,congress,2020-04-28-p-OH,OH
+278,nebraska,2020-05-12,p,np,congress,2020-05-12-p-NE,NE
+279,oregon,2020-05-19,p,np,congress,2020-05-19-p-OR,OR
+280,district of columbia,2020-06-02,p,np,congress,2020-06-02-p-DC,DC
+281,indiana,2020-06-02,p,np,congress,2020-06-02-p-IN,IN
+282,idaho,2020-06-02,p,np,congress,2020-06-02-p-ID,ID
+283,iowa,2020-06-02,p,np,congress,2020-06-02-p-IA,IA
+284,maryland,2020-06-02,p,np,congress,2020-06-02-p-MD,MD
+285,montana,2020-06-02,p,np,congress,2020-06-02-p-MT,MT
+286,new mexico,2020-06-02,p,np,congress,2020-06-02-p-NM,NM
+287,pennsylvania,2020-06-02,p,np,congress,2020-06-02-p-PA,PA
+288,south dakota,2020-06-02,p,np,congress,2020-06-02-p-SD,SD
+289,georgia,2020-06-09,p,np,congress,2020-06-09-p-GA,GA
+290,nevada,2020-06-09,p,np,congress,2020-06-09-p-NV,NV
+291,north dakota,2020-06-09,p,np,congress,2020-06-09-p-ND,ND
+292,south carolina,2020-06-09,p,np,congress,2020-06-09-p-SC,SC
+293,west virginia,2020-06-09,p,np,congress,2020-06-09-p-WV,WV
+294,kentucky,2020-06-23,p,np,congress,2020-06-23-p-KY,KY
+295,new york,2020-06-23,p,np,congress,2020-06-23-p-NY,NY
+296,virginia,2020-06-23,p,np,congress,2020-06-23-p-VA,VA
+297,colorado,2020-06-30,p,np,congress,2020-06-30-p-CO,CO
+298,oklahoma,2020-06-30,p,np,congress,2020-06-30-p-OK,OK
+299,utah,2020-06-30,p,np,congress,2020-06-30-p-UT,UT
+300,new jersey,2020-07-07,p,np,congress,2020-07-07-p-NJ,NJ
+301,maine,2020-07-14,p,np,congress,2020-07-14-p-ME,ME
+302,virgin islands,2020-08-01,p,np,congress,2020-08-01-p-VI,VI
+303,arizona,2020-08-04,p,np,congress,2020-08-04-p-AZ,AZ
+304,kansas,2020-08-04,p,np,congress,2020-08-04-p-KS,KS
+305,michigan,2020-08-04,p,np,congress,2020-08-04-p-MI,MI
+306,missouri,2020-08-04,p,np,congress,2020-08-04-p-MO,MO
+307,washington,2020-08-04,p,np,congress,2020-08-04-p-WA,WA
+308,tennessee,2020-08-06,p,np,congress,2020-08-06-p-TN,TN
+309,hawaii,2020-08-08,p,np,congress,2020-08-08-p-HI,HI
+310,puerto rico,2020-08-09,p,np,congress,2020-08-09-p-PR,PR
+311,minnesota,2020-08-11,p,np,congress,2020-08-11-p-MN,MN
+312,vermont,2020-08-11,p,np,congress,2020-08-11-p-VT,VT
+313,wisconsin,2020-08-11,p,np,congress,2020-08-11-p-WI,WI
+314,connecticut,2020-08-11,p,np,congress,2020-08-11-p-CT,CT
+315,alaska,2020-08-18,p,np,congress,2020-08-18-p-AK,AK
+316,florida,2020-08-18,p,np,congress,2020-08-18-p-FL,FL
+317,wyoming,2020-08-18,p,np,congress,2020-08-18-p-WY,WY
+318,guam,2020-08-29,p,np,congress,2020-08-29-p-GU,GU
+319,massachusetts,2020-09-01,p,np,congress,2020-09-01-p-MA,MA
+320,new hampshire,2020-09-08,p,np,congress,2020-09-08-p-NH,NH
+321,rhode island,2020-09-08,p,np,congress,2020-09-08-p-RI,RI
+322,delaware,2020-09-15,p,np,congress,2020-09-15-p-DE,DE
+323,alabama,2002-06-04,p,np,congress,2002-06-04-p-AL,AL
+324,alaska,2002-08-27,p,np,congress,2002-08-27-p-AK,AK
+325,american samoa,2002-11-05,p,np,congress,2002-11-05-p-AS,AS
+326,arizona,2002-09-10,p,np,congress,2002-09-10-p-AZ,AZ
+327,arkansas,2002-05-21,p,np,congress,2002-05-21-p-AR,AR
+328,california,2002-03-05,p,np,congress,2002-03-05-p-CA,CA
+329,colorado,2002-08-13,p,np,congress,2002-08-13-p-CO,CO
+330,connecticut,2002-09-10,p,np,congress,2002-09-10-p-CT,CT
+331,delaware,2002-09-07,p,np,congress,2002-09-07-p-DE,DE
+332,district of columbia,2002-09-10,p,np,congress,2002-09-10-p-DC,DC
+333,florida,2002-09-10,p,np,congress,2002-09-10-p-FL,FL
+334,georgia,2002-08-20,p,np,congress,2002-08-20-p-GA,GA
+335,guam,2002-09-07,p,np,congress,2002-09-07-p-GU,GU
+336,hawaii,2002-09-21,p,np,congress,2002-09-21-p-HI,HI
+337,idaho,2002-05-28,p,np,congress,2002-05-28-p-ID,ID
+338,illinois,2002-03-19,p,np,congress,2002-03-19-p-IL,IL
+339,indiana,2002-05-07,p,np,congress,2002-05-07-p-IN,IN
+340,iowa,2002-06-04,p,np,congress,2002-06-04-p-IA,IA
+341,kansas,2002-08-06,p,np,congress,2002-08-06-p-KS,KS
+342,kentucky,2002-05-28,p,np,congress,2002-05-28-p-KY,KY
+343,maine,2002-06-11,p,np,congress,2002-06-11-p-ME,ME
+344,maryland,2002-09-10,p,np,congress,2002-09-10-p-MD,MD
+345,massachusetts,2002-09-17,p,np,congress,2002-09-17-p-MA,MA
+346,michigan,2002-08-06,p,np,congress,2002-08-06-p-MI,MI
+347,minnesota,2002-09-10,p,np,congress,2002-09-10-p-MN,MN
+348,mississippi,2002-06-04,p,np,congress,2002-06-04-p-MS,MS
+349,missouri,2002-08-06,p,np,congress,2002-08-06-p-MO,MO
+350,montana,2002-06-04,p,np,congress,2002-06-04-p-MT,MT
+351,nebraska,2002-05-14,p,np,congress,2002-05-14-p-NE,NE
+352,nevada,2002-09-03,p,np,congress,2002-09-03-p-NV,NV
+353,new hampshire,2002-09-10,p,np,congress,2002-09-10-p-NH,NH
+354,new jersey,2002-06-04,p,np,congress,2002-06-04-p-NJ,NJ
+355,new mexico,2002-06-04,p,np,congress,2002-06-04-p-NM,NM
+356,new york,2002-09-10,p,np,congress,2002-09-10-p-NY,NY
+357,north carolina,2002-09-10,p,np,congress,2002-09-10-p-NC,NC
+358,north dakota,2002-06-11,p,np,congress,2002-06-11-p-ND,ND
+359,ohio,2002-05-07,p,np,congress,2002-05-07-p-OH,OH
+360,oklahoma,2002-08-27,p,np,congress,2002-08-27-p-OK,OK
+361,oregon,2002-05-21,p,np,congress,2002-05-21-p-OR,OR
+362,pennsylvania,2002-05-21,p,np,congress,2002-05-21-p-PA,PA
+363,rhode island,2002-09-10,p,np,congress,2002-09-10-p-RI,RI
+364,south carolina,2002-06-11,p,np,congress,2002-06-11-p-SC,SC
+365,south dakota,2002-06-04,p,np,congress,2002-06-04-p-SD,SD
+366,tennessee,2002-08-01,p,np,congress,2002-08-01-p-TN,TN
+367,texas,2002-03-12,p,np,congress,2002-03-12-p-TX,TX
+368,utah,2002-06-25,p,np,congress,2002-06-25-p-UT,UT
+369,vermont,2002-09-10,p,np,congress,2002-09-10-p-VT,VT
+370,virginia,2002-06-11,p,np,congress,2002-06-11-p-VA,VA
+371,virgin islands,2002-09-14,p,np,congress,2002-09-14-p-VI,VI
+372,washington,2002-09-17,p,np,congress,2002-09-17-p-WA,WA
+373,west virginia,2002-05-14,p,np,congress,2002-05-14-p-WV,WV
+374,wisconsin,2002-09-10,p,np,congress,2002-09-10-p-WI,WI
+375,wyoming,2002-08-20,p,np,congress,2002-08-20-p-WY,WY
+376,texas,2006-03-07,p,np,congress,2006-03-07-p-TX,TX
+377,illinois,2006-03-21,p,np,congress,2006-03-21-p-IL,IL
+378,indiana,2006-05-02,p,np,congress,2006-05-02-p-IN,IN
+379,north carolina,2006-05-02,p,np,congress,2006-05-02-p-NC,NC
+380,ohio,2006-05-02,p,np,congress,2006-05-02-p-OH,OH
+381,nebraska,2006-05-09,p,np,congress,2006-05-09-p-NE,NE
+382,west virginia,2006-05-09,p,np,congress,2006-05-09-p-WV,WV
+383,kentucky,2006-05-16,p,np,congress,2006-05-16-p-KY,KY
+384,oregon,2006-05-16,p,np,congress,2006-05-16-p-OR,OR
+385,pennsylvania,2006-05-16,p,np,congress,2006-05-16-p-PA,PA
+386,arkansas,2006-05-23,p,np,congress,2006-05-23-p-AR,AR
+387,idaho,2006-05-23,p,np,congress,2006-05-23-p-ID,ID
+388,alabama,2006-06-06,p,np,congress,2006-06-06-p-AL,AL
+389,california,2006-06-06,p,np,congress,2006-06-06-p-CA,CA
+390,iowa,2006-06-06,p,np,congress,2006-06-06-p-IA,IA
+391,mississippi,2006-06-06,p,np,congress,2006-06-06-p-MS,MS
+392,montana,2006-06-06,p,np,congress,2006-06-06-p-MT,MT
+393,new jersey,2006-06-06,p,np,congress,2006-06-06-p-NJ,NJ
+394,new mexico,2006-06-06,p,np,congress,2006-06-06-p-NM,NM
+395,south dakota,2006-06-06,p,np,congress,2006-06-06-p-SD,SD
+396,maine,2006-06-13,p,np,congress,2006-06-13-p-ME,ME
+397,north dakota,2006-06-13,p,np,congress,2006-06-13-p-ND,ND
+398,south carolina,2006-06-13,p,np,congress,2006-06-13-p-SC,SC
+399,virginia,2006-06-13,p,np,congress,2006-06-13-p-VA,VA
+400,utah,2006-06-27,p,np,congress,2006-06-27-p-UT,UT
+401,georgia,2006-07-18,p,np,congress,2006-07-18-p-GA,GA
+402,oklahoma,2006-07-25,p,np,congress,2006-07-25-p-OK,OK
+403,kansas,2006-08-01,p,np,congress,2006-08-01-p-KS,KS
+404,tennessee,2006-08-03,p,np,congress,2006-08-03-p-TN,TN
+405,colorado,2006-08-08,p,np,congress,2006-08-08-p-CO,CO
+406,connecticut,2006-08-08,p,np,congress,2006-08-08-p-CT,CT
+407,michigan,2006-08-08,p,np,congress,2006-08-08-p-MI,MI
+408,missouri,2006-08-08,p,np,congress,2006-08-08-p-MO,MO
+409,nevada,2006-08-15,p,np,congress,2006-08-15-p-NV,NV
+410,alaska,2006-08-22,p,np,congress,2006-08-22-p-AK,AK
+411,wyoming,2006-08-22,p,np,congress,2006-08-22-p-WY,WY
+412,guam,2006-09-02,p,np,congress,2006-09-02-p-GU,GU
+413,florida,2006-09-05,p,np,congress,2006-09-05-p-FL,FL
+414,virgin islands,2006-09-09,p,np,congress,2006-09-09-p-VI,VI
+415,florida,2006-08-24,p,np,congress,2006-08-24-p-FL,FL
+416,vermont,2006-08-24,p,np,congress,2006-08-24-p-VT,VT
+417,louisiana,2006-08-28,p,np,congress,2006-08-28-p-LA,LA
+418,guam,2006-09-04,p,np,congress,2006-09-04-p-GU,GU
+419,virgin islands,2006-09-11,p,np,congress,2006-09-11-p-VI,VI
+420,district of columbia,2006-09-14,p,np,congress,2006-09-14-p-DC,DC
+421,delaware,2006-09-14,p,np,congress,2006-09-14-p-DE,DE
+422,maryland,2006-09-14,p,np,congress,2006-09-14-p-MD,MD
+423,massachusetts,2006-09-14,p,np,congress,2006-09-14-p-MA,MA
+424,new hampshire,2006-09-14,p,np,congress,2006-09-14-p-NH,NH
+425,new york,2006-09-14,p,np,congress,2006-09-14-p-NY,NY
+426,rhode island,2006-09-14,p,np,congress,2006-09-14-p-RI,RI
+427,wisconsin,2006-09-14,p,np,congress,2006-09-14-p-WI,WI
+428,hawaii,2006-09-18,p,np,congress,2006-09-18-p-HI,HI
+429,illinois,2010-02-02,p,np,congress,2010-02-02-p-IL,IL
+430,texas,2010-03-21,p,np,congress,2010-03-21-p-TX,TX
+431,indiana,2010-05-01,p,np,congress,2010-05-01-p-IN,IN
+432,ohio,2010-05-04,p,np,congress,2010-05-04-p-OH,OH
+433,north carolina,2010-05-04,p,np,congress,2010-05-04-p-NC,NC
+434,nebraska,2010-05-11,p,np,congress,2010-05-11-p-NE,NE
+435,west virginia,2010-05-11,p,np,congress,2010-05-11-p-WV,WV
+436,kentucky,2010-05-18,p,np,congress,2010-05-18-p-KY,KY
+437,oregon,2010-05-18,p,np,congress,2010-05-18-p-OR,OR
+438,pennsylvania,2010-05-18,p,np,congress,2010-05-18-p-PA,PA
+439,arkansas,2010-05-18,p,np,congress,2010-05-18-p-AR,AR
+440,idaho,2010-05-25,p,np,congress,2010-05-25-p-ID,ID
+441,new mexico,2010-06-01,p,np,congress,2010-06-01-p-NM,NM
+442,mississippi,2010-06-01,p,np,congress,2010-06-01-p-MS,MS
+443,alabama,2010-06-01,p,np,congress,2010-06-01-p-AL,AL
+444,california,2010-06-08,p,np,congress,2010-06-08-p-CA,CA
+445,iowa,2010-06-08,p,np,congress,2010-06-08-p-IA,IA
+446,maine,2010-06-08,p,np,congress,2010-06-08-p-ME,ME
+447,montana,2010-06-08,p,np,congress,2010-06-08-p-MT,MT
+448,nevada,2010-06-08,p,np,congress,2010-06-08-p-NV,NV
+449,new jersey,2010-06-08,p,np,congress,2010-06-08-p-NJ,NJ
+450,north dakota,2010-06-08,p,np,congress,2010-06-08-p-ND,ND
+451,virginia,2010-06-01,p,np,congress,2010-06-01-p-VA,VA
+452,south carolina,2010-06-01,p,np,congress,2010-06-01-p-SC,SC
+453,south dakota,2010-06-08,p,np,congress,2010-06-08-p-SD,SD
+454,utah,2010-06-22,p,np,congress,2010-06-22-p-UT,UT
+455,georgia,2010-07-20,p,np,congress,2010-07-20-p-GA,GA
+456,oklahoma,2010-07-27,p,np,congress,2010-07-27-p-OK,OK
+457,kansas,2010-08-31,p,np,congress,2010-08-31-p-KS,KS
+458,michigan,2010-08-31,p,np,congress,2010-08-31-p-MI,MI
+459,missouri,2010-08-03,p,np,congress,2010-08-03-p-MO,MO
+460,tennessee,2010-08-05,p,np,congress,2010-08-05-p-TN,TN
+461,colorado,2010-08-10,p,np,congress,2010-08-10-p-CO,CO
+462,connecticut,2010-08-10,p,np,congress,2010-08-10-p-CT,CT
+463,minnesota,2010-08-10,p,np,congress,2010-08-10-p-MN,MN
+464,washington,2010-08-17,p,np,congress,2010-08-17-p-WA,WA
+465,wyoming,2010-08-17,p,np,congress,2010-08-17-p-WY,WY
+466,alaska,2010-08-24,p,np,congress,2010-08-24-p-AK,AK
+467,arizona,2010-08-24,p,np,congress,2010-08-24-p-AZ,AZ
+468,florida,2010-08-24,p,np,congress,2010-08-24-p-FL,FL
+469,vermont,2010-08-24,p,np,congress,2010-08-24-p-VT,VT
+470,louisiana,2010-08-28,p,np,congress,2010-08-28-p-LA,LA
+471,guam,2010-09-04,p,np,congress,2010-09-04-p-GU,GU
+472,virgin islands,2010-09-11,p,np,congress,2010-09-11-p-VI,VI
+473,district of columbia,2010-09-14,p,np,congress,2010-09-14-p-DC,DC
+474,delaware,2010-09-14,p,np,congress,2010-09-14-p-DE,DE
+475,maryland,2010-09-14,p,np,congress,2010-09-14-p-MD,MD
+476,massachusetts,2010-09-14,p,np,congress,2010-09-14-p-MA,MA
+477,new hampshire,2010-09-14,p,np,congress,2010-09-14-p-NH,NH
+478,new york,2010-09-14,p,np,congress,2010-09-14-p-NY,NY
+479,rhode island,2010-09-14,p,np,congress,2010-09-14-p-RI,RI
+480,wisconsin,2010-09-14,p,np,congress,2010-09-14-p-WI,WI
+481,hawaii,2010-09-18,p,np,congress,2010-09-18-p-HI,HI
+482,texas,2014-03-04,p,np,congress,2014-03-04-p-TX,TX
+483,illinois,2014-03-18,p,np,congress,2014-03-18-p-IL,IL
+484,district of columbia,2014-04-01,p,np,congress,2014-04-01-p-DC,DC
+485,indiana,2014-05-06,p,np,congress,2014-05-06-p-IN,IN
+486,north carolina,2014-05-06,p,np,congress,2014-05-06-p-NC,NC
+487,ohio,2014-05-06,p,np,congress,2014-05-06-p-OH,OH
+488,nebraska,2014-05-13,p,np,congress,2014-05-13-p-NE,NE
+489,west virginia,2014-05-13,p,np,congress,2014-05-13-p-WV,WV
+490,arkansas,2014-05-20,p,np,congress,2014-05-20-p-AR,AR
+491,georgia,2014-05-20,p,np,congress,2014-05-20-p-GA,GA
+492,idaho,2014-05-20,p,np,congress,2014-05-20-p-ID,ID
+493,kentucky,2014-05-20,p,np,congress,2014-05-20-p-KY,KY
+494,oregon,2014-05-20,p,np,congress,2014-05-20-p-OR,OR
+495,pennsylvania,2014-05-20,p,np,congress,2014-05-20-p-PA,PA
+496,alabama,2014-06-03,p,np,congress,2014-06-03-p-AL,AL
+497,california,2014-06-03,p,np,congress,2014-06-03-p-CA,CA
+498,iowa,2014-06-03,p,np,congress,2014-06-03-p-IA,IA
+499,mississippi,2014-06-03,p,np,congress,2014-06-03-p-MS,MS
+500,montana,2014-06-03,p,np,congress,2014-06-03-p-MT,MT
+501,new jersey,2014-06-03,p,np,congress,2014-06-03-p-NJ,NJ
+502,new mexico,2014-06-03,p,np,congress,2014-06-03-p-NM,NM
+503,south dakota,2014-06-03,p,np,congress,2014-06-03-p-SD,SD
+504,maine,2014-06-10,p,np,congress,2014-06-10-p-ME,ME
+505,nevada,2014-06-10,p,np,congress,2014-06-10-p-NV,NV
+506,north dakota,2014-06-10,p,np,congress,2014-06-10-p-ND,ND
+507,south carolina,2014-06-10,p,np,congress,2014-06-10-p-SC,SC
+508,virginia,2014-06-10,p,np,congress,2014-06-10-p-VA,VA
+509,colorado,2014-06-24,p,np,congress,2014-06-24-p-CO,CO
+510,maryland,2014-06-24,p,np,congress,2014-06-24-p-MD,MD
+511,new york,2014-06-24,p,np,congress,2014-06-24-p-NY,NY
+512,oklahoma,2014-06-24,p,np,congress,2014-06-24-p-OK,OK
+513,utah,2014-06-24,p,np,congress,2014-06-24-p-UT,UT
+514,virgin islands,2014-08-02,p,np,congress,2014-08-02-p-VI,VI
+515,kansas,2014-08-05,p,np,congress,2014-08-05-p-KS,KS
+516,michigan,2014-08-05,p,np,congress,2014-08-05-p-MI,MI
+517,missouri,2014-08-05,p,np,congress,2014-08-05-p-MO,MO
+518,washington,2014-08-05,p,np,congress,2014-08-05-p-WA,WA
+519,tennessee,2014-08-07,p,np,congress,2014-08-07-p-TN,TN
+520,hawaii,2014-08-09,p,np,congress,2014-08-09-p-HI,HI
+521,connecticut,2014-08-12,p,np,congress,2014-08-12-p-CT,CT
+522,minnesota,2014-08-12,p,np,congress,2014-08-12-p-MN,MN
+523,wisconsin,2014-08-12,p,np,congress,2014-08-12-p-WI,WI
+524,wisconsin,2014-08-14,p,np,congress,2014-08-14-p-WI,WI
+525,alaska,2014-08-21,p,np,congress,2014-08-21-p-AK,AK
+526,wyoming,2014-08-21,p,np,congress,2014-08-21-p-WY,WY
+527,guam,2014-08-25,p,np,congress,2014-08-25-p-GU,GU
+528,arizona,2014-08-28,p,np,congress,2014-08-28-p-AZ,AZ
+529,florida,2014-08-28,p,np,congress,2014-08-28-p-FL,FL
+530,massachusetts,2014-09-04,p,np,congress,2014-09-04-p-MA,MA
+531,delaware,2014-09-06,p,np,congress,2014-09-06-p-DE,DE
+532,new hampshire,2014-09-11,p,np,congress,2014-09-11-p-NH,NH
+533,rhode island,2014-09-12,p,np,congress,2014-09-12-p-RI,RI
+534,texas,2018-03-06,p,np,congress,2018-03-06-p-TX,TX
+535,illinois,2018-03-20,p,np,congress,2018-03-20-p-IL,IL
+536,indiana,2018-05-08,p,np,congress,2018-05-08-p-IN,IN
+537,north carolina,2018-05-08,p,np,congress,2018-05-08-p-NC,NC
+538,ohio,2018-05-08,p,np,congress,2018-05-08-p-OH,OH
+539,west virginia,2018-05-08,p,np,congress,2018-05-08-p-WV,WV
+540,idaho,2018-05-15,p,np,congress,2018-05-15-p-ID,ID
+541,nebraska,2018-05-15,p,np,congress,2018-05-15-p-NE,NE
+542,oregon,2018-05-15,p,np,congress,2018-05-15-p-OR,OR
+543,pennsylvania,2018-05-15,p,np,congress,2018-05-15-p-PA,PA
+544,arkansas,2018-05-22,p,np,congress,2018-05-22-p-AR,AR
+545,georgia,2018-05-22,p,np,congress,2018-05-22-p-GA,GA
+546,kentucky,2018-05-22,p,np,congress,2018-05-22-p-KY,KY
+547,alabama,2018-06-05,p,np,congress,2018-06-05-p-AL,AL
+548,california,2018-06-05,p,np,congress,2018-06-05-p-CA,CA
+549,iowa,2018-06-05,p,np,congress,2018-06-05-p-IA,IA
+550,mississippi,2018-06-05,p,np,congress,2018-06-05-p-MS,MS
+551,montana,2018-06-05,p,np,congress,2018-06-05-p-MT,MT
+552,new jersey,2018-06-05,p,np,congress,2018-06-05-p-NJ,NJ
+553,new mexico,2018-06-05,p,np,congress,2018-06-05-p-NM,NM
+554,south dakota,2018-06-05,p,np,congress,2018-06-05-p-SD,SD
+555,maine,2018-06-12,p,np,congress,2018-06-12-p-ME,ME
+556,nevada,2018-06-12,p,np,congress,2018-06-12-p-NV,NV
+557,north dakota,2018-06-12,p,np,congress,2018-06-12-p-ND,ND
+558,south carolina,2018-06-12,p,np,congress,2018-06-12-p-SC,SC
+559,virginia,2018-06-12,p,np,congress,2018-06-12-p-VA,VA
+560,district of columbia,2018-06-19,p,np,congress,2018-06-19-p-DC,DC
+561,colorado,2018-06-26,p,np,congress,2018-06-26-p-CO,CO
+562,maryland,2018-06-26,p,np,congress,2018-06-26-p-MD,MD
+563,new york,2018-06-26,p,np,congress,2018-06-26-p-NY,NY
+564,oklahoma,2018-06-26,p,np,congress,2018-06-26-p-OK,OK
+565,utah,2018-06-26,p,np,congress,2018-06-26-p-UT,UT
+566,tennessee,2018-08-02,p,np,congress,2018-08-02-p-TN,TN
+567,virgin islands,2018-08-04,p,np,congress,2018-08-04-p-VI,VI
+568,kansas,2018-08-07,p,np,congress,2018-08-07-p-KS,KS
+569,michigan,2018-08-07,p,np,congress,2018-08-07-p-MI,MI
+570,missouri,2018-08-07,p,np,congress,2018-08-07-p-MO,MO
+571,washington,2018-08-07,p,np,congress,2018-08-07-p-WA,WA
+572,hawaii,2018-08-11,p,np,congress,2018-08-11-p-HI,HI
+573,connecticut,2018-08-14,p,np,congress,2018-08-14-p-CT,CT
+574,minnesota,2018-08-14,p,np,congress,2018-08-14-p-MN,MN
+575,vermont,2018-08-14,p,np,congress,2018-08-14-p-VT,VT
+576,wisconsin,2018-08-14,p,np,congress,2018-08-14-p-WI,WI
+577,alaska,2018-08-21,p,np,congress,2018-08-21-p-AK,AK
+578,wyoming,2018-08-21,p,np,congress,2018-08-21-p-WY,WY
+579,guam,2018-08-25,p,np,congress,2018-08-25-p-GU,GU
+580,arizona,2018-08-28,p,np,congress,2018-08-28-p-AZ,AZ
+581,florida,2018-08-28,p,np,congress,2018-08-28-p-FL,FL
+582,massachusetts,2018-09-04,p,np,congress,2018-09-04-p-MA,MA
+583,delaware,2018-09-06,p,np,congress,2018-09-06-p-DE,DE
+584,new hampshire,2018-09-11,p,np,congress,2018-09-11-p-NH,NH
+585,rhode island,2018-09-12,p,np,congress,2018-09-12-p-RI,RI
+4,mississippi,2000-03-30,pr,np,congress,2000-03-30-pr-MS,MS
+5,texas,2000-04-13,pr,np,congress,2000-04-13-pr-TX,TX
+11,arkansas,2000-06-08,pr,np,congress,2000-06-08-pr-AR,AR
+15,alabama,2000-06-29,pr,np,congress,2000-06-29-pr-AL,AL
+17,south dakota,2000-06-15,pr,np,congress,2000-06-15-pr-SD,SD
+23,south carolina,2000-06-22,pr,np,congress,2000-06-22-pr-SC,SC
+26,georgia,2000-08-10,pr,np,congress,2000-08-10-pr-GA,GA
+27,north carolina,2000-08-17,pr,np,congress,2000-08-17-pr-NC,NC
+28,oklahoma,2000-08-24,pr,np,congress,2000-08-24-pr-OK,OK
+42,virgin islands,2000-09-25,pr,np,congress,2000-09-25-pr-VI,VI
+53,american samoa,2000-11-16,pr,np,congress,2000-11-16-pr-AS,AS
+58,mississippi,2004-03-30,pr,np,congress,2004-03-30-pr-MS,MS
+59,texas,2004-04-13,pr,np,congress,2004-04-13-pr-TX,TX
+65,arkansas,2004-06-08,pr,np,congress,2004-06-08-pr-AR,AR
+69,alabama,2004-06-29,pr,np,congress,2004-06-29-pr-AL,AL
+71,south dakota,2004-06-15,pr,np,congress,2004-06-15-pr-SD,SD
+77,south carolina,2004-06-22,pr,np,congress,2004-06-22-pr-SC,SC
+80,georgia,2004-08-10,pr,np,congress,2004-08-10-pr-GA,GA
+81,north carolina,2004-08-17,pr,np,congress,2004-08-17-pr-NC,NC
+82,oklahoma,2004-08-24,pr,np,congress,2004-08-24-pr-OK,OK
+96,virgin islands,2004-09-25,pr,np,congress,2004-09-25-pr-VI,VI
+107,american samoa,2004-11-16,pr,np,congress,2004-11-16-pr-AS,AS
+111,texas,2008-04-08,pr,np,congress,2008-04-08-pr-TX,TX
+113,mississippi,2008-04-01,pr,np,congress,2008-04-01-pr-MS,MS
+116,north carolina,2008-06-24,pr,np,congress,2008-06-24-pr-NC,NC
+121,arkansas,2008-06-10,pr,np,congress,2008-06-10-pr-AR,AR
+128,south dakota,2008-06-17,pr,np,congress,2008-06-17-pr-SD,SD
+129,alabama,2008-07-15,pr,np,congress,2008-07-15-pr-AL,AL
+133,south carolina,2008-06-24,pr,np,congress,2008-06-24-pr-SC,SC
+135,georgia,2008-08-05,pr,np,congress,2008-08-05-pr-GA,GA
+136,oklahoma,2008-08-26,pr,np,congress,2008-08-26-pr-OK,OK
+150,louisiana,2008-10-04,pr,np,congress,2008-10-04-pr-LA,LA
+164,alabama,2012-04-24,pr,np,congress,2012-04-24-pr-AL,AL
+165,mississippi,2012-04-03,pr,np,congress,2012-04-03-pr-MS,MS
+172,north carolina,2012-07-17,pr,np,congress,2012-07-17-pr-NC,NC
+177,arkansas,2012-06-12,pr,np,congress,2012-06-12-pr-AR,AR
+179,texas,2012-07-31,pr,np,congress,2012-07-31-pr-TX,TX
+185,south dakota,2012-06-26,pr,np,congress,2012-06-26-pr-SD,SD
+189,south carolina,2012-06-26,pr,np,congress,2012-06-26-pr-SC,SC
+193,oklahoma,2012-08-28,pr,np,congress,2012-08-28-pr-OK,OK
+195,georgia,2012-08-21,pr,np,congress,2012-08-21-pr-GA,GA
+212,virgin islands,2012-09-22,pr,np,congress,2012-09-22-pr-VI,VI
+216,arkansas,2016-03-22,pr,np,congress,2016-03-22-pr-AR,AR
+217,alabama,2016-04-12,pr,np,congress,2016-04-12-pr-AL,AL
+218,texas,2016-05-24,pr,np,congress,2016-05-24-pr-TX,TX
+219,mississippi,2016-03-29,pr,np,congress,2016-03-29-pr-MS,MS
+231,georgia,2016-07-26,pr,np,congress,2016-07-26-pr-GA,GA
+239,south dakota,2016-08-16,pr,np,congress,2016-08-16-pr-SD,SD
+244,south carolina,2016-06-28,pr,np,congress,2016-06-28-pr-SC,SC
+248,oklahoma,2016-08-23,pr,np,congress,2016-08-23-pr-OK,OK
+255,virgin islands,2016-08-27,pr,np,congress,2016-08-27-pr-VI,VI
+270,alabama,2020-07-14,pr,np,congress,2020-07-14-pr-AL,AL
+271,arkansas,2020-03-31,pr,np,congress,2020-03-31-pr-AR,AR
+273,north carolina,2020-06-23,pr,np,congress,2020-06-23-pr-NC,NC
+274,texas,2020-07-14,pr,np,congress,2020-07-14-pr-TX,TX
+275,mississippi,2020-06-23,pr,np,congress,2020-06-23-pr-MS,MS
+288,south dakota,2020-08-11,pr,np,congress,2020-08-11-pr-SD,SD
+289,georgia,2020-08-11,pr,np,congress,2020-08-11-pr-GA,GA
+292,south carolina,2020-06-23,pr,np,congress,2020-06-23-pr-SC,SC
+298,oklahoma,2020-08-25,pr,np,congress,2020-08-25-pr-OK,OK
+323,alabama,2002-06-25,pr,np,congress,2002-06-25-pr-AL,AL
+325,american samoa,2002-11-19,pr,np,congress,2002-11-19-pr-AS,AS
+327,arkansas,2002-06-11,pr,np,congress,2002-06-11-pr-AR,AR
+334,georgia,2002-09-10,pr,np,congress,2002-09-10-pr-GA,GA
+348,mississippi,2002-06-25,pr,np,congress,2002-06-25-pr-MS,MS
+360,oklahoma,2002-09-17,pr,np,congress,2002-09-17-pr-OK,OK
+364,south carolina,2002-06-25,pr,np,congress,2002-06-25-pr-SC,SC
+365,south dakota,2002-06-18,pr,np,congress,2002-06-18-pr-SD,SD
+367,texas,2002-04-09,pr,np,congress,2002-04-09-pr-TX,TX
+376,texas,2006-04-11,pr,np,congress,2006-04-11-pr-TX,TX
+379,north carolina,2006-05-30,pr,np,congress,2006-05-30-pr-NC,NC
+386,arkansas,2006-06-13,pr,np,congress,2006-06-13-pr-AR,AR
+388,alabama,2006-07-18,pr,np,congress,2006-07-18-pr-AL,AL
+391,mississippi,2006-06-27,pr,np,congress,2006-06-27-pr-MS,MS
+395,south dakota,2006-06-20,pr,np,congress,2006-06-20-pr-SD,SD
+398,south carolina,2006-06-27,pr,np,congress,2006-06-27-pr-SC,SC
+401,georgia,2006-08-08,pr,np,congress,2006-08-08-pr-GA,GA
+402,oklahoma,2006-08-22,pr,np,congress,2006-08-22-pr-OK,OK
+417,louisiana,2006-10-02,pr,np,congress,2006-10-02-pr-LA,LA
+430,texas,2010-04-13,pr,np,congress,2010-04-13-pr-TX,TX
+433,north carolina,2010-06-22,pr,np,congress,2010-06-22-pr-NC,NC
+439,arkansas,2010-06-08,pr,np,congress,2010-06-08-pr-AR,AR
+442,mississippi,2010-06-22,pr,np,congress,2010-06-22-pr-MS,MS
+443,alabama,2010-07-13,pr,np,congress,2010-07-13-pr-AL,AL
+452,south carolina,2010-06-22,pr,np,congress,2010-06-22-pr-SC,SC
+453,south dakota,2010-06-29,pr,np,congress,2010-06-29-pr-SD,SD
+455,georgia,2010-08-10,pr,np,congress,2010-08-10-pr-GA,GA
+456,oklahoma,2010-08-24,pr,np,congress,2010-08-24-pr-OK,OK
+470,louisiana,2010-10-02,pr,np,congress,2010-10-02-pr-LA,LA
+482,texas,2014-05-27,pr,np,congress,2014-05-27-pr-TX,TX
+486,north carolina,2014-07-15,pr,np,congress,2014-07-15-pr-NC,NC
+490,arkansas,2014-06-10,pr,np,congress,2014-06-10-pr-AR,AR
+491,georgia,2014-07-22,pr,np,congress,2014-07-22-pr-GA,GA
+496,alabama,2014-07-15,pr,np,congress,2014-07-15-pr-AL,AL
+499,mississippi,2014-06-24,pr,np,congress,2014-06-24-pr-MS,MS
+503,south dakota,2014-08-12,pr,np,congress,2014-08-12-pr-SD,SD
+507,south carolina,2014-06-24,pr,np,congress,2014-06-24-pr-SC,SC
+512,oklahoma,2014-08-26,pr,np,congress,2014-08-26-pr-OK,OK
+534,texas,2018-05-22,pr,np,congress,2018-05-22-pr-TX,TX
+537,north carolina,2018-07-17,pr,np,congress,2018-07-17-pr-NC,NC
+544,arkansas,2018-06-19,pr,np,congress,2018-06-19-pr-AR,AR
+545,georgia,2018-07-24,pr,np,congress,2018-07-24-pr-GA,GA
+547,alabama,2018-07-17,pr,np,congress,2018-07-17-pr-AL,AL
+550,mississippi,2018-06-26,pr,np,congress,2018-06-26-pr-MS,MS
+554,south dakota,2018-08-14,pr,np,congress,2018-08-14-pr-SD,SD
+558,south carolina,2018-06-26,pr,np,congress,2018-06-26-pr-SC,SC
+564,oklahoma,2018-08-28,pr,np,congress,2018-08-28-pr-OK,OK
+0,alabama,2000-06-06,pp,np,president,2000-06-06-pp-AL,AL
+5,arizona,2000-02-22,pp,np,president,2000-02-22-pp-AZ,AZ
+6,arizona,2000-03-11,pp,democratic,president,2000-03-11-pp-AZ,AZ
+7,arkansas,2000-05-23,pp,np,president,2000-05-23-pp-AR,AR
+8,california,2000-03-07,pp,np,president,2000-03-07-pp-CA,CA
+9,colorado,2000-03-10,pp,np,president,2000-03-10-pp-CO,CO
+10,connecticut,2000-03-07,pp,np,president,2000-03-07-pp-CT,CT
+11,delaware,2000-02-05,pp,np,president,2000-02-05-pp-DE,DE
+12,delaware,2000-02-08,pp,republican,president,2000-02-08-pp-DE,DE
+13,district of columbia,2000-05-02,pp,np,president,2000-05-02-pp-DC,DC
+14,florida,2000-03-14,pp,np,president,2000-03-14-pp-FL,FL
+15,georgia,2000-03-07,pp,np,president,2000-03-07-pp-GA,GA
+20,idaho,2000-05-23,pp,np,president,2000-05-23-pp-ID,ID
+21,illinois,2000-03-21,pp,np,president,2000-03-21-pp-IL,IL
+22,indiana,2000-05-02,pp,np,president,2000-05-02-pp-IN,IN
+26,kentucky,2000-05-23,pp,np,president,2000-05-23-pp-KY,KY
+27,louisiana,2000-03-14,pp,np,president,2000-03-14-pp-LA,LA
+28,maine,2000-03-07,pp,np,president,2000-03-07-pp-ME,ME
+29,maryland,2000-03-07,pp,np,president,2000-03-07-pp-MD,MD
+30,massachusetts,2000-03-07,pp,np,president,2000-03-07-pp-MA,MA
+31,michigan,2000-02-22,pp,np,president,2000-02-22-pp-MI,MI
+33,mississippi,2000-03-14,pp,np,president,2000-03-14-pp-MS,MS
+34,missouri,2000-03-07,pp,np,president,2000-03-07-pp-MO,MO
+35,montana,2000-06-06,pp,np,president,2000-06-06-pp-MT,MT
+36,nebraska,2000-05-09,pp,np,president,2000-05-09-pp-NE,NE
+39,new hampshire,2000-02-01,pp,np,president,2000-02-01-pp-NH,NH
+40,new jersey,2000-06-06,pp,np,president,2000-06-06-pp-NJ,NJ
+41,new mexico,2000-06-06,pp,np,president,2000-06-06-pp-NM,NM
+42,new york,2000-03-07,pp,np,president,2000-03-07-pp-NY,NY
+43,north carolina,2000-05-02,pp,np,president,2000-05-02-pp-NC,NC
+46,ohio,2000-03-07,pp,np,president,2000-03-07-pp-OH,OH
+47,oklahoma,2000-03-14,pp,np,president,2000-03-14-pp-OK,OK
+48,oregon,2000-05-16,pp,np,president,2000-05-16-pp-OR,OR
+49,pennsylvania,2000-04-04,pp,np,president,2000-04-04-pp-PA,PA
+50,puerto rico,2000-02-27,pp,republican,president,2000-02-27-pp-PR,PR
+51,rhode island,2000-03-07,pp,np,president,2000-03-07-pp-RI,RI
+52,south carolina,2000-02-19,pp,republican,president,2000-02-19-pp-SC,SC
+53,south dakota,2000-06-06,pp,np,president,2000-06-06-pp-SD,SD
+54,tennessee,2000-03-14,pp,np,president,2000-03-14-pp-TN,TN
+55,texas,2000-03-14,pp,np,president,2000-03-14-pp-TX,TX
+56,utah,2000-03-10,pp,np,president,2000-03-10-pp-UT,UT
+57,vermont,2000-03-07,pp,np,president,2000-03-07-pp-VT,VT
+58,virginia,2000-02-29,pp,republican,president,2000-02-29-pp-VA,VA
+61,washington,2000-02-29,pp,np,president,2000-02-29-pp-WA,WA
+62,west virginia,2000-05-09,pp,np,president,2000-05-09-pp-WV,WV
+63,wisconsin,2000-04-04,pp,np,president,2000-04-04-pp-WI,WI
+66,district of columbia,2004-01-13,pp,np,president,2004-01-13-pp-DC,DC
+68,new hampshire,2004-01-27,pp,np,president,2004-01-27-pp-NH,NH
+69,arizona,2004-02-03,pp,democratic,president,2004-02-03-pp-AZ,AZ
+70,delaware,2004-02-03,pp,democratic,president,2004-02-03-pp-DE,DE
+71,missouri,2004-02-03,pp,np,president,2004-02-03-pp-MO,MO
+74,oklahoma,2004-02-03,pp,np,president,2004-02-03-pp-OK,OK
+75,south carolina,2004-02-03,pp,democratic,president,2004-02-03-pp-SC,SC
+80,tennessee,2004-02-10,pp,np,president,2004-02-10-pp-TN,TN
+81,virginia,2004-02-10,pp,democratic,president,2004-02-10-pp-VA,VA
+84,wisconsin,2004-02-17,pp,np,president,2004-02-17-pp-WI,WI
+88,utah,,pp,np,president,,UT
+91,california,2004-03-02,pp,np,president,2004-03-02-pp-CA,CA
+92,connecticut,2004-03-02,pp,np,president,2004-03-02-pp-CT,CT
+93,georgia,2004-03-02,pp,np,president,2004-03-02-pp-GA,GA
+94,maryland,2004-03-02,pp,np,president,2004-03-02-pp-MD,MD
+95,massachusetts,2004-03-02,pp,np,president,2004-03-02-pp-MA,MA
+97,new york,2004-03-02,pp,np,president,2004-03-02-pp-NY,NY
+98,ohio,2004-03-02,pp,np,president,2004-03-02-pp-OH,OH
+99,rhode island,2004-03-02,pp,np,president,2004-03-02-pp-RI,RI
+100,vermont,2004-03-02,pp,np,president,2004-03-02-pp-VT,VT
+102,florida,2004-03-09,pp,np,president,2004-03-09-pp-FL,FL
+103,louisiana,2004-03-09,pp,np,president,2004-03-09-pp-LA,LA
+104,mississippi,2004-03-09,pp,np,president,2004-03-09-pp-MS,MS
+105,texas,2004-03-09,pp,np,president,2004-03-09-pp-TX,TX
+108,illinois,2004-03-16,pp,np,president,2004-03-16-pp-IL,IL
+117,pennsylvania,2004-04-27,pp,np,president,2004-04-27-pp-PA,PA
+119,indiana,2004-05-04,pp,np,president,2004-05-04-pp-IN,IN
+123,nebraska,2004-05-11,pp,np,president,2004-05-11-pp-NE,NE
+124,west virginia,2004-05-11,pp,np,president,2004-05-11-pp-WV,WV
+127,arkansas,2004-05-18,pp,np,president,2004-05-18-pp-AR,AR
+128,kentucky,2004-05-18,pp,np,president,2004-05-18-pp-KY,KY
+129,oregon,2004-05-18,pp,np,president,2004-05-18-pp-OR,OR
+133,idaho,2004-05-25,pp,np,president,2004-05-25-pp-ID,ID
+134,alabama,2004-06-01,pp,np,president,2004-06-01-pp-AL,AL
+135,new mexico,2004-06-01,pp,np,president,2004-06-01-pp-NM,NM
+136,south dakota,2004-06-01,pp,np,president,2004-06-01-pp-SD,SD
+140,montana,2004-06-08,pp,np,president,2004-06-08-pp-MT,MT
+141,new jersey,2004-06-08,pp,np,president,2004-06-08-pp-NJ,NJ
+144,new hampshire,2008-01-08,pp,np,president,2008-01-08-pp-NH,NH
+145,michigan,2008-01-15,pp,np,president,2008-01-15-pp-MI,MI
+147,south carolina,2008-01-19,pp,republican,president,2008-01-19-pp-SC,SC
+148,south carolina,2008-01-26,pp,democratic,president,2008-01-26-pp-SC,SC
+149,florida,2008-01-29,pp,np,president,2008-01-29-pp-FL,FL
+151,alabama,2008-02-05,pp,np,president,2008-02-05-pp-AL,AL
+154,arizona,2008-02-05,pp,np,president,2008-02-05-pp-AZ,AZ
+155,arkansas,2008-02-05,pp,np,president,2008-02-05-pp-AR,AR
+156,california,2008-02-05,pp,np,president,2008-02-05-pp-CA,CA
+158,connecticut,2008-02-05,pp,np,president,2008-02-05-pp-CT,CT
+159,delaware,2008-02-05,pp,np,president,2008-02-05-pp-DE,DE
+160,georgia,2008-02-05,pp,np,president,2008-02-05-pp-GA,GA
+162,illinois,2008-02-05,pp,np,president,2008-02-05-pp-IL,IL
+164,massachusetts,2008-02-05,pp,np,president,2008-02-05-pp-MA,MA
+166,missouri,2008-02-05,pp,np,president,2008-02-05-pp-MO,MO
+167,new jersey,2008-02-05,pp,np,president,2008-02-05-pp-NJ,NJ
+169,new york,2008-02-05,pp,np,president,2008-02-05-pp-NY,NY
+171,oklahoma,2008-02-05,pp,np,president,2008-02-05-pp-OK,OK
+172,tennessee,2008-02-05,pp,np,president,2008-02-05-pp-TN,TN
+173,utah,2008-02-05,pp,np,president,2008-02-05-pp-UT,UT
+176,louisiana,2008-02-09,pp,np,president,2008-02-09-pp-LA,LA
+181,district of columbia,2008-02-12,pp,np,president,2008-02-12-pp-DC,DC
+182,maryland,2008-02-12,pp,np,president,2008-02-12-pp-MD,MD
+183,virginia,2008-02-12,pp,np,president,2008-02-12-pp-VA,VA
+185,washington,2008-02-19,pp,np,president,2008-02-19-pp-WA,WA
+186,wisconsin,2008-02-19,pp,np,president,2008-02-19-pp-WI,WI
+189,ohio,2008-03-04,pp,np,president,2008-03-04-pp-OH,OH
+190,rhode island,2008-03-04,pp,np,president,2008-03-04-pp-RI,RI
+191,texas,2008-03-04,pp,np,president,2008-03-04-pp-TX,TX
+192,vermont,2008-03-04,pp,np,president,2008-03-04-pp-VT,VT
+195,mississippi,2008-03-11,pp,np,president,2008-03-11-pp-MS,MS
+197,pennsylvania,2008-04-22,pp,np,president,2008-04-22-pp-PA,PA
+199,indiana,2008-05-06,pp,np,president,2008-05-06-pp-IN,IN
+200,north carolina,2008-05-06,pp,np,president,2008-05-06-pp-NC,NC
+201,nebraska,2008-05-13,pp,np,president,2008-05-13-pp-NE,NE
+202,west virginia,2008-05-13,pp,np,president,2008-05-13-pp-WV,WV
+203,kentucky,2008-05-20,pp,np,president,2008-05-20-pp-KY,KY
+204,oregon,2008-05-20,pp,np,president,2008-05-20-pp-OR,OR
+205,idaho,2008-05-27,pp,np,president,2008-05-27-pp-ID,ID
+206,puerto rico,2008-06-01,pp,democratic,president,2008-06-01-pp-PR,PR
+207,montana,2008-06-03,pp,np,president,2008-06-03-pp-MT,MT
+208,south dakota,2008-06-03,pp,np,president,2008-06-03-pp-SD,SD
+209,new mexico,2008-06-03,pp,republican,president,2008-06-03-pp-NM,NM
+211,new hampshire,2012-01-10,pp,np,president,2012-01-10-pp-NH,NH
+213,south carolina,2012-01-21,pp,republican,president,2012-01-21-pp-SC,SC
+214,south carolina,2012-01-28,pp,democratic,president,2012-01-28-pp-SC,SC
+215,florida,2012-01-31,pp,np,president,2012-01-31-pp-FL,FL
+220,missouri,2012-02-07,pp,np,president,2012-02-07-pp-MO,MO
+221,arizona,2012-02-28,pp,np,president,2012-02-28-pp-AZ,AZ
+222,michigan,2012-02-28,pp,np,president,2012-02-28-pp-MI,MI
+227,georgia,2012-03-06,pp,np,president,2012-03-06-pp-GA,GA
+229,massachusetts,2012-03-06,pp,np,president,2012-03-06-pp-MA,MA
+231,ohio,2012-03-06,pp,np,president,2012-03-06-pp-OH,OH
+232,oklahoma,2012-03-06,pp,np,president,2012-03-06-pp-OK,OK
+233,tennessee,2012-03-06,pp,np,president,2012-03-06-pp-TN,TN
+234,vermont,2012-03-06,pp,np,president,2012-03-06-pp-VT,VT
+235,virginia,2012-03-06,pp,np,president,2012-03-06-pp-VA,VA
+243,alabama,2012-03-13,pp,np,president,2012-03-13-pp-AL,AL
+246,mississippi,2012-03-13,pp,np,president,2012-03-13-pp-MS,MS
+249,puerto rico,2012-03-18,pp,republican,president,2012-03-18-pp-PR,PR
+250,illinois,2012-03-20,pp,np,president,2012-03-20-pp-IL,IL
+251,louisiana,2012-03-24,pp,np,president,2012-03-24-pp-LA,LA
+252,district of columbia,2012-04-03,pp,np,president,2012-04-03-pp-DC,DC
+253,maryland,2012-04-03,pp,np,president,2012-04-03-pp-MD,MD
+254,wisconsin,2012-04-03,pp,np,president,2012-04-03-pp-WI,WI
+261,connecticut,2012-04-24,pp,np,president,2012-04-24-pp-CT,CT
+262,delaware,2012-04-24,pp,np,president,2012-04-24-pp-DE,DE
+263,new york,2012-04-24,pp,np,president,2012-04-24-pp-NY,NY
+264,pennsylvania,2012-04-24,pp,np,president,2012-04-24-pp-PA,PA
+265,rhode island,2012-04-24,pp,np,president,2012-04-24-pp-RI,RI
+267,indiana,2012-05-08,pp,np,president,2012-05-08-pp-IN,IN
+268,north carolina,2012-05-08,pp,np,president,2012-05-08-pp-NC,NC
+269,west virginia,2012-05-08,pp,np,president,2012-05-08-pp-WV,WV
+270,nebraska,2012-05-15,pp,np,president,2012-05-15-pp-NE,NE
+271,oregon,2012-05-15,pp,np,president,2012-05-15-pp-OR,OR
+272,arkansas,2012-05-22,pp,np,president,2012-05-22-pp-AR,AR
+273,kentucky,2012-05-22,pp,np,president,2012-05-22-pp-KY,KY
+274,texas,2012-05-29,pp,np,president,2012-05-29-pp-TX,TX
+277,california,2012-06-05,pp,np,president,2012-06-05-pp-CA,CA
+278,montana,2012-06-05,pp,np,president,2012-06-05-pp-MT,MT
+279,new jersey,2012-06-05,pp,np,president,2012-06-05-pp-NJ,NJ
+280,new mexico,2012-06-05,pp,np,president,2012-06-05-pp-NM,NM
+282,south dakota,2012-06-05,pp,np,president,2012-06-05-pp-SD,SD
+283,utah,2012-06-26,pp,np,president,2012-06-26-pp-UT,UT
+286,new hampshire,2016-02-09,pp,np,president,2016-02-09-pp-NH,NH
+288,south carolina,2016-02-20,pp,republican,president,2016-02-20-pp-SC,SC
+291,south carolina,2016-02-27,pp,democratic,president,2016-02-27-pp-SC,SC
+292,alabama,2016-03-01,pp,np,president,2016-03-01-pp-AL,AL
+295,arkansas,2016-03-01,pp,np,president,2016-03-01-pp-AR,AR
+297,georgia,2016-03-01,pp,np,president,2016-03-01-pp-GA,GA
+298,massachusetts,2016-03-01,pp,np,president,2016-03-01-pp-MA,MA
+300,oklahoma,2016-03-01,pp,np,president,2016-03-01-pp-OK,OK
+301,tennessee,2016-03-01,pp,np,president,2016-03-01-pp-TN,TN
+302,texas,2016-03-01,pp,np,president,2016-03-01-pp-TX,TX
+303,vermont,2016-03-01,pp,np,president,2016-03-01-pp-VT,VT
+304,virginia,2016-03-01,pp,np,president,2016-03-01-pp-VA,VA
+307,louisiana,2016-03-05,pp,np,president,2016-03-05-pp-LA,LA
+311,puerto rico,2016-03-06,pp,republican,president,2016-03-06-pp-PR,PR
+313,idaho,2016-03-08,pp,np,president,2016-03-08-pp-ID,ID
+314,michigan,2016-03-08,pp,np,president,2016-03-08-pp-MI,MI
+315,mississippi,2016-03-08,pp,np,president,2016-03-08-pp-MS,MS
+319,florida,2016-03-15,pp,np,president,2016-03-15-pp-FL,FL
+320,illinois,2016-03-15,pp,np,president,2016-03-15-pp-IL,IL
+321,missouri,2016-03-15,pp,np,president,2016-03-15-pp-MO,MO
+322,north carolina,2016-03-15,pp,np,president,2016-03-15-pp-NC,NC
+324,ohio,2016-03-15,pp,np,president,2016-03-15-pp-OH,OH
+327,arizona,2016-03-22,pp,np,president,2016-03-22-pp-AZ,AZ
+334,wisconsin,2016-04-05,pp,np,president,2016-04-05-pp-WI,WI
+336,new york,2016-04-19,pp,np,president,2016-04-19-pp-NY,NY
+337,connecticut,2016-04-26,pp,np,president,2016-04-26-pp-CT,CT
+338,delaware,2016-04-26,pp,np,president,2016-04-26-pp-DE,DE
+339,maryland,2016-04-26,pp,np,president,2016-04-26-pp-MD,MD
+340,pennsylvania,2016-04-26,pp,np,president,2016-04-26-pp-PA,PA
+341,rhode island,2016-04-26,pp,np,president,2016-04-26-pp-RI,RI
+342,indiana,2016-05-03,pp,np,president,2016-05-03-pp-IN,IN
+344,nebraska,2016-05-10,pp,np,president,2016-05-10-pp-NE,NE
+345,west virginia,2016-05-10,pp,np,president,2016-05-10-pp-WV,WV
+346,kentucky,2016-05-17,pp,np,president,2016-05-17-pp-KY,KY
+347,oregon,2016-05-17,pp,np,president,2016-05-17-pp-OR,OR
+348,washington,2016-05-24,pp,np,president,2016-05-24-pp-WA,WA
+351,puerto rico,2016-06-05,pp,democratic,president,2016-06-05-pp-PR,PR
+352,california,2016-06-07,pp,np,president,2016-06-07-pp-CA,CA
+353,montana,2016-06-07,pp,np,president,2016-06-07-pp-MT,MT
+354,new jersey,2016-06-07,pp,np,president,2016-06-07-pp-NJ,NJ
+355,new mexico,2016-06-07,pp,np,president,2016-06-07-pp-NM,NM
+357,south dakota,2016-06-07,pp,np,president,2016-06-07-pp-SD,SD
+358,district of columbia,2016-06-14,pp,np,president,2016-06-14-pp-DC,DC
+360,new hampshire,2020-02-11,pp,np,president,2020-02-11-pp-NH,NH
+362,south carolina,2020-02-29,pp,democratic,president,2020-02-29-pp-SC,SC
+363,alabama,2020-03-03,pp,np,president,2020-03-03-pp-AL,AL
+365,arkansas,2020-03-03,pp,np,president,2020-03-03-pp-AR,AR
+366,california,2020-03-03,pp,np,president,2020-03-03-pp-CA,CA
+367,colorado,2020-03-03,pp,np,president,2020-03-03-pp-CO,CO
+368,maine,2020-03-03,pp,np,president,2020-03-03-pp-ME,ME
+369,massachusetts,2020-03-03,pp,np,president,2020-03-03-pp-MA,MA
+370,minnesota,2020-03-03,pp,np,president,2020-03-03-pp-MN,MN
+371,north carolina,2020-03-03,pp,np,president,2020-03-03-pp-NC,NC
+372,oklahoma,2020-03-03,pp,np,president,2020-03-03-pp-OK,OK
+373,tennessee,2020-03-03,pp,np,president,2020-03-03-pp-TN,TN
+374,texas,2020-03-03,pp,np,president,2020-03-03-pp-TX,TX
+375,utah,2020-03-03,pp,np,president,2020-03-03-pp-UT,UT
+376,vermont,2020-03-03,pp,np,president,2020-03-03-pp-VT,VT
+377,virginia,2020-03-03,pp,democratic,president,2020-03-03-pp-VA,VA
+379,idaho,2020-03-10,pp,np,president,2020-03-10-pp-ID,ID
+380,michigan,2020-03-10,pp,np,president,2020-03-10-pp-MI,MI
+381,mississippi,2020-03-10,pp,np,president,2020-03-10-pp-MS,MS
+382,missouri,2020-03-10,pp,np,president,2020-03-10-pp-MO,MO
+384,washington,2020-03-10,pp,np,president,2020-03-10-pp-WA,WA
+388,arizona,2020-03-17,pp,np,president,2020-03-17-pp-AZ,AZ
+389,florida,2020-03-17,pp,np,president,2020-03-17-pp-FL,FL
+390,illinois,2020-03-17,pp,np,president,2020-03-17-pp-IL,IL
+391,wisconsin,2020-04-07,pp,np,president,2020-04-07-pp-WI,WI
+392,alaska,,pp,np,president,,AK
+394,ohio,2020-04-28,pp,np,president,2020-04-28-pp-OH,OH
+395,kansas,,pp,np,president,,KS
+397,nebraska,2020-05-12,pp,np,president,2020-05-12-pp-NE,NE
+398,oregon,2020-05-19,pp,np,president,2020-05-19-pp-OR,OR
+400,district of columbia,2020-06-02,pp,np,president,2020-06-02-pp-DC,DC
+401,indiana,2020-06-02,pp,np,president,2020-06-02-pp-IN,IN
+402,maryland,2020-06-02,pp,np,president,2020-06-02-pp-MD,MD
+403,montana,2020-06-02,pp,np,president,2020-06-02-pp-MT,MT
+404,new mexico,2020-06-02,pp,np,president,2020-06-02-pp-NM,NM
+405,pennsylvania,2020-06-02,pp,np,president,2020-06-02-pp-PA,PA
+406,rhode island,2020-06-02,pp,np,president,2020-06-02-pp-RI,RI
+407,south dakota,2020-06-02,pp,np,president,2020-06-02-pp-SD,SD
+410,georgia,2020-06-09,pp,np,president,2020-06-09-pp-GA,GA
+411,west virginia,2020-06-09,pp,np,president,2020-06-09-pp-WV,WV
+412,kentucky,2020-06-23,pp,np,president,2020-06-23-pp-KY,KY
+413,new york,2020-06-23,pp,np,president,2020-06-23-pp-NY,NY
+414,delaware,2020-07-07,pp,np,president,2020-07-07-pp-DE,DE
+415,new jersey,2020-07-07,pp,np,president,2020-07-07-pp-NJ,NJ
+416,louisiana,2020-07-11,pp,np,president,2020-07-11-pp-LA,LA
+417,puerto rico,2020-07-12,pp,democratic,president,2020-07-12-pp-PR,PR
+418,connecticut,2020-08-11,pp,np,president,2020-08-11-pp-CT,CT
+1,alaska,2000-05-19,pcc,republican,president,2000-05-19-pcc-AK,AK
+2,alaska,2000-05-20,pcc,democratic,president,2000-05-20-pcc-AK,AK
+3,american samoa,2000-02-26,pc,np,president,2000-02-26-pc-AS,AS
+4,american samoa,2000-03-07,pc,np,president,2000-03-07-pc-AS,AS
+16,guam,2000-02-26,pc,np,president,2000-02-26-pc-GU,GU
+17,guam,2000-03-18,pc,np,president,2000-03-18-pc-GU,GU
+18,hawaii,2000-03-07,pc,np,president,2000-03-07-pc-HI,HI
+19,hawaii,2000-05-19,pc,np,president,2000-05-19-pc-HI,HI
+23,iowa,2000-01-24,pc,np,president,2000-01-24-pc-IA,IA
+24,kansas,2000-04-22,pc,np,president,2000-04-22-pc-KS,KS
+25,kansas,2000-05-25,pc,np,president,2000-05-25-pc-KS,KS
+31,michigan,2000-03-11,pc,np,president,2000-03-11-pc-MI,MI
+32,minnesota,2000-03-07,pc,np,president,2000-03-07-pc-MN,MN
+37,nevada,2000-05-21,pcc,democratic,president,2000-05-21-pcc-NV,NV
+38,nevada,2000-05-25,pcc,republican,president,2000-05-25-pcc-NV,NV
+44,north dakota,2000-02-29,pc,np,president,2000-02-29-pc-ND,ND
+45,north dakota,2000-03-07,pc,np,president,2000-03-07-pc-ND,ND
+50,puerto rico,2000-04-02,pc,np,president,2000-04-02-pc-PR,PR
+52,south carolina,2000-03-09,pc,np,president,2000-03-09-pc-SC,SC
+58,virginia,2000-06-03,pcc,democratic,president,2000-06-03-pcc-VA,VA
+59,virgin islands,2000-02-26,pc,np,president,2000-02-26-pc-VI,VI
+60,virgin islands,2000-04-01,pc,np,president,2000-04-01-pc-VI,VI
+64,wisconsin,2000-03-10,pc,np,president,2000-03-10-pc-WI,WI
+65,wyoming,2000-03-25,pc,np,president,2000-03-25-pc-WY,WY
+67,iowa,2004-01-19,pc,np,president,2004-01-19-pc-IA,IA
+72,new mexico,2004-02-03,pc,np,president,2004-02-03-pc-NM,NM
+73,north dakota,2004-02-03,pc,np,president,2004-02-03-pc-ND,ND
+76,michigan,2004-02-07,pc,np,president,2004-02-07-pc-MI,MI
+77,washington,2004-02-07,pc,np,president,2004-02-07-pc-WA,WA
+78,maine,2004-02-08,pc,np,president,2004-02-08-pc-ME,ME
+79,district of columbia,2004-02-10,pc,np,president,2004-02-10-pc-DC,DC
+82,district of columbia,2004-02-14,pc,np,president,2004-02-14-pc-DC,DC
+83,nevada,2004-02-14,pc,np,president,2004-02-14-pc-NV,NV
+85,guam,2004-02-21,pcc,republican,president,2004-02-21-pcc-GU,GU
+86,hawaii,2004-02-24,pc,np,president,2004-02-24-pc-HI,HI
+87,idaho,2004-02-24,pc,np,president,2004-02-24-pc-ID,ID
+89,american samoa,2004-02-28,pc,np,president,2004-02-28-pc-AS,AS
+90,virgin islands,2004-02-28,pc,np,president,2004-02-28-pc-VI,VI
+96,minnesota,2004-03-02,pc,np,president,2004-03-02-pc-MN,MN
+101,american samoa,2004-03-08,pc,np,president,2004-03-08-pc-AS,AS
+106,washington,2004-03-09,pc,np,president,2004-03-09-pc-WA,WA
+107,kansas,2004-03-13,pc,np,president,2004-03-13-pc-KS,KS
+109,alaska,2004-03-20,pc,np,president,2004-03-20-pc-AK,AK
+110,guam,2004-03-20,pc,np,president,2004-03-20-pc-GU,GU
+111,wyoming,2004-03-20,pc,np,president,2004-03-20-pc-WY,WY
+112,south carolina,2004-03-27,pcc,republican,president,2004-03-27-pcc-SC,SC
+113,colorado,2004-04-13,pc,np,president,2004-04-13-pc-CO,CO
+114,north carolina,2004-04-17,pc,np,president,2004-04-17-pc-NC,NC
+115,virgin islands,2004-04-17,pc,np,president,2004-04-17-pc-VI,VI
+116,kansas,2004-04-24,pcc,republican,president,2004-04-24-pcc-KS,KS
+118,nevada,2004-05-01,pcc,republican,president,2004-05-01-pcc-NV,NV
+120,arizona,2004-05-08,pc,np,president,2004-05-08-pc-AZ,AZ
+121,utah,2004-05-08,pcc,republican,president,2004-05-08-pcc-UT,UT
+122,wyoming,2004-05-08,pcc,republican,president,2004-05-08-pcc-WY,WY
+125,delaware,2004-05-15,pcc,republican,president,2004-05-15-pcc-DE,DE
+126,maine,2004-05-15,pc,np,president,2004-05-15-pc-ME,ME
+130,alaska,2004-05-22,pcc,republican,president,2004-05-22-pcc-AK,AK
+131,michigan,2004-05-22,pc,np,president,2004-05-22-pc-MI,MI
+132,north carolina,2004-05-23,pcc,republican,president,2004-05-23-pcc-NC,NC
+137,hawaii,2004-06-06,pcc,republican,president,2004-06-06-pcc-HI,HI
+138,virginia,2004-06-05,pcc,republican,president,2004-06-05-pcc-VA,VA
+139,puerto rico,2004-06-06,pc,np,president,2004-06-06-pc-PR,PR
+142,iowa,2008-01-03,pc,np,president,2008-01-03-pc-IA,IA
+143,wyoming,2008-01-05,pcc,republican,president,2008-01-05-pcc-WY,WY
+146,nevada,2008-01-19,pc,np,president,2008-01-19-pc-NV,NV
+150,maine,2008-02-01,pcc,republican,president,2008-02-01-pcc-ME,ME
+152,alaska,2008-02-05,pc,np,president,2008-02-05-pc-AK,AK
+153,american samoa,2008-02-05,pcc,democratic,president,2008-02-05-pcc-AS,AS
+157,colorado,2008-02-05,pc,np,president,2008-02-05-pc-CO,CO
+161,idaho,2008-02-05,pcc,democratic,president,2008-02-05-pcc-ID,ID
+163,kansas,2008-02-05,pcc,democratic,president,2008-02-05-pcc-KS,KS
+165,minnesota,2008-02-05,pc,np,president,2008-02-05-pc-MN,MN
+168,new mexico,2008-02-05,pcc,democratic,president,2008-02-05-pcc-NM,NM
+170,north dakota,2008-02-05,pc,np,president,2008-02-05-pc-ND,ND
+174,hawaii,2008-02-07,pcc,republican,president,2008-02-07-pcc-HI,HI
+175,kansas,2008-02-09,pcc,republican,president,2008-02-09-pcc-KS,KS
+177,nebraska,2008-02-09,pcc,democratic,president,2008-02-09-pcc-NE,NE
+178,virgin islands,2008-02-09,pcc,democratic,president,2008-02-09-pcc-VI,VI
+179,washington,2008-02-09,pc,np,president,2008-02-09-pc-WA,WA
+180,maine,2008-02-10,pcc,democratic,president,2008-02-10-pcc-ME,ME
+184,hawaii,2008-02-19,pcc,democratic,president,2008-02-19-pcc-HI,HI
+187,american samoa,2008-02-23,pcc,republican,president,2008-02-23-pcc-AS,AS
+188,puerto rico,2008-02-24,pcc,republican,president,2008-02-24-pcc-PR,PR
+193,guam,2008-03-08,pcc,republican,president,2008-03-08-pcc-GU,GU
+194,wyoming,2008-03-08,pcc,democratic,president,2008-03-08-pcc-WY,WY
+196,virgin islands,2008-04-05,pcc,republican,president,2008-04-05-pcc-VI,VI
+198,guam,2008-05-03,pcc,democratic,president,2008-05-03-pcc-GU,GU
+210,iowa,2012-01-03,pc,np,president,2012-01-03-pc-IA,IA
+212,nevada,2012-01-21,pcc,democratic,president,2012-01-21-pcc-NV,NV
+216,maine,2012-02-11,pcc,republican,president,2012-02-11-pcc-ME,ME
+217,nevada,2012-02-04,pcc,republican,president,2012-02-04-pcc-NV,NV
+218,minnesota,2012-02-07,pc,np,president,2012-02-07-pc-MN,MN
+219,colorado,2012-02-07,pcc,republican,president,2012-02-07-pcc-CO,CO
+223,washington,2012-03-03,pcc,republican,president,2012-03-03-pcc-WA,WA
+224,alaska,2012-03-06,pcc,republican,president,2012-03-06-pcc-AK,AK
+225,american samoa,2012-03-06,pcc,democratic,president,2012-03-06-pcc-AS,AS
+226,colorado,2012-03-06,pcc,democratic,president,2012-03-06-pcc-CO,CO
+228,idaho,2012-03-06,pcc,republican,president,2012-03-06-pcc-ID,ID
+230,north dakota,2012-03-06,pcc,republican,president,2012-03-06-pcc-ND,ND
+236,wyoming,2012-03-10,pcc,republican,president,2012-03-10-pcc-WY,WY
+237,hawaii,2012-03-07,pcc,democratic,president,2012-03-07-pcc-HI,HI
+238,guam,2012-03-10,pcc,republican,president,2012-03-10-pcc-GU,GU
+239,kansas,2012-03-10,pcc,republican,president,2012-03-10-pcc-KS,KS
+240,northern mariana islands,2012-03-10,pcc,republican,president,2012-03-10-pcc-MP,MP
+241,virgin islands,2012-03-10,pcc,republican,president,2012-03-10-pcc-VI,VI
+242,maine,2012-03-11,pcc,democratic,president,2012-03-11-pcc-ME,ME
+244,american samoa,2012-03-13,pcc,republican,president,2012-03-13-pcc-AS,AS
+245,hawaii,2012-03-13,pcc,republican,president,2012-03-13-pcc-HI,HI
+247,utah,2012-03-13,pcc,democratic,president,2012-03-13-pcc-UT,UT
+248,missouri,2012-03-17,pcc,republican,president,2012-03-17-pcc-MO,MO
+255,alaska,2012-04-16,pcc,democratic,president,2012-04-16-pcc-AK,AK
+256,idaho,2012-04-14,pcc,democratic,president,2012-04-14-pcc-ID,ID
+257,kansas,2012-04-14,pcc,democratic,president,2012-04-14-pcc-KS,KS
+258,nebraska,2012-04-14,pcc,democratic,president,2012-04-14-pcc-NE,NE
+259,wyoming,2012-04-14,pcc,democratic,president,2012-04-14-pcc-WY,WY
+260,washington,2012-04-15,pcc,democratic,president,2012-04-15-pcc-WA,WA
+266,guam,2012-05-05,pcc,democratic,president,2012-05-05-pcc-GU,GU
+275,puerto rico,2012-06-03,pcc,democratic,president,2012-06-03-pcc-PR,PR
+276,virgin islands,2012-06-03,pcc,democratic,president,2012-06-03-pcc-VI,VI
+281,north dakota,2012-06-05,pcc,democratic,president,2012-06-05-pcc-ND,ND
+284,nebraska,2012-07-14,pcc,republican,president,2012-07-14-pcc-NE,NE
+285,iowa,2016-02-01,pc,np,president,2016-02-01-pc-IA,IA
+287,nevada,2016-02-20,pcc,democratic,president,2016-02-20-pcc-NV,NV
+289,washington,2016-02-20,pcc,republican,president,2016-02-20-pcc-WA,WA
+290,nevada,2016-02-23,pcc,republican,president,2016-02-23-pcc-NV,NV
+293,alaska,2016-03-01,pcc,republican,president,2016-03-01-pcc-AK,AK
+294,american samoa,2016-03-01,pcc,democratic,president,2016-03-01-pcc-AS,AS
+296,colorado,2016-03-01,pc,np,president,2016-03-01-pc-CO,CO
+299,minnesota,2016-03-01,pc,np,president,2016-03-01-pc-MN,MN
+305,kansas,2016-03-05,pc,np,president,2016-03-05-pc-KS,KS
+306,kentucky,2016-03-05,pcc,republican,president,2016-03-05-pcc-KY,KY
+308,maine,2016-03-05,pcc,republican,president,2016-03-05-pcc-ME,ME
+309,nebraska,2016-03-05,pcc,democratic,president,2016-03-05-pcc-NE,NE
+310,maine,2016-03-06,pcc,democratic,president,2016-03-06-pcc-ME,ME
+312,hawaii,2016-03-08,pcc,republican,president,2016-03-08-pcc-HI,HI
+316,district of columbia,2016-03-12,pcc,republican,president,2016-03-12-pcc-DC,DC
+317,guam,2016-03-12,pcc,republican,president,2016-03-12-pcc-GU,GU
+318,northern mariana islands,2016-03-12,pcc,democratic,president,2016-03-12-pcc-MP,MP
+323,northern mariana islands,2016-03-15,pcc,republican,president,2016-03-15-pcc-MP,MP
+325,virgin islands,2016-03-19,pcc,republican,president,2016-03-19-pcc-VI,VI
+326,american samoa,2016-03-22,pcc,republican,president,2016-03-22-pcc-AS,AS
+328,idaho,2016-03-22,pcc,democratic,president,2016-03-22-pcc-ID,ID
+329,utah,2016-03-22,pc,np,president,2016-03-22-pc-UT,UT
+330,alaska,2016-03-26,pcc,democratic,president,2016-03-26-pcc-AK,AK
+331,hawaii,2016-03-26,pcc,democratic,president,2016-03-26-pcc-HI,HI
+332,washington,2016-03-26,pcc,democratic,president,2016-03-26-pcc-WA,WA
+333,north dakota,2016-04-02,pcc,republican,president,2016-04-02-pcc-ND,ND
+335,wyoming,2016-04-16,pcc,republican,president,2016-04-16-pcc-WY,WY
+343,guam,2016-05-07,pcc,democratic,president,2016-05-07-pcc-GU,GU
+349,wyoming,2016-05-28,pcc,democratic,president,2016-05-28-pcc-WY,WY
+350,virgin islands,2016-06-04,pcc,democratic,president,2016-06-04-pcc-VI,VI
+356,north dakota,2016-06-07,pcc,democratic,president,2016-06-07-pcc-ND,ND
+359,iowa,2020-02-03,pc,np,president,2020-02-03-pc-IA,IA
+361,nevada,2020-02-22,pcc,democratic,president,2020-02-22-pcc-NV,NV
+364,american samoa,2020-03-03,pcc,democratic,president,2020-03-03-pcc-AS,AS
+378,hawaii,2020-03-10,pcc,republican,president,2020-03-10-pcc-HI,HI
+383,north dakota,2020-03-10,pc,np,president,2020-03-10-pc-ND,ND
+385,guam,2020-03-14,pcc,republican,president,2020-03-14-pcc-GU,GU
+386,northern mariana islands,2020-03-14,pcc,democratic,president,2020-03-14-pcc-MP,MP
+387,northern mariana islands,2020-03-15,pcc,republican,president,2020-03-15-pcc-MP,MP
+393,wyoming,2020-04-17,pcc,democratic,president,2020-04-17-pcc-WY,WY
+396,wyoming,2020-05-09,pcc,republican,president,2020-05-09-pcc-WY,WY
+399,hawaii,2020-05-22,pcc,democratic,president,2020-05-22-pcc-HI,HI
+408,guam,2020-06-06,pcc,democratic,president,2020-06-06-pcc-GU,GU
+409,virgin islands,2020-06-06,pcc,democratic,president,2020-06-06-pcc-VI,VI

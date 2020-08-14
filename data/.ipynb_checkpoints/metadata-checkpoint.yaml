@@ -1,0 +1,14 @@
+election_type:
+    cp: congressional-primary
+    g: general
+    pp: presidential-primary
+    cpr: congressional-primary-runoff
+    pc: presidential-caucus
+govt_type:
+    - senate
+    - congress
+    - presidency
+    - municipal
+    - gubernatorial
+
+

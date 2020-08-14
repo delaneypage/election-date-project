@@ -1,0 +1,1681 @@
+,state_name,date,election_type,party,govt_type,election_key,state_abbr
+0,alabama,1982-11-02,g,np,congress,1982-11-02-g-AL,AL
+1,arizona,1982-11-02,g,np,congress,1982-11-02-g-AZ,AZ
+2,arkansas,1982-11-02,g,np,congress,1982-11-02-g-AR,AR
+3,california,1982-11-02,g,np,congress,1982-11-02-g-CA,CA
+4,colorado,1982-11-02,g,np,congress,1982-11-02-g-CO,CO
+5,connecticut,1982-11-02,g,np,congress,1982-11-02-g-CT,CT
+6,delaware,1982-11-02,g,np,congress,1982-11-02-g-DE,DE
+7,district of columbia,1982-11-02,g,np,congress,1982-11-02-g-DC,DC
+8,florida,1982-11-02,g,np,congress,1982-11-02-g-FL,FL
+9,georgia,1982-11-02,g,np,congress,1982-11-02-g-GA,GA
+10,idaho,1982-11-02,g,np,congress,1982-11-02-g-ID,ID
+11,illinois,1982-11-02,g,np,congress,1982-11-02-g-IL,IL
+12,indiana,1982-11-02,g,np,congress,1982-11-02-g-IN,IN
+13,iowa,1982-11-02,g,np,congress,1982-11-02-g-IA,IA
+14,kansas,1982-11-02,g,np,congress,1982-11-02-g-KS,KS
+15,kentucky,1982-11-02,g,np,congress,1982-11-02-g-KY,KY
+16,louisiana,1982-11-02,g,np,congress,1982-11-02-g-LA,LA
+17,maine,1982-11-02,g,np,congress,1982-11-02-g-ME,ME
+18,montana,1982-11-02,g,np,congress,1982-11-02-g-MT,MT
+19,nebraska,1982-11-02,g,np,congress,1982-11-02-g-NE,NE
+20,nevada,1982-11-02,g,np,congress,1982-11-02-g-NV,NV
+21,new hampshire,1982-11-02,g,np,congress,1982-11-02-g-NH,NH
+22,new jersey,1982-11-02,g,np,congress,1982-11-02-g-NJ,NJ
+23,new mexico,1982-11-02,g,np,congress,1982-11-02-g-NM,NM
+24,new york,1982-11-02,g,np,congress,1982-11-02-g-NY,NY
+25,north carolina,1982-11-02,g,np,congress,1982-11-02-g-NC,NC
+26,north dakota,1982-11-02,g,np,congress,1982-11-02-g-ND,ND
+27,ohio,1982-11-02,g,np,congress,1982-11-02-g-OH,OH
+28,oklahoma,1982-11-02,g,np,congress,1982-11-02-g-OK,OK
+29,oregon,1982-11-02,g,np,congress,1982-11-02-g-OR,OR
+30,maryland,1982-11-02,g,np,congress,1982-11-02-g-MD,MD
+31,massachusetts,1982-11-02,g,np,congress,1982-11-02-g-MA,MA
+32,michigan,1982-11-02,g,np,congress,1982-11-02-g-MI,MI
+33,minnesota,1982-11-02,g,np,congress,1982-11-02-g-MN,MN
+34,mississippi,1982-11-02,g,np,congress,1982-11-02-g-MS,MS
+35,missouri,1982-11-02,g,np,congress,1982-11-02-g-MO,MO
+36,pennsylvania,1982-11-02,g,np,congress,1982-11-02-g-PA,PA
+37,rhode island,1982-11-02,g,np,congress,1982-11-02-g-RI,RI
+38,south carolina,1982-11-02,g,np,congress,1982-11-02-g-SC,SC
+39,south dakota,1982-11-02,g,np,congress,1982-11-02-g-SD,SD
+40,tennessee,1982-11-02,g,np,congress,1982-11-02-g-TN,TN
+41,texas,1982-11-02,g,np,congress,1982-11-02-g-TX,TX
+42,utah,1982-11-02,g,np,congress,1982-11-02-g-UT,UT
+43,vermont,1982-11-02,g,np,congress,1982-11-02-g-VT,VT
+44,virginia,1982-11-02,g,np,congress,1982-11-02-g-VA,VA
+45,washington,1982-11-02,g,np,congress,1982-11-02-g-WA,WA
+46,west virginia,1982-11-02,g,np,congress,1982-11-02-g-WV,WV
+47,wisconsin,1982-11-02,g,np,congress,1982-11-02-g-WI,WI
+48,wyoming,1982-11-02,g,np,congress,1982-11-02-g-WY,WY
+49,alaska,1982-11-02,g,np,congress,1982-11-02-g-AK,AK
+50,hawaii,1982-11-02,g,np,congress,1982-11-02-g-HI,HI
+51,guam,1982-11-02,g,np,congress,1982-11-02-g-GU,GU
+52,american samoa,1982-11-02,g,np,congress,1982-11-02-g-AS,AS
+53,northern mariana islands,1982-11-02,g,np,congress,1982-11-02-g-MP,MP
+54,virgin islands,1982-11-02,g,np,congress,1982-11-02-g-VI,VI
+55,puerto rico,1982-11-02,g,np,congress,1982-11-02-g-PR,PR
+56,alabama,1984-11-06,g,np,congress,1984-11-06-g-AL,AL
+57,arizona,1984-11-06,g,np,congress,1984-11-06-g-AZ,AZ
+58,arkansas,1984-11-06,g,np,congress,1984-11-06-g-AR,AR
+59,california,1984-11-06,g,np,congress,1984-11-06-g-CA,CA
+60,colorado,1984-11-06,g,np,congress,1984-11-06-g-CO,CO
+61,connecticut,1984-11-06,g,np,congress,1984-11-06-g-CT,CT
+62,delaware,1984-11-06,g,np,congress,1984-11-06-g-DE,DE
+63,district of columbia,1984-11-06,g,np,congress,1984-11-06-g-DC,DC
+64,florida,1984-11-06,g,np,congress,1984-11-06-g-FL,FL
+65,georgia,1984-11-06,g,np,congress,1984-11-06-g-GA,GA
+66,idaho,1984-11-06,g,np,congress,1984-11-06-g-ID,ID
+67,illinois,1984-11-06,g,np,congress,1984-11-06-g-IL,IL
+68,indiana,1984-11-06,g,np,congress,1984-11-06-g-IN,IN
+69,iowa,1984-11-06,g,np,congress,1984-11-06-g-IA,IA
+70,kansas,1984-11-06,g,np,congress,1984-11-06-g-KS,KS
+71,kentucky,1984-11-06,g,np,congress,1984-11-06-g-KY,KY
+72,louisiana,1984-11-06,g,np,congress,1984-11-06-g-LA,LA
+73,maine,1984-11-06,g,np,congress,1984-11-06-g-ME,ME
+74,montana,1984-11-06,g,np,congress,1984-11-06-g-MT,MT
+75,nebraska,1984-11-06,g,np,congress,1984-11-06-g-NE,NE
+76,nevada,1984-11-06,g,np,congress,1984-11-06-g-NV,NV
+77,new hampshire,1984-11-06,g,np,congress,1984-11-06-g-NH,NH
+78,new jersey,1984-11-06,g,np,congress,1984-11-06-g-NJ,NJ
+79,new mexico,1984-11-06,g,np,congress,1984-11-06-g-NM,NM
+80,new york,1984-11-06,g,np,congress,1984-11-06-g-NY,NY
+81,north carolina,1984-11-06,g,np,congress,1984-11-06-g-NC,NC
+82,north dakota,1984-11-06,g,np,congress,1984-11-06-g-ND,ND
+83,ohio,1984-11-06,g,np,congress,1984-11-06-g-OH,OH
+84,oklahoma,1984-11-06,g,np,congress,1984-11-06-g-OK,OK
+85,oregon,1984-11-06,g,np,congress,1984-11-06-g-OR,OR
+86,maryland,1984-11-06,g,np,congress,1984-11-06-g-MD,MD
+87,massachusetts,1984-11-06,g,np,congress,1984-11-06-g-MA,MA
+88,michigan,1984-11-06,g,np,congress,1984-11-06-g-MI,MI
+89,minnesota,1984-11-06,g,np,congress,1984-11-06-g-MN,MN
+90,mississippi,1984-11-06,g,np,congress,1984-11-06-g-MS,MS
+91,missouri,1984-11-06,g,np,congress,1984-11-06-g-MO,MO
+92,pennsylvania,1984-11-06,g,np,congress,1984-11-06-g-PA,PA
+93,rhode island,1984-11-06,g,np,congress,1984-11-06-g-RI,RI
+94,south carolina,1984-11-06,g,np,congress,1984-11-06-g-SC,SC
+95,south dakota,1984-11-06,g,np,congress,1984-11-06-g-SD,SD
+96,tennessee,1984-11-06,g,np,congress,1984-11-06-g-TN,TN
+97,texas,1984-11-06,g,np,congress,1984-11-06-g-TX,TX
+98,utah,1984-11-06,g,np,congress,1984-11-06-g-UT,UT
+99,vermont,1984-11-06,g,np,congress,1984-11-06-g-VT,VT
+100,virginia,1984-11-06,g,np,congress,1984-11-06-g-VA,VA
+101,washington,1984-11-06,g,np,congress,1984-11-06-g-WA,WA
+102,west virginia,1984-11-06,g,np,congress,1984-11-06-g-WV,WV
+103,wisconsin,1984-11-06,g,np,congress,1984-11-06-g-WI,WI
+104,wyoming,1984-11-06,g,np,congress,1984-11-06-g-WY,WY
+105,alaska,1984-11-06,g,np,congress,1984-11-06-g-AK,AK
+106,hawaii,1984-11-06,g,np,congress,1984-11-06-g-HI,HI
+107,guam,1984-11-06,g,np,congress,1984-11-06-g-GU,GU
+108,american samoa,1984-11-06,g,np,congress,1984-11-06-g-AS,AS
+109,northern mariana islands,1984-11-06,g,np,congress,1984-11-06-g-MP,MP
+110,virgin islands,1984-11-06,g,np,congress,1984-11-06-g-VI,VI
+111,puerto rico,1984-11-06,g,np,congress,1984-11-06-g-PR,PR
+112,alabama,1986-11-04,g,np,congress,1986-11-04-g-AL,AL
+113,arizona,1986-11-04,g,np,congress,1986-11-04-g-AZ,AZ
+114,arkansas,1986-11-04,g,np,congress,1986-11-04-g-AR,AR
+115,california,1986-11-04,g,np,congress,1986-11-04-g-CA,CA
+116,colorado,1986-11-04,g,np,congress,1986-11-04-g-CO,CO
+117,connecticut,1986-11-04,g,np,congress,1986-11-04-g-CT,CT
+118,delaware,1986-11-04,g,np,congress,1986-11-04-g-DE,DE
+119,district of columbia,1986-11-04,g,np,congress,1986-11-04-g-DC,DC
+120,florida,1986-11-04,g,np,congress,1986-11-04-g-FL,FL
+121,georgia,1986-11-04,g,np,congress,1986-11-04-g-GA,GA
+122,idaho,1986-11-04,g,np,congress,1986-11-04-g-ID,ID
+123,illinois,1986-11-04,g,np,congress,1986-11-04-g-IL,IL
+124,indiana,1986-11-04,g,np,congress,1986-11-04-g-IN,IN
+125,iowa,1986-11-04,g,np,congress,1986-11-04-g-IA,IA
+126,kansas,1986-11-04,g,np,congress,1986-11-04-g-KS,KS
+127,kentucky,1986-11-04,g,np,congress,1986-11-04-g-KY,KY
+128,louisiana,1986-11-04,g,np,congress,1986-11-04-g-LA,LA
+129,maine,1986-11-04,g,np,congress,1986-11-04-g-ME,ME
+130,montana,1986-11-04,g,np,congress,1986-11-04-g-MT,MT
+131,nebraska,1986-11-04,g,np,congress,1986-11-04-g-NE,NE
+132,nevada,1986-11-04,g,np,congress,1986-11-04-g-NV,NV
+133,new hampshire,1986-11-04,g,np,congress,1986-11-04-g-NH,NH
+134,new jersey,1986-11-04,g,np,congress,1986-11-04-g-NJ,NJ
+135,new mexico,1986-11-04,g,np,congress,1986-11-04-g-NM,NM
+136,new york,1986-11-04,g,np,congress,1986-11-04-g-NY,NY
+137,north carolina,1986-11-04,g,np,congress,1986-11-04-g-NC,NC
+138,north dakota,1986-11-04,g,np,congress,1986-11-04-g-ND,ND
+139,ohio,1986-11-04,g,np,congress,1986-11-04-g-OH,OH
+140,oklahoma,1986-11-04,g,np,congress,1986-11-04-g-OK,OK
+141,oregon,1986-11-04,g,np,congress,1986-11-04-g-OR,OR
+142,maryland,1986-11-04,g,np,congress,1986-11-04-g-MD,MD
+143,massachusetts,1986-11-04,g,np,congress,1986-11-04-g-MA,MA
+144,michigan,1986-11-04,g,np,congress,1986-11-04-g-MI,MI
+145,minnesota,1986-11-04,g,np,congress,1986-11-04-g-MN,MN
+146,mississippi,1986-11-04,g,np,congress,1986-11-04-g-MS,MS
+147,missouri,1986-11-04,g,np,congress,1986-11-04-g-MO,MO
+148,pennsylvania,1986-11-04,g,np,congress,1986-11-04-g-PA,PA
+149,rhode island,1986-11-04,g,np,congress,1986-11-04-g-RI,RI
+150,south carolina,1986-11-04,g,np,congress,1986-11-04-g-SC,SC
+151,south dakota,1986-11-04,g,np,congress,1986-11-04-g-SD,SD
+152,tennessee,1986-11-04,g,np,congress,1986-11-04-g-TN,TN
+153,texas,1986-11-04,g,np,congress,1986-11-04-g-TX,TX
+154,utah,1986-11-04,g,np,congress,1986-11-04-g-UT,UT
+155,vermont,1986-11-04,g,np,congress,1986-11-04-g-VT,VT
+156,virginia,1986-11-04,g,np,congress,1986-11-04-g-VA,VA
+157,washington,1986-11-04,g,np,congress,1986-11-04-g-WA,WA
+158,west virginia,1986-11-04,g,np,congress,1986-11-04-g-WV,WV
+159,wisconsin,1986-11-04,g,np,congress,1986-11-04-g-WI,WI
+160,wyoming,1986-11-04,g,np,congress,1986-11-04-g-WY,WY
+161,alaska,1986-11-04,g,np,congress,1986-11-04-g-AK,AK
+162,hawaii,1986-11-04,g,np,congress,1986-11-04-g-HI,HI
+163,guam,1986-11-04,g,np,congress,1986-11-04-g-GU,GU
+164,american samoa,1986-11-04,g,np,congress,1986-11-04-g-AS,AS
+165,northern mariana islands,1986-11-04,g,np,congress,1986-11-04-g-MP,MP
+166,virgin islands,1986-11-04,g,np,congress,1986-11-04-g-VI,VI
+167,puerto rico,1986-11-04,g,np,congress,1986-11-04-g-PR,PR
+168,alabama,1988-11-01,g,np,congress,1988-11-01-g-AL,AL
+169,arizona,1988-11-01,g,np,congress,1988-11-01-g-AZ,AZ
+170,arkansas,1988-11-01,g,np,congress,1988-11-01-g-AR,AR
+171,california,1988-11-01,g,np,congress,1988-11-01-g-CA,CA
+172,colorado,1988-11-01,g,np,congress,1988-11-01-g-CO,CO
+173,connecticut,1988-11-01,g,np,congress,1988-11-01-g-CT,CT
+174,delaware,1988-11-01,g,np,congress,1988-11-01-g-DE,DE
+175,district of columbia,1988-11-01,g,np,congress,1988-11-01-g-DC,DC
+176,florida,1988-11-01,g,np,congress,1988-11-01-g-FL,FL
+177,georgia,1988-11-01,g,np,congress,1988-11-01-g-GA,GA
+178,idaho,1988-11-01,g,np,congress,1988-11-01-g-ID,ID
+179,illinois,1988-11-01,g,np,congress,1988-11-01-g-IL,IL
+180,indiana,1988-11-01,g,np,congress,1988-11-01-g-IN,IN
+181,iowa,1988-11-01,g,np,congress,1988-11-01-g-IA,IA
+182,kansas,1988-11-01,g,np,congress,1988-11-01-g-KS,KS
+183,kentucky,1988-11-01,g,np,congress,1988-11-01-g-KY,KY
+184,louisiana,1988-11-01,g,np,congress,1988-11-01-g-LA,LA
+185,maine,1988-11-01,g,np,congress,1988-11-01-g-ME,ME
+186,montana,1988-11-01,g,np,congress,1988-11-01-g-MT,MT
+187,nebraska,1988-11-01,g,np,congress,1988-11-01-g-NE,NE
+188,nevada,1988-11-01,g,np,congress,1988-11-01-g-NV,NV
+189,new hampshire,1988-11-01,g,np,congress,1988-11-01-g-NH,NH
+190,new jersey,1988-11-01,g,np,congress,1988-11-01-g-NJ,NJ
+191,new mexico,1988-11-01,g,np,congress,1988-11-01-g-NM,NM
+192,new york,1988-11-01,g,np,congress,1988-11-01-g-NY,NY
+193,north carolina,1988-11-01,g,np,congress,1988-11-01-g-NC,NC
+194,north dakota,1988-11-01,g,np,congress,1988-11-01-g-ND,ND
+195,ohio,1988-11-01,g,np,congress,1988-11-01-g-OH,OH
+196,oklahoma,1988-11-01,g,np,congress,1988-11-01-g-OK,OK
+197,oregon,1988-11-01,g,np,congress,1988-11-01-g-OR,OR
+198,maryland,1988-11-01,g,np,congress,1988-11-01-g-MD,MD
+199,massachusetts,1988-11-01,g,np,congress,1988-11-01-g-MA,MA
+200,michigan,1988-11-01,g,np,congress,1988-11-01-g-MI,MI
+201,minnesota,1988-11-01,g,np,congress,1988-11-01-g-MN,MN
+202,mississippi,1988-11-01,g,np,congress,1988-11-01-g-MS,MS
+203,missouri,1988-11-01,g,np,congress,1988-11-01-g-MO,MO
+204,pennsylvania,1988-11-01,g,np,congress,1988-11-01-g-PA,PA
+205,rhode island,1988-11-01,g,np,congress,1988-11-01-g-RI,RI
+206,south carolina,1988-11-01,g,np,congress,1988-11-01-g-SC,SC
+207,south dakota,1988-11-01,g,np,congress,1988-11-01-g-SD,SD
+208,tennessee,1988-11-01,g,np,congress,1988-11-01-g-TN,TN
+209,texas,1988-11-01,g,np,congress,1988-11-01-g-TX,TX
+210,utah,1988-11-01,g,np,congress,1988-11-01-g-UT,UT
+211,vermont,1988-11-01,g,np,congress,1988-11-01-g-VT,VT
+212,virginia,1988-11-01,g,np,congress,1988-11-01-g-VA,VA
+213,washington,1988-11-01,g,np,congress,1988-11-01-g-WA,WA
+214,west virginia,1988-11-01,g,np,congress,1988-11-01-g-WV,WV
+215,wisconsin,1988-11-01,g,np,congress,1988-11-01-g-WI,WI
+216,wyoming,1988-11-01,g,np,congress,1988-11-01-g-WY,WY
+217,alaska,1988-11-01,g,np,congress,1988-11-01-g-AK,AK
+218,hawaii,1988-11-01,g,np,congress,1988-11-01-g-HI,HI
+219,guam,1988-11-01,g,np,congress,1988-11-01-g-GU,GU
+220,american samoa,1988-11-01,g,np,congress,1988-11-01-g-AS,AS
+221,northern mariana islands,1988-11-01,g,np,congress,1988-11-01-g-MP,MP
+222,virgin islands,1988-11-01,g,np,congress,1988-11-01-g-VI,VI
+223,puerto rico,1988-11-01,g,np,congress,1988-11-01-g-PR,PR
+224,alabama,1990-11-06,g,np,congress,1990-11-06-g-AL,AL
+225,arizona,1990-11-06,g,np,congress,1990-11-06-g-AZ,AZ
+226,arkansas,1990-11-06,g,np,congress,1990-11-06-g-AR,AR
+227,california,1990-11-06,g,np,congress,1990-11-06-g-CA,CA
+228,colorado,1990-11-06,g,np,congress,1990-11-06-g-CO,CO
+229,connecticut,1990-11-06,g,np,congress,1990-11-06-g-CT,CT
+230,delaware,1990-11-06,g,np,congress,1990-11-06-g-DE,DE
+231,district of columbia,1990-11-06,g,np,congress,1990-11-06-g-DC,DC
+232,florida,1990-11-06,g,np,congress,1990-11-06-g-FL,FL
+233,georgia,1990-11-06,g,np,congress,1990-11-06-g-GA,GA
+234,idaho,1990-11-06,g,np,congress,1990-11-06-g-ID,ID
+235,illinois,1990-11-06,g,np,congress,1990-11-06-g-IL,IL
+236,indiana,1990-11-06,g,np,congress,1990-11-06-g-IN,IN
+237,iowa,1990-11-06,g,np,congress,1990-11-06-g-IA,IA
+238,kansas,1990-11-06,g,np,congress,1990-11-06-g-KS,KS
+239,kentucky,1990-11-06,g,np,congress,1990-11-06-g-KY,KY
+240,louisiana,1990-11-06,g,np,congress,1990-11-06-g-LA,LA
+241,maine,1990-11-06,g,np,congress,1990-11-06-g-ME,ME
+242,montana,1990-11-06,g,np,congress,1990-11-06-g-MT,MT
+243,nebraska,1990-11-06,g,np,congress,1990-11-06-g-NE,NE
+244,nevada,1990-11-06,g,np,congress,1990-11-06-g-NV,NV
+245,new hampshire,1990-11-06,g,np,congress,1990-11-06-g-NH,NH
+246,new jersey,1990-11-06,g,np,congress,1990-11-06-g-NJ,NJ
+247,new mexico,1990-11-06,g,np,congress,1990-11-06-g-NM,NM
+248,new york,1990-11-06,g,np,congress,1990-11-06-g-NY,NY
+249,north carolina,1990-11-06,g,np,congress,1990-11-06-g-NC,NC
+250,north dakota,1990-11-06,g,np,congress,1990-11-06-g-ND,ND
+251,ohio,1990-11-06,g,np,congress,1990-11-06-g-OH,OH
+252,oklahoma,1990-11-06,g,np,congress,1990-11-06-g-OK,OK
+253,oregon,1990-11-06,g,np,congress,1990-11-06-g-OR,OR
+254,maryland,1990-11-06,g,np,congress,1990-11-06-g-MD,MD
+255,massachusetts,1990-11-06,g,np,congress,1990-11-06-g-MA,MA
+256,michigan,1990-11-06,g,np,congress,1990-11-06-g-MI,MI
+257,minnesota,1990-11-06,g,np,congress,1990-11-06-g-MN,MN
+258,mississippi,1990-11-06,g,np,congress,1990-11-06-g-MS,MS
+259,missouri,1990-11-06,g,np,congress,1990-11-06-g-MO,MO
+260,pennsylvania,1990-11-06,g,np,congress,1990-11-06-g-PA,PA
+261,rhode island,1990-11-06,g,np,congress,1990-11-06-g-RI,RI
+262,south carolina,1990-11-06,g,np,congress,1990-11-06-g-SC,SC
+263,south dakota,1990-11-06,g,np,congress,1990-11-06-g-SD,SD
+264,tennessee,1990-11-06,g,np,congress,1990-11-06-g-TN,TN
+265,texas,1990-11-06,g,np,congress,1990-11-06-g-TX,TX
+266,utah,1990-11-06,g,np,congress,1990-11-06-g-UT,UT
+267,vermont,1990-11-06,g,np,congress,1990-11-06-g-VT,VT
+268,virginia,1990-11-06,g,np,congress,1990-11-06-g-VA,VA
+269,washington,1990-11-06,g,np,congress,1990-11-06-g-WA,WA
+270,west virginia,1990-11-06,g,np,congress,1990-11-06-g-WV,WV
+271,wisconsin,1990-11-06,g,np,congress,1990-11-06-g-WI,WI
+272,wyoming,1990-11-06,g,np,congress,1990-11-06-g-WY,WY
+273,alaska,1990-11-06,g,np,congress,1990-11-06-g-AK,AK
+274,hawaii,1990-11-06,g,np,congress,1990-11-06-g-HI,HI
+275,guam,1990-11-06,g,np,congress,1990-11-06-g-GU,GU
+276,american samoa,1990-11-06,g,np,congress,1990-11-06-g-AS,AS
+277,northern mariana islands,1990-11-06,g,np,congress,1990-11-06-g-MP,MP
+278,virgin islands,1990-11-06,g,np,congress,1990-11-06-g-VI,VI
+279,puerto rico,1990-11-06,g,np,congress,1990-11-06-g-PR,PR
+280,alabama,1992-11-03,g,np,congress,1992-11-03-g-AL,AL
+281,arizona,1992-11-03,g,np,congress,1992-11-03-g-AZ,AZ
+282,arkansas,1992-11-03,g,np,congress,1992-11-03-g-AR,AR
+283,california,1992-11-03,g,np,congress,1992-11-03-g-CA,CA
+284,colorado,1992-11-03,g,np,congress,1992-11-03-g-CO,CO
+285,connecticut,1992-11-03,g,np,congress,1992-11-03-g-CT,CT
+286,delaware,1992-11-03,g,np,congress,1992-11-03-g-DE,DE
+287,district of columbia,1992-11-03,g,np,congress,1992-11-03-g-DC,DC
+288,florida,1992-11-03,g,np,congress,1992-11-03-g-FL,FL
+289,georgia,1992-11-03,g,np,congress,1992-11-03-g-GA,GA
+290,idaho,1992-11-03,g,np,congress,1992-11-03-g-ID,ID
+291,illinois,1992-11-03,g,np,congress,1992-11-03-g-IL,IL
+292,indiana,1992-11-03,g,np,congress,1992-11-03-g-IN,IN
+293,iowa,1992-11-03,g,np,congress,1992-11-03-g-IA,IA
+294,kansas,1992-11-03,g,np,congress,1992-11-03-g-KS,KS
+295,kentucky,1992-11-03,g,np,congress,1992-11-03-g-KY,KY
+296,louisiana,1992-11-03,g,np,congress,1992-11-03-g-LA,LA
+297,maine,1992-11-03,g,np,congress,1992-11-03-g-ME,ME
+298,montana,1992-11-03,g,np,congress,1992-11-03-g-MT,MT
+299,nebraska,1992-11-03,g,np,congress,1992-11-03-g-NE,NE
+300,nevada,1992-11-03,g,np,congress,1992-11-03-g-NV,NV
+301,new hampshire,1992-11-03,g,np,congress,1992-11-03-g-NH,NH
+302,new jersey,1992-11-03,g,np,congress,1992-11-03-g-NJ,NJ
+303,new mexico,1992-11-03,g,np,congress,1992-11-03-g-NM,NM
+304,new york,1992-11-03,g,np,congress,1992-11-03-g-NY,NY
+305,north carolina,1992-11-03,g,np,congress,1992-11-03-g-NC,NC
+306,north dakota,1992-11-03,g,np,congress,1992-11-03-g-ND,ND
+307,ohio,1992-11-03,g,np,congress,1992-11-03-g-OH,OH
+308,oklahoma,1992-11-03,g,np,congress,1992-11-03-g-OK,OK
+309,oregon,1992-11-03,g,np,congress,1992-11-03-g-OR,OR
+310,maryland,1992-11-03,g,np,congress,1992-11-03-g-MD,MD
+311,massachusetts,1992-11-03,g,np,congress,1992-11-03-g-MA,MA
+312,michigan,1992-11-03,g,np,congress,1992-11-03-g-MI,MI
+313,minnesota,1992-11-03,g,np,congress,1992-11-03-g-MN,MN
+314,mississippi,1992-11-03,g,np,congress,1992-11-03-g-MS,MS
+315,missouri,1992-11-03,g,np,congress,1992-11-03-g-MO,MO
+316,pennsylvania,1992-11-03,g,np,congress,1992-11-03-g-PA,PA
+317,rhode island,1992-11-03,g,np,congress,1992-11-03-g-RI,RI
+318,south carolina,1992-11-03,g,np,congress,1992-11-03-g-SC,SC
+319,south dakota,1992-11-03,g,np,congress,1992-11-03-g-SD,SD
+320,tennessee,1992-11-03,g,np,congress,1992-11-03-g-TN,TN
+321,texas,1992-11-03,g,np,congress,1992-11-03-g-TX,TX
+322,utah,1992-11-03,g,np,congress,1992-11-03-g-UT,UT
+323,vermont,1992-11-03,g,np,congress,1992-11-03-g-VT,VT
+324,virginia,1992-11-03,g,np,congress,1992-11-03-g-VA,VA
+325,washington,1992-11-03,g,np,congress,1992-11-03-g-WA,WA
+326,west virginia,1992-11-03,g,np,congress,1992-11-03-g-WV,WV
+327,wisconsin,1992-11-03,g,np,congress,1992-11-03-g-WI,WI
+328,wyoming,1992-11-03,g,np,congress,1992-11-03-g-WY,WY
+329,alaska,1992-11-03,g,np,congress,1992-11-03-g-AK,AK
+330,hawaii,1992-11-03,g,np,congress,1992-11-03-g-HI,HI
+331,guam,1992-11-03,g,np,congress,1992-11-03-g-GU,GU
+332,american samoa,1992-11-03,g,np,congress,1992-11-03-g-AS,AS
+333,northern mariana islands,1992-11-03,g,np,congress,1992-11-03-g-MP,MP
+334,virgin islands,1992-11-03,g,np,congress,1992-11-03-g-VI,VI
+335,puerto rico,1992-11-03,g,np,congress,1992-11-03-g-PR,PR
+336,alabama,1994-11-01,g,np,congress,1994-11-01-g-AL,AL
+337,arizona,1994-11-01,g,np,congress,1994-11-01-g-AZ,AZ
+338,arkansas,1994-11-01,g,np,congress,1994-11-01-g-AR,AR
+339,california,1994-11-01,g,np,congress,1994-11-01-g-CA,CA
+340,colorado,1994-11-01,g,np,congress,1994-11-01-g-CO,CO
+341,connecticut,1994-11-01,g,np,congress,1994-11-01-g-CT,CT
+342,delaware,1994-11-01,g,np,congress,1994-11-01-g-DE,DE
+343,district of columbia,1994-11-01,g,np,congress,1994-11-01-g-DC,DC
+344,florida,1994-11-01,g,np,congress,1994-11-01-g-FL,FL
+345,georgia,1994-11-01,g,np,congress,1994-11-01-g-GA,GA
+346,idaho,1994-11-01,g,np,congress,1994-11-01-g-ID,ID
+347,illinois,1994-11-01,g,np,congress,1994-11-01-g-IL,IL
+348,indiana,1994-11-01,g,np,congress,1994-11-01-g-IN,IN
+349,iowa,1994-11-01,g,np,congress,1994-11-01-g-IA,IA
+350,kansas,1994-11-01,g,np,congress,1994-11-01-g-KS,KS
+351,kentucky,1994-11-01,g,np,congress,1994-11-01-g-KY,KY
+352,louisiana,1994-11-01,g,np,congress,1994-11-01-g-LA,LA
+353,maine,1994-11-01,g,np,congress,1994-11-01-g-ME,ME
+354,montana,1994-11-01,g,np,congress,1994-11-01-g-MT,MT
+355,nebraska,1994-11-01,g,np,congress,1994-11-01-g-NE,NE
+356,nevada,1994-11-01,g,np,congress,1994-11-01-g-NV,NV
+357,new hampshire,1994-11-01,g,np,congress,1994-11-01-g-NH,NH
+358,new jersey,1994-11-01,g,np,congress,1994-11-01-g-NJ,NJ
+359,new mexico,1994-11-01,g,np,congress,1994-11-01-g-NM,NM
+360,new york,1994-11-01,g,np,congress,1994-11-01-g-NY,NY
+361,north carolina,1994-11-01,g,np,congress,1994-11-01-g-NC,NC
+362,north dakota,1994-11-01,g,np,congress,1994-11-01-g-ND,ND
+363,ohio,1994-11-01,g,np,congress,1994-11-01-g-OH,OH
+364,oklahoma,1994-11-01,g,np,congress,1994-11-01-g-OK,OK
+365,oregon,1994-11-01,g,np,congress,1994-11-01-g-OR,OR
+366,maryland,1994-11-01,g,np,congress,1994-11-01-g-MD,MD
+367,massachusetts,1994-11-01,g,np,congress,1994-11-01-g-MA,MA
+368,michigan,1994-11-01,g,np,congress,1994-11-01-g-MI,MI
+369,minnesota,1994-11-01,g,np,congress,1994-11-01-g-MN,MN
+370,mississippi,1994-11-01,g,np,congress,1994-11-01-g-MS,MS
+371,missouri,1994-11-01,g,np,congress,1994-11-01-g-MO,MO
+372,pennsylvania,1994-11-01,g,np,congress,1994-11-01-g-PA,PA
+373,rhode island,1994-11-01,g,np,congress,1994-11-01-g-RI,RI
+374,south carolina,1994-11-01,g,np,congress,1994-11-01-g-SC,SC
+375,south dakota,1994-11-01,g,np,congress,1994-11-01-g-SD,SD
+376,tennessee,1994-11-01,g,np,congress,1994-11-01-g-TN,TN
+377,texas,1994-11-01,g,np,congress,1994-11-01-g-TX,TX
+378,utah,1994-11-01,g,np,congress,1994-11-01-g-UT,UT
+379,vermont,1994-11-01,g,np,congress,1994-11-01-g-VT,VT
+380,virginia,1994-11-01,g,np,congress,1994-11-01-g-VA,VA
+381,washington,1994-11-01,g,np,congress,1994-11-01-g-WA,WA
+382,west virginia,1994-11-01,g,np,congress,1994-11-01-g-WV,WV
+383,wisconsin,1994-11-01,g,np,congress,1994-11-01-g-WI,WI
+384,wyoming,1994-11-01,g,np,congress,1994-11-01-g-WY,WY
+385,alaska,1994-11-01,g,np,congress,1994-11-01-g-AK,AK
+386,hawaii,1994-11-01,g,np,congress,1994-11-01-g-HI,HI
+387,guam,1994-11-01,g,np,congress,1994-11-01-g-GU,GU
+388,american samoa,1994-11-01,g,np,congress,1994-11-01-g-AS,AS
+389,northern mariana islands,1994-11-01,g,np,congress,1994-11-01-g-MP,MP
+390,virgin islands,1994-11-01,g,np,congress,1994-11-01-g-VI,VI
+391,puerto rico,1994-11-01,g,np,congress,1994-11-01-g-PR,PR
+392,alabama,1996-11-05,g,np,congress,1996-11-05-g-AL,AL
+393,arizona,1996-11-05,g,np,congress,1996-11-05-g-AZ,AZ
+394,arkansas,1996-11-05,g,np,congress,1996-11-05-g-AR,AR
+395,california,1996-11-05,g,np,congress,1996-11-05-g-CA,CA
+396,colorado,1996-11-05,g,np,congress,1996-11-05-g-CO,CO
+397,connecticut,1996-11-05,g,np,congress,1996-11-05-g-CT,CT
+398,delaware,1996-11-05,g,np,congress,1996-11-05-g-DE,DE
+399,district of columbia,1996-11-05,g,np,congress,1996-11-05-g-DC,DC
+400,florida,1996-11-05,g,np,congress,1996-11-05-g-FL,FL
+401,georgia,1996-11-05,g,np,congress,1996-11-05-g-GA,GA
+402,idaho,1996-11-05,g,np,congress,1996-11-05-g-ID,ID
+403,illinois,1996-11-05,g,np,congress,1996-11-05-g-IL,IL
+404,indiana,1996-11-05,g,np,congress,1996-11-05-g-IN,IN
+405,iowa,1996-11-05,g,np,congress,1996-11-05-g-IA,IA
+406,kansas,1996-11-05,g,np,congress,1996-11-05-g-KS,KS
+407,kentucky,1996-11-05,g,np,congress,1996-11-05-g-KY,KY
+408,louisiana,1996-11-05,g,np,congress,1996-11-05-g-LA,LA
+409,maine,1996-11-05,g,np,congress,1996-11-05-g-ME,ME
+410,montana,1996-11-05,g,np,congress,1996-11-05-g-MT,MT
+411,nebraska,1996-11-05,g,np,congress,1996-11-05-g-NE,NE
+412,nevada,1996-11-05,g,np,congress,1996-11-05-g-NV,NV
+413,new hampshire,1996-11-05,g,np,congress,1996-11-05-g-NH,NH
+414,new jersey,1996-11-05,g,np,congress,1996-11-05-g-NJ,NJ
+415,new mexico,1996-11-05,g,np,congress,1996-11-05-g-NM,NM
+416,new york,1996-11-05,g,np,congress,1996-11-05-g-NY,NY
+417,north carolina,1996-11-05,g,np,congress,1996-11-05-g-NC,NC
+418,north dakota,1996-11-05,g,np,congress,1996-11-05-g-ND,ND
+419,ohio,1996-11-05,g,np,congress,1996-11-05-g-OH,OH
+420,oklahoma,1996-11-05,g,np,congress,1996-11-05-g-OK,OK
+421,oregon,1996-11-05,g,np,congress,1996-11-05-g-OR,OR
+422,maryland,1996-11-05,g,np,congress,1996-11-05-g-MD,MD
+423,massachusetts,1996-11-05,g,np,congress,1996-11-05-g-MA,MA
+424,michigan,1996-11-05,g,np,congress,1996-11-05-g-MI,MI
+425,minnesota,1996-11-05,g,np,congress,1996-11-05-g-MN,MN
+426,mississippi,1996-11-05,g,np,congress,1996-11-05-g-MS,MS
+427,missouri,1996-11-05,g,np,congress,1996-11-05-g-MO,MO
+428,pennsylvania,1996-11-05,g,np,congress,1996-11-05-g-PA,PA
+429,rhode island,1996-11-05,g,np,congress,1996-11-05-g-RI,RI
+430,south carolina,1996-11-05,g,np,congress,1996-11-05-g-SC,SC
+431,south dakota,1996-11-05,g,np,congress,1996-11-05-g-SD,SD
+432,tennessee,1996-11-05,g,np,congress,1996-11-05-g-TN,TN
+433,texas,1996-11-05,g,np,congress,1996-11-05-g-TX,TX
+434,utah,1996-11-05,g,np,congress,1996-11-05-g-UT,UT
+435,vermont,1996-11-05,g,np,congress,1996-11-05-g-VT,VT
+436,virginia,1996-11-05,g,np,congress,1996-11-05-g-VA,VA
+437,washington,1996-11-05,g,np,congress,1996-11-05-g-WA,WA
+438,west virginia,1996-11-05,g,np,congress,1996-11-05-g-WV,WV
+439,wisconsin,1996-11-05,g,np,congress,1996-11-05-g-WI,WI
+440,wyoming,1996-11-05,g,np,congress,1996-11-05-g-WY,WY
+441,alaska,1996-11-05,g,np,congress,1996-11-05-g-AK,AK
+442,hawaii,1996-11-05,g,np,congress,1996-11-05-g-HI,HI
+443,guam,1996-11-05,g,np,congress,1996-11-05-g-GU,GU
+444,american samoa,1996-11-05,g,np,congress,1996-11-05-g-AS,AS
+445,northern mariana islands,1996-11-05,g,np,congress,1996-11-05-g-MP,MP
+446,virgin islands,1996-11-05,g,np,congress,1996-11-05-g-VI,VI
+447,puerto rico,1996-11-05,g,np,congress,1996-11-05-g-PR,PR
+448,alabama,1998-11-03,g,np,congress,1998-11-03-g-AL,AL
+449,arizona,1998-11-03,g,np,congress,1998-11-03-g-AZ,AZ
+450,arkansas,1998-11-03,g,np,congress,1998-11-03-g-AR,AR
+451,california,1998-11-03,g,np,congress,1998-11-03-g-CA,CA
+452,colorado,1998-11-03,g,np,congress,1998-11-03-g-CO,CO
+453,connecticut,1998-11-03,g,np,congress,1998-11-03-g-CT,CT
+454,delaware,1998-11-03,g,np,congress,1998-11-03-g-DE,DE
+455,district of columbia,1998-11-03,g,np,congress,1998-11-03-g-DC,DC
+456,florida,1998-11-03,g,np,congress,1998-11-03-g-FL,FL
+457,georgia,1998-11-03,g,np,congress,1998-11-03-g-GA,GA
+458,idaho,1998-11-03,g,np,congress,1998-11-03-g-ID,ID
+459,illinois,1998-11-03,g,np,congress,1998-11-03-g-IL,IL
+460,indiana,1998-11-03,g,np,congress,1998-11-03-g-IN,IN
+461,iowa,1998-11-03,g,np,congress,1998-11-03-g-IA,IA
+462,kansas,1998-11-03,g,np,congress,1998-11-03-g-KS,KS
+463,kentucky,1998-11-03,g,np,congress,1998-11-03-g-KY,KY
+464,louisiana,1998-11-03,g,np,congress,1998-11-03-g-LA,LA
+465,maine,1998-11-03,g,np,congress,1998-11-03-g-ME,ME
+466,montana,1998-11-03,g,np,congress,1998-11-03-g-MT,MT
+467,nebraska,1998-11-03,g,np,congress,1998-11-03-g-NE,NE
+468,nevada,1998-11-03,g,np,congress,1998-11-03-g-NV,NV
+469,new hampshire,1998-11-03,g,np,congress,1998-11-03-g-NH,NH
+470,new jersey,1998-11-03,g,np,congress,1998-11-03-g-NJ,NJ
+471,new mexico,1998-11-03,g,np,congress,1998-11-03-g-NM,NM
+472,new york,1998-11-03,g,np,congress,1998-11-03-g-NY,NY
+473,north carolina,1998-11-03,g,np,congress,1998-11-03-g-NC,NC
+474,north dakota,1998-11-03,g,np,congress,1998-11-03-g-ND,ND
+475,ohio,1998-11-03,g,np,congress,1998-11-03-g-OH,OH
+476,oklahoma,1998-11-03,g,np,congress,1998-11-03-g-OK,OK
+477,oregon,1998-11-03,g,np,congress,1998-11-03-g-OR,OR
+478,maryland,1998-11-03,g,np,congress,1998-11-03-g-MD,MD
+479,massachusetts,1998-11-03,g,np,congress,1998-11-03-g-MA,MA
+480,michigan,1998-11-03,g,np,congress,1998-11-03-g-MI,MI
+481,minnesota,1998-11-03,g,np,congress,1998-11-03-g-MN,MN
+482,mississippi,1998-11-03,g,np,congress,1998-11-03-g-MS,MS
+483,missouri,1998-11-03,g,np,congress,1998-11-03-g-MO,MO
+484,pennsylvania,1998-11-03,g,np,congress,1998-11-03-g-PA,PA
+485,rhode island,1998-11-03,g,np,congress,1998-11-03-g-RI,RI
+486,south carolina,1998-11-03,g,np,congress,1998-11-03-g-SC,SC
+487,south dakota,1998-11-03,g,np,congress,1998-11-03-g-SD,SD
+488,tennessee,1998-11-03,g,np,congress,1998-11-03-g-TN,TN
+489,texas,1998-11-03,g,np,congress,1998-11-03-g-TX,TX
+490,utah,1998-11-03,g,np,congress,1998-11-03-g-UT,UT
+491,vermont,1998-11-03,g,np,congress,1998-11-03-g-VT,VT
+492,virginia,1998-11-03,g,np,congress,1998-11-03-g-VA,VA
+493,washington,1998-11-03,g,np,congress,1998-11-03-g-WA,WA
+494,west virginia,1998-11-03,g,np,congress,1998-11-03-g-WV,WV
+495,wisconsin,1998-11-03,g,np,congress,1998-11-03-g-WI,WI
+496,wyoming,1998-11-03,g,np,congress,1998-11-03-g-WY,WY
+497,alaska,1998-11-03,g,np,congress,1998-11-03-g-AK,AK
+498,hawaii,1998-11-03,g,np,congress,1998-11-03-g-HI,HI
+499,guam,1998-11-03,g,np,congress,1998-11-03-g-GU,GU
+500,american samoa,1998-11-03,g,np,congress,1998-11-03-g-AS,AS
+501,northern mariana islands,1998-11-03,g,np,congress,1998-11-03-g-MP,MP
+502,virgin islands,1998-11-03,g,np,congress,1998-11-03-g-VI,VI
+503,puerto rico,1998-11-03,g,np,congress,1998-11-03-g-PR,PR
+504,alabama,2000-11-07,g,np,congress,2000-11-07-g-AL,AL
+505,arizona,2000-11-07,g,np,congress,2000-11-07-g-AZ,AZ
+506,arkansas,2000-11-07,g,np,congress,2000-11-07-g-AR,AR
+507,california,2000-11-07,g,np,congress,2000-11-07-g-CA,CA
+508,colorado,2000-11-07,g,np,congress,2000-11-07-g-CO,CO
+509,connecticut,2000-11-07,g,np,congress,2000-11-07-g-CT,CT
+510,delaware,2000-11-07,g,np,congress,2000-11-07-g-DE,DE
+511,district of columbia,2000-11-07,g,np,congress,2000-11-07-g-DC,DC
+512,florida,2000-11-07,g,np,congress,2000-11-07-g-FL,FL
+513,georgia,2000-11-07,g,np,congress,2000-11-07-g-GA,GA
+514,idaho,2000-11-07,g,np,congress,2000-11-07-g-ID,ID
+515,illinois,2000-11-07,g,np,congress,2000-11-07-g-IL,IL
+516,indiana,2000-11-07,g,np,congress,2000-11-07-g-IN,IN
+517,iowa,2000-11-07,g,np,congress,2000-11-07-g-IA,IA
+518,kansas,2000-11-07,g,np,congress,2000-11-07-g-KS,KS
+519,kentucky,2000-11-07,g,np,congress,2000-11-07-g-KY,KY
+520,louisiana,2000-11-07,g,np,congress,2000-11-07-g-LA,LA
+521,maine,2000-11-07,g,np,congress,2000-11-07-g-ME,ME
+522,montana,2000-11-07,g,np,congress,2000-11-07-g-MT,MT
+523,nebraska,2000-11-07,g,np,congress,2000-11-07-g-NE,NE
+524,nevada,2000-11-07,g,np,congress,2000-11-07-g-NV,NV
+525,new hampshire,2000-11-07,g,np,congress,2000-11-07-g-NH,NH
+526,new jersey,2000-11-07,g,np,congress,2000-11-07-g-NJ,NJ
+527,new mexico,2000-11-07,g,np,congress,2000-11-07-g-NM,NM
+528,new york,2000-11-07,g,np,congress,2000-11-07-g-NY,NY
+529,north carolina,2000-11-07,g,np,congress,2000-11-07-g-NC,NC
+530,north dakota,2000-11-07,g,np,congress,2000-11-07-g-ND,ND
+531,ohio,2000-11-07,g,np,congress,2000-11-07-g-OH,OH
+532,oklahoma,2000-11-07,g,np,congress,2000-11-07-g-OK,OK
+533,oregon,2000-11-07,g,np,congress,2000-11-07-g-OR,OR
+534,maryland,2000-11-07,g,np,congress,2000-11-07-g-MD,MD
+535,massachusetts,2000-11-07,g,np,congress,2000-11-07-g-MA,MA
+536,michigan,2000-11-07,g,np,congress,2000-11-07-g-MI,MI
+537,minnesota,2000-11-07,g,np,congress,2000-11-07-g-MN,MN
+538,mississippi,2000-11-07,g,np,congress,2000-11-07-g-MS,MS
+539,missouri,2000-11-07,g,np,congress,2000-11-07-g-MO,MO
+540,pennsylvania,2000-11-07,g,np,congress,2000-11-07-g-PA,PA
+541,rhode island,2000-11-07,g,np,congress,2000-11-07-g-RI,RI
+542,south carolina,2000-11-07,g,np,congress,2000-11-07-g-SC,SC
+543,south dakota,2000-11-07,g,np,congress,2000-11-07-g-SD,SD
+544,tennessee,2000-11-07,g,np,congress,2000-11-07-g-TN,TN
+545,texas,2000-11-07,g,np,congress,2000-11-07-g-TX,TX
+546,utah,2000-11-07,g,np,congress,2000-11-07-g-UT,UT
+547,vermont,2000-11-07,g,np,congress,2000-11-07-g-VT,VT
+548,virginia,2000-11-07,g,np,congress,2000-11-07-g-VA,VA
+549,washington,2000-11-07,g,np,congress,2000-11-07-g-WA,WA
+550,west virginia,2000-11-07,g,np,congress,2000-11-07-g-WV,WV
+551,wisconsin,2000-11-07,g,np,congress,2000-11-07-g-WI,WI
+552,wyoming,2000-11-07,g,np,congress,2000-11-07-g-WY,WY
+553,alaska,2000-11-07,g,np,congress,2000-11-07-g-AK,AK
+554,hawaii,2000-11-07,g,np,congress,2000-11-07-g-HI,HI
+555,guam,2000-11-07,g,np,congress,2000-11-07-g-GU,GU
+556,american samoa,2000-11-07,g,np,congress,2000-11-07-g-AS,AS
+557,northern mariana islands,2000-11-07,g,np,congress,2000-11-07-g-MP,MP
+558,virgin islands,2000-11-07,g,np,congress,2000-11-07-g-VI,VI
+559,puerto rico,2000-11-07,g,np,congress,2000-11-07-g-PR,PR
+560,alabama,2002-11-05,g,np,congress,2002-11-05-g-AL,AL
+561,arizona,2002-11-05,g,np,congress,2002-11-05-g-AZ,AZ
+562,arkansas,2002-11-05,g,np,congress,2002-11-05-g-AR,AR
+563,california,2002-11-05,g,np,congress,2002-11-05-g-CA,CA
+564,colorado,2002-11-05,g,np,congress,2002-11-05-g-CO,CO
+565,connecticut,2002-11-05,g,np,congress,2002-11-05-g-CT,CT
+566,delaware,2002-11-05,g,np,congress,2002-11-05-g-DE,DE
+567,district of columbia,2002-11-05,g,np,congress,2002-11-05-g-DC,DC
+568,florida,2002-11-05,g,np,congress,2002-11-05-g-FL,FL
+569,georgia,2002-11-05,g,np,congress,2002-11-05-g-GA,GA
+570,idaho,2002-11-05,g,np,congress,2002-11-05-g-ID,ID
+571,illinois,2002-11-05,g,np,congress,2002-11-05-g-IL,IL
+572,indiana,2002-11-05,g,np,congress,2002-11-05-g-IN,IN
+573,iowa,2002-11-05,g,np,congress,2002-11-05-g-IA,IA
+574,kansas,2002-11-05,g,np,congress,2002-11-05-g-KS,KS
+575,kentucky,2002-11-05,g,np,congress,2002-11-05-g-KY,KY
+576,louisiana,2002-11-05,g,np,congress,2002-11-05-g-LA,LA
+577,maine,2002-11-05,g,np,congress,2002-11-05-g-ME,ME
+578,montana,2002-11-05,g,np,congress,2002-11-05-g-MT,MT
+579,nebraska,2002-11-05,g,np,congress,2002-11-05-g-NE,NE
+580,nevada,2002-11-05,g,np,congress,2002-11-05-g-NV,NV
+581,new hampshire,2002-11-05,g,np,congress,2002-11-05-g-NH,NH
+582,new jersey,2002-11-05,g,np,congress,2002-11-05-g-NJ,NJ
+583,new mexico,2002-11-05,g,np,congress,2002-11-05-g-NM,NM
+584,new york,2002-11-05,g,np,congress,2002-11-05-g-NY,NY
+585,north carolina,2002-11-05,g,np,congress,2002-11-05-g-NC,NC
+586,north dakota,2002-11-05,g,np,congress,2002-11-05-g-ND,ND
+587,ohio,2002-11-05,g,np,congress,2002-11-05-g-OH,OH
+588,oklahoma,2002-11-05,g,np,congress,2002-11-05-g-OK,OK
+589,oregon,2002-11-05,g,np,congress,2002-11-05-g-OR,OR
+590,maryland,2002-11-05,g,np,congress,2002-11-05-g-MD,MD
+591,massachusetts,2002-11-05,g,np,congress,2002-11-05-g-MA,MA
+592,michigan,2002-11-05,g,np,congress,2002-11-05-g-MI,MI
+593,minnesota,2002-11-05,g,np,congress,2002-11-05-g-MN,MN
+594,mississippi,2002-11-05,g,np,congress,2002-11-05-g-MS,MS
+595,missouri,2002-11-05,g,np,congress,2002-11-05-g-MO,MO
+596,pennsylvania,2002-11-05,g,np,congress,2002-11-05-g-PA,PA
+597,rhode island,2002-11-05,g,np,congress,2002-11-05-g-RI,RI
+598,south carolina,2002-11-05,g,np,congress,2002-11-05-g-SC,SC
+599,south dakota,2002-11-05,g,np,congress,2002-11-05-g-SD,SD
+600,tennessee,2002-11-05,g,np,congress,2002-11-05-g-TN,TN
+601,texas,2002-11-05,g,np,congress,2002-11-05-g-TX,TX
+602,utah,2002-11-05,g,np,congress,2002-11-05-g-UT,UT
+603,vermont,2002-11-05,g,np,congress,2002-11-05-g-VT,VT
+604,virginia,2002-11-05,g,np,congress,2002-11-05-g-VA,VA
+605,washington,2002-11-05,g,np,congress,2002-11-05-g-WA,WA
+606,west virginia,2002-11-05,g,np,congress,2002-11-05-g-WV,WV
+607,wisconsin,2002-11-05,g,np,congress,2002-11-05-g-WI,WI
+608,wyoming,2002-11-05,g,np,congress,2002-11-05-g-WY,WY
+609,alaska,2002-11-05,g,np,congress,2002-11-05-g-AK,AK
+610,hawaii,2002-11-05,g,np,congress,2002-11-05-g-HI,HI
+611,guam,2002-11-05,g,np,congress,2002-11-05-g-GU,GU
+612,american samoa,2002-11-05,g,np,congress,2002-11-05-g-AS,AS
+613,northern mariana islands,2002-11-05,g,np,congress,2002-11-05-g-MP,MP
+614,virgin islands,2002-11-05,g,np,congress,2002-11-05-g-VI,VI
+615,puerto rico,2002-11-05,g,np,congress,2002-11-05-g-PR,PR
+616,alabama,2004-11-02,g,np,congress,2004-11-02-g-AL,AL
+617,arizona,2004-11-02,g,np,congress,2004-11-02-g-AZ,AZ
+618,arkansas,2004-11-02,g,np,congress,2004-11-02-g-AR,AR
+619,california,2004-11-02,g,np,congress,2004-11-02-g-CA,CA
+620,colorado,2004-11-02,g,np,congress,2004-11-02-g-CO,CO
+621,connecticut,2004-11-02,g,np,congress,2004-11-02-g-CT,CT
+622,delaware,2004-11-02,g,np,congress,2004-11-02-g-DE,DE
+623,district of columbia,2004-11-02,g,np,congress,2004-11-02-g-DC,DC
+624,florida,2004-11-02,g,np,congress,2004-11-02-g-FL,FL
+625,georgia,2004-11-02,g,np,congress,2004-11-02-g-GA,GA
+626,idaho,2004-11-02,g,np,congress,2004-11-02-g-ID,ID
+627,illinois,2004-11-02,g,np,congress,2004-11-02-g-IL,IL
+628,indiana,2004-11-02,g,np,congress,2004-11-02-g-IN,IN
+629,iowa,2004-11-02,g,np,congress,2004-11-02-g-IA,IA
+630,kansas,2004-11-02,g,np,congress,2004-11-02-g-KS,KS
+631,kentucky,2004-11-02,g,np,congress,2004-11-02-g-KY,KY
+632,louisiana,2004-11-02,g,np,congress,2004-11-02-g-LA,LA
+633,maine,2004-11-02,g,np,congress,2004-11-02-g-ME,ME
+634,montana,2004-11-02,g,np,congress,2004-11-02-g-MT,MT
+635,nebraska,2004-11-02,g,np,congress,2004-11-02-g-NE,NE
+636,nevada,2004-11-02,g,np,congress,2004-11-02-g-NV,NV
+637,new hampshire,2004-11-02,g,np,congress,2004-11-02-g-NH,NH
+638,new jersey,2004-11-02,g,np,congress,2004-11-02-g-NJ,NJ
+639,new mexico,2004-11-02,g,np,congress,2004-11-02-g-NM,NM
+640,new york,2004-11-02,g,np,congress,2004-11-02-g-NY,NY
+641,north carolina,2004-11-02,g,np,congress,2004-11-02-g-NC,NC
+642,north dakota,2004-11-02,g,np,congress,2004-11-02-g-ND,ND
+643,ohio,2004-11-02,g,np,congress,2004-11-02-g-OH,OH
+644,oklahoma,2004-11-02,g,np,congress,2004-11-02-g-OK,OK
+645,oregon,2004-11-02,g,np,congress,2004-11-02-g-OR,OR
+646,maryland,2004-11-02,g,np,congress,2004-11-02-g-MD,MD
+647,massachusetts,2004-11-02,g,np,congress,2004-11-02-g-MA,MA
+648,michigan,2004-11-02,g,np,congress,2004-11-02-g-MI,MI
+649,minnesota,2004-11-02,g,np,congress,2004-11-02-g-MN,MN
+650,mississippi,2004-11-02,g,np,congress,2004-11-02-g-MS,MS
+651,missouri,2004-11-02,g,np,congress,2004-11-02-g-MO,MO
+652,pennsylvania,2004-11-02,g,np,congress,2004-11-02-g-PA,PA
+653,rhode island,2004-11-02,g,np,congress,2004-11-02-g-RI,RI
+654,south carolina,2004-11-02,g,np,congress,2004-11-02-g-SC,SC
+655,south dakota,2004-11-02,g,np,congress,2004-11-02-g-SD,SD
+656,tennessee,2004-11-02,g,np,congress,2004-11-02-g-TN,TN
+657,texas,2004-11-02,g,np,congress,2004-11-02-g-TX,TX
+658,utah,2004-11-02,g,np,congress,2004-11-02-g-UT,UT
+659,vermont,2004-11-02,g,np,congress,2004-11-02-g-VT,VT
+660,virginia,2004-11-02,g,np,congress,2004-11-02-g-VA,VA
+661,washington,2004-11-02,g,np,congress,2004-11-02-g-WA,WA
+662,west virginia,2004-11-02,g,np,congress,2004-11-02-g-WV,WV
+663,wisconsin,2004-11-02,g,np,congress,2004-11-02-g-WI,WI
+664,wyoming,2004-11-02,g,np,congress,2004-11-02-g-WY,WY
+665,alaska,2004-11-02,g,np,congress,2004-11-02-g-AK,AK
+666,hawaii,2004-11-02,g,np,congress,2004-11-02-g-HI,HI
+667,guam,2004-11-02,g,np,congress,2004-11-02-g-GU,GU
+668,american samoa,2004-11-02,g,np,congress,2004-11-02-g-AS,AS
+669,northern mariana islands,2004-11-02,g,np,congress,2004-11-02-g-MP,MP
+670,virgin islands,2004-11-02,g,np,congress,2004-11-02-g-VI,VI
+671,puerto rico,2004-11-02,g,np,congress,2004-11-02-g-PR,PR
+672,alabama,2006-11-07,g,np,congress,2006-11-07-g-AL,AL
+673,arizona,2006-11-07,g,np,congress,2006-11-07-g-AZ,AZ
+674,arkansas,2006-11-07,g,np,congress,2006-11-07-g-AR,AR
+675,california,2006-11-07,g,np,congress,2006-11-07-g-CA,CA
+676,colorado,2006-11-07,g,np,congress,2006-11-07-g-CO,CO
+677,connecticut,2006-11-07,g,np,congress,2006-11-07-g-CT,CT
+678,delaware,2006-11-07,g,np,congress,2006-11-07-g-DE,DE
+679,district of columbia,2006-11-07,g,np,congress,2006-11-07-g-DC,DC
+680,florida,2006-11-07,g,np,congress,2006-11-07-g-FL,FL
+681,georgia,2006-11-07,g,np,congress,2006-11-07-g-GA,GA
+682,idaho,2006-11-07,g,np,congress,2006-11-07-g-ID,ID
+683,illinois,2006-11-07,g,np,congress,2006-11-07-g-IL,IL
+684,indiana,2006-11-07,g,np,congress,2006-11-07-g-IN,IN
+685,iowa,2006-11-07,g,np,congress,2006-11-07-g-IA,IA
+686,kansas,2006-11-07,g,np,congress,2006-11-07-g-KS,KS
+687,kentucky,2006-11-07,g,np,congress,2006-11-07-g-KY,KY
+688,louisiana,2006-11-07,g,np,congress,2006-11-07-g-LA,LA
+689,maine,2006-11-07,g,np,congress,2006-11-07-g-ME,ME
+690,montana,2006-11-07,g,np,congress,2006-11-07-g-MT,MT
+691,nebraska,2006-11-07,g,np,congress,2006-11-07-g-NE,NE
+692,nevada,2006-11-07,g,np,congress,2006-11-07-g-NV,NV
+693,new hampshire,2006-11-07,g,np,congress,2006-11-07-g-NH,NH
+694,new jersey,2006-11-07,g,np,congress,2006-11-07-g-NJ,NJ
+695,new mexico,2006-11-07,g,np,congress,2006-11-07-g-NM,NM
+696,new york,2006-11-07,g,np,congress,2006-11-07-g-NY,NY
+697,north carolina,2006-11-07,g,np,congress,2006-11-07-g-NC,NC
+698,north dakota,2006-11-07,g,np,congress,2006-11-07-g-ND,ND
+699,ohio,2006-11-07,g,np,congress,2006-11-07-g-OH,OH
+700,oklahoma,2006-11-07,g,np,congress,2006-11-07-g-OK,OK
+701,oregon,2006-11-07,g,np,congress,2006-11-07-g-OR,OR
+702,maryland,2006-11-07,g,np,congress,2006-11-07-g-MD,MD
+703,massachusetts,2006-11-07,g,np,congress,2006-11-07-g-MA,MA
+704,michigan,2006-11-07,g,np,congress,2006-11-07-g-MI,MI
+705,minnesota,2006-11-07,g,np,congress,2006-11-07-g-MN,MN
+706,mississippi,2006-11-07,g,np,congress,2006-11-07-g-MS,MS
+707,missouri,2006-11-07,g,np,congress,2006-11-07-g-MO,MO
+708,pennsylvania,2006-11-07,g,np,congress,2006-11-07-g-PA,PA
+709,rhode island,2006-11-07,g,np,congress,2006-11-07-g-RI,RI
+710,south carolina,2006-11-07,g,np,congress,2006-11-07-g-SC,SC
+711,south dakota,2006-11-07,g,np,congress,2006-11-07-g-SD,SD
+712,tennessee,2006-11-07,g,np,congress,2006-11-07-g-TN,TN
+713,texas,2006-11-07,g,np,congress,2006-11-07-g-TX,TX
+714,utah,2006-11-07,g,np,congress,2006-11-07-g-UT,UT
+715,vermont,2006-11-07,g,np,congress,2006-11-07-g-VT,VT
+716,virginia,2006-11-07,g,np,congress,2006-11-07-g-VA,VA
+717,washington,2006-11-07,g,np,congress,2006-11-07-g-WA,WA
+718,west virginia,2006-11-07,g,np,congress,2006-11-07-g-WV,WV
+719,wisconsin,2006-11-07,g,np,congress,2006-11-07-g-WI,WI
+720,wyoming,2006-11-07,g,np,congress,2006-11-07-g-WY,WY
+721,alaska,2006-11-07,g,np,congress,2006-11-07-g-AK,AK
+722,hawaii,2006-11-07,g,np,congress,2006-11-07-g-HI,HI
+723,guam,2006-11-07,g,np,congress,2006-11-07-g-GU,GU
+724,american samoa,2006-11-07,g,np,congress,2006-11-07-g-AS,AS
+725,northern mariana islands,2006-11-07,g,np,congress,2006-11-07-g-MP,MP
+726,virgin islands,2006-11-07,g,np,congress,2006-11-07-g-VI,VI
+727,puerto rico,2006-11-07,g,np,congress,2006-11-07-g-PR,PR
+728,alabama,2008-11-04,g,np,congress,2008-11-04-g-AL,AL
+729,arizona,2008-11-04,g,np,congress,2008-11-04-g-AZ,AZ
+730,arkansas,2008-11-04,g,np,congress,2008-11-04-g-AR,AR
+731,california,2008-11-04,g,np,congress,2008-11-04-g-CA,CA
+732,colorado,2008-11-04,g,np,congress,2008-11-04-g-CO,CO
+733,connecticut,2008-11-04,g,np,congress,2008-11-04-g-CT,CT
+734,delaware,2008-11-04,g,np,congress,2008-11-04-g-DE,DE
+735,district of columbia,2008-11-04,g,np,congress,2008-11-04-g-DC,DC
+736,florida,2008-11-04,g,np,congress,2008-11-04-g-FL,FL
+737,georgia,2008-11-04,g,np,congress,2008-11-04-g-GA,GA
+738,idaho,2008-11-04,g,np,congress,2008-11-04-g-ID,ID
+739,illinois,2008-11-04,g,np,congress,2008-11-04-g-IL,IL
+740,indiana,2008-11-04,g,np,congress,2008-11-04-g-IN,IN
+741,iowa,2008-11-04,g,np,congress,2008-11-04-g-IA,IA
+742,kansas,2008-11-04,g,np,congress,2008-11-04-g-KS,KS
+743,kentucky,2008-11-04,g,np,congress,2008-11-04-g-KY,KY
+744,louisiana,2008-11-04,g,np,congress,2008-11-04-g-LA,LA
+745,maine,2008-11-04,g,np,congress,2008-11-04-g-ME,ME
+746,montana,2008-11-04,g,np,congress,2008-11-04-g-MT,MT
+747,nebraska,2008-11-04,g,np,congress,2008-11-04-g-NE,NE
+748,nevada,2008-11-04,g,np,congress,2008-11-04-g-NV,NV
+749,new hampshire,2008-11-04,g,np,congress,2008-11-04-g-NH,NH
+750,new jersey,2008-11-04,g,np,congress,2008-11-04-g-NJ,NJ
+751,new mexico,2008-11-04,g,np,congress,2008-11-04-g-NM,NM
+752,new york,2008-11-04,g,np,congress,2008-11-04-g-NY,NY
+753,north carolina,2008-11-04,g,np,congress,2008-11-04-g-NC,NC
+754,north dakota,2008-11-04,g,np,congress,2008-11-04-g-ND,ND
+755,ohio,2008-11-04,g,np,congress,2008-11-04-g-OH,OH
+756,oklahoma,2008-11-04,g,np,congress,2008-11-04-g-OK,OK
+757,oregon,2008-11-04,g,np,congress,2008-11-04-g-OR,OR
+758,maryland,2008-11-04,g,np,congress,2008-11-04-g-MD,MD
+759,massachusetts,2008-11-04,g,np,congress,2008-11-04-g-MA,MA
+760,michigan,2008-11-04,g,np,congress,2008-11-04-g-MI,MI
+761,minnesota,2008-11-04,g,np,congress,2008-11-04-g-MN,MN
+762,mississippi,2008-11-04,g,np,congress,2008-11-04-g-MS,MS
+763,missouri,2008-11-04,g,np,congress,2008-11-04-g-MO,MO
+764,pennsylvania,2008-11-04,g,np,congress,2008-11-04-g-PA,PA
+765,rhode island,2008-11-04,g,np,congress,2008-11-04-g-RI,RI
+766,south carolina,2008-11-04,g,np,congress,2008-11-04-g-SC,SC
+767,south dakota,2008-11-04,g,np,congress,2008-11-04-g-SD,SD
+768,tennessee,2008-11-04,g,np,congress,2008-11-04-g-TN,TN
+769,texas,2008-11-04,g,np,congress,2008-11-04-g-TX,TX
+770,utah,2008-11-04,g,np,congress,2008-11-04-g-UT,UT
+771,vermont,2008-11-04,g,np,congress,2008-11-04-g-VT,VT
+772,virginia,2008-11-04,g,np,congress,2008-11-04-g-VA,VA
+773,washington,2008-11-04,g,np,congress,2008-11-04-g-WA,WA
+774,west virginia,2008-11-04,g,np,congress,2008-11-04-g-WV,WV
+775,wisconsin,2008-11-04,g,np,congress,2008-11-04-g-WI,WI
+776,wyoming,2008-11-04,g,np,congress,2008-11-04-g-WY,WY
+777,alaska,2008-11-04,g,np,congress,2008-11-04-g-AK,AK
+778,hawaii,2008-11-04,g,np,congress,2008-11-04-g-HI,HI
+779,guam,2008-11-04,g,np,congress,2008-11-04-g-GU,GU
+780,american samoa,2008-11-04,g,np,congress,2008-11-04-g-AS,AS
+781,northern mariana islands,2008-11-04,g,np,congress,2008-11-04-g-MP,MP
+782,virgin islands,2008-11-04,g,np,congress,2008-11-04-g-VI,VI
+783,puerto rico,2008-11-04,g,np,congress,2008-11-04-g-PR,PR
+784,alabama,2010-11-02,g,np,congress,2010-11-02-g-AL,AL
+785,arizona,2010-11-02,g,np,congress,2010-11-02-g-AZ,AZ
+786,arkansas,2010-11-02,g,np,congress,2010-11-02-g-AR,AR
+787,california,2010-11-02,g,np,congress,2010-11-02-g-CA,CA
+788,colorado,2010-11-02,g,np,congress,2010-11-02-g-CO,CO
+789,connecticut,2010-11-02,g,np,congress,2010-11-02-g-CT,CT
+790,delaware,2010-11-02,g,np,congress,2010-11-02-g-DE,DE
+791,district of columbia,2010-11-02,g,np,congress,2010-11-02-g-DC,DC
+792,florida,2010-11-02,g,np,congress,2010-11-02-g-FL,FL
+793,georgia,2010-11-02,g,np,congress,2010-11-02-g-GA,GA
+794,idaho,2010-11-02,g,np,congress,2010-11-02-g-ID,ID
+795,illinois,2010-11-02,g,np,congress,2010-11-02-g-IL,IL
+796,indiana,2010-11-02,g,np,congress,2010-11-02-g-IN,IN
+797,iowa,2010-11-02,g,np,congress,2010-11-02-g-IA,IA
+798,kansas,2010-11-02,g,np,congress,2010-11-02-g-KS,KS
+799,kentucky,2010-11-02,g,np,congress,2010-11-02-g-KY,KY
+800,louisiana,2010-11-02,g,np,congress,2010-11-02-g-LA,LA
+801,maine,2010-11-02,g,np,congress,2010-11-02-g-ME,ME
+802,montana,2010-11-02,g,np,congress,2010-11-02-g-MT,MT
+803,nebraska,2010-11-02,g,np,congress,2010-11-02-g-NE,NE
+804,nevada,2010-11-02,g,np,congress,2010-11-02-g-NV,NV
+805,new hampshire,2010-11-02,g,np,congress,2010-11-02-g-NH,NH
+806,new jersey,2010-11-02,g,np,congress,2010-11-02-g-NJ,NJ
+807,new mexico,2010-11-02,g,np,congress,2010-11-02-g-NM,NM
+808,new york,2010-11-02,g,np,congress,2010-11-02-g-NY,NY
+809,north carolina,2010-11-02,g,np,congress,2010-11-02-g-NC,NC
+810,north dakota,2010-11-02,g,np,congress,2010-11-02-g-ND,ND
+811,ohio,2010-11-02,g,np,congress,2010-11-02-g-OH,OH
+812,oklahoma,2010-11-02,g,np,congress,2010-11-02-g-OK,OK
+813,oregon,2010-11-02,g,np,congress,2010-11-02-g-OR,OR
+814,maryland,2010-11-02,g,np,congress,2010-11-02-g-MD,MD
+815,massachusetts,2010-11-02,g,np,congress,2010-11-02-g-MA,MA
+816,michigan,2010-11-02,g,np,congress,2010-11-02-g-MI,MI
+817,minnesota,2010-11-02,g,np,congress,2010-11-02-g-MN,MN
+818,mississippi,2010-11-02,g,np,congress,2010-11-02-g-MS,MS
+819,missouri,2010-11-02,g,np,congress,2010-11-02-g-MO,MO
+820,pennsylvania,2010-11-02,g,np,congress,2010-11-02-g-PA,PA
+821,rhode island,2010-11-02,g,np,congress,2010-11-02-g-RI,RI
+822,south carolina,2010-11-02,g,np,congress,2010-11-02-g-SC,SC
+823,south dakota,2010-11-02,g,np,congress,2010-11-02-g-SD,SD
+824,tennessee,2010-11-02,g,np,congress,2010-11-02-g-TN,TN
+825,texas,2010-11-02,g,np,congress,2010-11-02-g-TX,TX
+826,utah,2010-11-02,g,np,congress,2010-11-02-g-UT,UT
+827,vermont,2010-11-02,g,np,congress,2010-11-02-g-VT,VT
+828,virginia,2010-11-02,g,np,congress,2010-11-02-g-VA,VA
+829,washington,2010-11-02,g,np,congress,2010-11-02-g-WA,WA
+830,west virginia,2010-11-02,g,np,congress,2010-11-02-g-WV,WV
+831,wisconsin,2010-11-02,g,np,congress,2010-11-02-g-WI,WI
+832,wyoming,2010-11-02,g,np,congress,2010-11-02-g-WY,WY
+833,alaska,2010-11-02,g,np,congress,2010-11-02-g-AK,AK
+834,hawaii,2010-11-02,g,np,congress,2010-11-02-g-HI,HI
+835,guam,2010-11-02,g,np,congress,2010-11-02-g-GU,GU
+836,american samoa,2010-11-02,g,np,congress,2010-11-02-g-AS,AS
+837,northern mariana islands,2010-11-02,g,np,congress,2010-11-02-g-MP,MP
+838,virgin islands,2010-11-02,g,np,congress,2010-11-02-g-VI,VI
+839,puerto rico,2010-11-02,g,np,congress,2010-11-02-g-PR,PR
+840,alabama,2012-11-06,g,np,congress,2012-11-06-g-AL,AL
+841,arizona,2012-11-06,g,np,congress,2012-11-06-g-AZ,AZ
+842,arkansas,2012-11-06,g,np,congress,2012-11-06-g-AR,AR
+843,california,2012-11-06,g,np,congress,2012-11-06-g-CA,CA
+844,colorado,2012-11-06,g,np,congress,2012-11-06-g-CO,CO
+845,connecticut,2012-11-06,g,np,congress,2012-11-06-g-CT,CT
+846,delaware,2012-11-06,g,np,congress,2012-11-06-g-DE,DE
+847,district of columbia,2012-11-06,g,np,congress,2012-11-06-g-DC,DC
+848,florida,2012-11-06,g,np,congress,2012-11-06-g-FL,FL
+849,georgia,2012-11-06,g,np,congress,2012-11-06-g-GA,GA
+850,idaho,2012-11-06,g,np,congress,2012-11-06-g-ID,ID
+851,illinois,2012-11-06,g,np,congress,2012-11-06-g-IL,IL
+852,indiana,2012-11-06,g,np,congress,2012-11-06-g-IN,IN
+853,iowa,2012-11-06,g,np,congress,2012-11-06-g-IA,IA
+854,kansas,2012-11-06,g,np,congress,2012-11-06-g-KS,KS
+855,kentucky,2012-11-06,g,np,congress,2012-11-06-g-KY,KY
+856,louisiana,2012-11-06,g,np,congress,2012-11-06-g-LA,LA
+857,maine,2012-11-06,g,np,congress,2012-11-06-g-ME,ME
+858,montana,2012-11-06,g,np,congress,2012-11-06-g-MT,MT
+859,nebraska,2012-11-06,g,np,congress,2012-11-06-g-NE,NE
+860,nevada,2012-11-06,g,np,congress,2012-11-06-g-NV,NV
+861,new hampshire,2012-11-06,g,np,congress,2012-11-06-g-NH,NH
+862,new jersey,2012-11-06,g,np,congress,2012-11-06-g-NJ,NJ
+863,new mexico,2012-11-06,g,np,congress,2012-11-06-g-NM,NM
+864,new york,2012-11-06,g,np,congress,2012-11-06-g-NY,NY
+865,north carolina,2012-11-06,g,np,congress,2012-11-06-g-NC,NC
+866,north dakota,2012-11-06,g,np,congress,2012-11-06-g-ND,ND
+867,ohio,2012-11-06,g,np,congress,2012-11-06-g-OH,OH
+868,oklahoma,2012-11-06,g,np,congress,2012-11-06-g-OK,OK
+869,oregon,2012-11-06,g,np,congress,2012-11-06-g-OR,OR
+870,maryland,2012-11-06,g,np,congress,2012-11-06-g-MD,MD
+871,massachusetts,2012-11-06,g,np,congress,2012-11-06-g-MA,MA
+872,michigan,2012-11-06,g,np,congress,2012-11-06-g-MI,MI
+873,minnesota,2012-11-06,g,np,congress,2012-11-06-g-MN,MN
+874,mississippi,2012-11-06,g,np,congress,2012-11-06-g-MS,MS
+875,missouri,2012-11-06,g,np,congress,2012-11-06-g-MO,MO
+876,pennsylvania,2012-11-06,g,np,congress,2012-11-06-g-PA,PA
+877,rhode island,2012-11-06,g,np,congress,2012-11-06-g-RI,RI
+878,south carolina,2012-11-06,g,np,congress,2012-11-06-g-SC,SC
+879,south dakota,2012-11-06,g,np,congress,2012-11-06-g-SD,SD
+880,tennessee,2012-11-06,g,np,congress,2012-11-06-g-TN,TN
+881,texas,2012-11-06,g,np,congress,2012-11-06-g-TX,TX
+882,utah,2012-11-06,g,np,congress,2012-11-06-g-UT,UT
+883,vermont,2012-11-06,g,np,congress,2012-11-06-g-VT,VT
+884,virginia,2012-11-06,g,np,congress,2012-11-06-g-VA,VA
+885,washington,2012-11-06,g,np,congress,2012-11-06-g-WA,WA
+886,west virginia,2012-11-06,g,np,congress,2012-11-06-g-WV,WV
+887,wisconsin,2012-11-06,g,np,congress,2012-11-06-g-WI,WI
+888,wyoming,2012-11-06,g,np,congress,2012-11-06-g-WY,WY
+889,alaska,2012-11-06,g,np,congress,2012-11-06-g-AK,AK
+890,hawaii,2012-11-06,g,np,congress,2012-11-06-g-HI,HI
+891,guam,2012-11-06,g,np,congress,2012-11-06-g-GU,GU
+892,american samoa,2012-11-06,g,np,congress,2012-11-06-g-AS,AS
+893,northern mariana islands,2012-11-06,g,np,congress,2012-11-06-g-MP,MP
+894,virgin islands,2012-11-06,g,np,congress,2012-11-06-g-VI,VI
+895,puerto rico,2012-11-06,g,np,congress,2012-11-06-g-PR,PR
+896,alabama,2014-11-04,g,np,congress,2014-11-04-g-AL,AL
+897,arizona,2014-11-04,g,np,congress,2014-11-04-g-AZ,AZ
+898,arkansas,2014-11-04,g,np,congress,2014-11-04-g-AR,AR
+899,california,2014-11-04,g,np,congress,2014-11-04-g-CA,CA
+900,colorado,2014-11-04,g,np,congress,2014-11-04-g-CO,CO
+901,connecticut,2014-11-04,g,np,congress,2014-11-04-g-CT,CT
+902,delaware,2014-11-04,g,np,congress,2014-11-04-g-DE,DE
+903,district of columbia,2014-11-04,g,np,congress,2014-11-04-g-DC,DC
+904,florida,2014-11-04,g,np,congress,2014-11-04-g-FL,FL
+905,georgia,2014-11-04,g,np,congress,2014-11-04-g-GA,GA
+906,idaho,2014-11-04,g,np,congress,2014-11-04-g-ID,ID
+907,illinois,2014-11-04,g,np,congress,2014-11-04-g-IL,IL
+908,indiana,2014-11-04,g,np,congress,2014-11-04-g-IN,IN
+909,iowa,2014-11-04,g,np,congress,2014-11-04-g-IA,IA
+910,kansas,2014-11-04,g,np,congress,2014-11-04-g-KS,KS
+911,kentucky,2014-11-04,g,np,congress,2014-11-04-g-KY,KY
+912,louisiana,2014-11-04,g,np,congress,2014-11-04-g-LA,LA
+913,maine,2014-11-04,g,np,congress,2014-11-04-g-ME,ME
+914,montana,2014-11-04,g,np,congress,2014-11-04-g-MT,MT
+915,nebraska,2014-11-04,g,np,congress,2014-11-04-g-NE,NE
+916,nevada,2014-11-04,g,np,congress,2014-11-04-g-NV,NV
+917,new hampshire,2014-11-04,g,np,congress,2014-11-04-g-NH,NH
+918,new jersey,2014-11-04,g,np,congress,2014-11-04-g-NJ,NJ
+919,new mexico,2014-11-04,g,np,congress,2014-11-04-g-NM,NM
+920,new york,2014-11-04,g,np,congress,2014-11-04-g-NY,NY
+921,north carolina,2014-11-04,g,np,congress,2014-11-04-g-NC,NC
+922,north dakota,2014-11-04,g,np,congress,2014-11-04-g-ND,ND
+923,ohio,2014-11-04,g,np,congress,2014-11-04-g-OH,OH
+924,oklahoma,2014-11-04,g,np,congress,2014-11-04-g-OK,OK
+925,oregon,2014-11-04,g,np,congress,2014-11-04-g-OR,OR
+926,maryland,2014-11-04,g,np,congress,2014-11-04-g-MD,MD
+927,massachusetts,2014-11-04,g,np,congress,2014-11-04-g-MA,MA
+928,michigan,2014-11-04,g,np,congress,2014-11-04-g-MI,MI
+929,minnesota,2014-11-04,g,np,congress,2014-11-04-g-MN,MN
+930,mississippi,2014-11-04,g,np,congress,2014-11-04-g-MS,MS
+931,missouri,2014-11-04,g,np,congress,2014-11-04-g-MO,MO
+932,pennsylvania,2014-11-04,g,np,congress,2014-11-04-g-PA,PA
+933,rhode island,2014-11-04,g,np,congress,2014-11-04-g-RI,RI
+934,south carolina,2014-11-04,g,np,congress,2014-11-04-g-SC,SC
+935,south dakota,2014-11-04,g,np,congress,2014-11-04-g-SD,SD
+936,tennessee,2014-11-04,g,np,congress,2014-11-04-g-TN,TN
+937,texas,2014-11-04,g,np,congress,2014-11-04-g-TX,TX
+938,utah,2014-11-04,g,np,congress,2014-11-04-g-UT,UT
+939,vermont,2014-11-04,g,np,congress,2014-11-04-g-VT,VT
+940,virginia,2014-11-04,g,np,congress,2014-11-04-g-VA,VA
+941,washington,2014-11-04,g,np,congress,2014-11-04-g-WA,WA
+942,west virginia,2014-11-04,g,np,congress,2014-11-04-g-WV,WV
+943,wisconsin,2014-11-04,g,np,congress,2014-11-04-g-WI,WI
+944,wyoming,2014-11-04,g,np,congress,2014-11-04-g-WY,WY
+945,alaska,2014-11-04,g,np,congress,2014-11-04-g-AK,AK
+946,hawaii,2014-11-04,g,np,congress,2014-11-04-g-HI,HI
+947,guam,2014-11-04,g,np,congress,2014-11-04-g-GU,GU
+948,american samoa,2014-11-04,g,np,congress,2014-11-04-g-AS,AS
+949,northern mariana islands,2014-11-04,g,np,congress,2014-11-04-g-MP,MP
+950,virgin islands,2014-11-04,g,np,congress,2014-11-04-g-VI,VI
+951,puerto rico,2014-11-04,g,np,congress,2014-11-04-g-PR,PR
+952,alabama,2016-11-01,g,np,congress,2016-11-01-g-AL,AL
+953,arizona,2016-11-01,g,np,congress,2016-11-01-g-AZ,AZ
+954,arkansas,2016-11-01,g,np,congress,2016-11-01-g-AR,AR
+955,california,2016-11-01,g,np,congress,2016-11-01-g-CA,CA
+956,colorado,2016-11-01,g,np,congress,2016-11-01-g-CO,CO
+957,connecticut,2016-11-01,g,np,congress,2016-11-01-g-CT,CT
+958,delaware,2016-11-01,g,np,congress,2016-11-01-g-DE,DE
+959,district of columbia,2016-11-01,g,np,congress,2016-11-01-g-DC,DC
+960,florida,2016-11-01,g,np,congress,2016-11-01-g-FL,FL
+961,georgia,2016-11-01,g,np,congress,2016-11-01-g-GA,GA
+962,idaho,2016-11-01,g,np,congress,2016-11-01-g-ID,ID
+963,illinois,2016-11-01,g,np,congress,2016-11-01-g-IL,IL
+964,indiana,2016-11-01,g,np,congress,2016-11-01-g-IN,IN
+965,iowa,2016-11-01,g,np,congress,2016-11-01-g-IA,IA
+966,kansas,2016-11-01,g,np,congress,2016-11-01-g-KS,KS
+967,kentucky,2016-11-01,g,np,congress,2016-11-01-g-KY,KY
+968,louisiana,2016-11-01,g,np,congress,2016-11-01-g-LA,LA
+969,maine,2016-11-01,g,np,congress,2016-11-01-g-ME,ME
+970,montana,2016-11-01,g,np,congress,2016-11-01-g-MT,MT
+971,nebraska,2016-11-01,g,np,congress,2016-11-01-g-NE,NE
+972,nevada,2016-11-01,g,np,congress,2016-11-01-g-NV,NV
+973,new hampshire,2016-11-01,g,np,congress,2016-11-01-g-NH,NH
+974,new jersey,2016-11-01,g,np,congress,2016-11-01-g-NJ,NJ
+975,new mexico,2016-11-01,g,np,congress,2016-11-01-g-NM,NM
+976,new york,2016-11-01,g,np,congress,2016-11-01-g-NY,NY
+977,north carolina,2016-11-01,g,np,congress,2016-11-01-g-NC,NC
+978,north dakota,2016-11-01,g,np,congress,2016-11-01-g-ND,ND
+979,ohio,2016-11-01,g,np,congress,2016-11-01-g-OH,OH
+980,oklahoma,2016-11-01,g,np,congress,2016-11-01-g-OK,OK
+981,oregon,2016-11-01,g,np,congress,2016-11-01-g-OR,OR
+982,maryland,2016-11-01,g,np,congress,2016-11-01-g-MD,MD
+983,massachusetts,2016-11-01,g,np,congress,2016-11-01-g-MA,MA
+984,michigan,2016-11-01,g,np,congress,2016-11-01-g-MI,MI
+985,minnesota,2016-11-01,g,np,congress,2016-11-01-g-MN,MN
+986,mississippi,2016-11-01,g,np,congress,2016-11-01-g-MS,MS
+987,missouri,2016-11-01,g,np,congress,2016-11-01-g-MO,MO
+988,pennsylvania,2016-11-01,g,np,congress,2016-11-01-g-PA,PA
+989,rhode island,2016-11-01,g,np,congress,2016-11-01-g-RI,RI
+990,south carolina,2016-11-01,g,np,congress,2016-11-01-g-SC,SC
+991,south dakota,2016-11-01,g,np,congress,2016-11-01-g-SD,SD
+992,tennessee,2016-11-01,g,np,congress,2016-11-01-g-TN,TN
+993,texas,2016-11-01,g,np,congress,2016-11-01-g-TX,TX
+994,utah,2016-11-01,g,np,congress,2016-11-01-g-UT,UT
+995,vermont,2016-11-01,g,np,congress,2016-11-01-g-VT,VT
+996,virginia,2016-11-01,g,np,congress,2016-11-01-g-VA,VA
+997,washington,2016-11-01,g,np,congress,2016-11-01-g-WA,WA
+998,west virginia,2016-11-01,g,np,congress,2016-11-01-g-WV,WV
+999,wisconsin,2016-11-01,g,np,congress,2016-11-01-g-WI,WI
+1000,wyoming,2016-11-01,g,np,congress,2016-11-01-g-WY,WY
+1001,alaska,2016-11-01,g,np,congress,2016-11-01-g-AK,AK
+1002,hawaii,2016-11-01,g,np,congress,2016-11-01-g-HI,HI
+1003,guam,2016-11-01,g,np,congress,2016-11-01-g-GU,GU
+1004,american samoa,2016-11-01,g,np,congress,2016-11-01-g-AS,AS
+1005,northern mariana islands,2016-11-01,g,np,congress,2016-11-01-g-MP,MP
+1006,virgin islands,2016-11-01,g,np,congress,2016-11-01-g-VI,VI
+1007,puerto rico,2016-11-01,g,np,congress,2016-11-01-g-PR,PR
+1008,alabama,2018-11-06,g,np,congress,2018-11-06-g-AL,AL
+1009,arizona,2018-11-06,g,np,congress,2018-11-06-g-AZ,AZ
+1010,arkansas,2018-11-06,g,np,congress,2018-11-06-g-AR,AR
+1011,california,2018-11-06,g,np,congress,2018-11-06-g-CA,CA
+1012,colorado,2018-11-06,g,np,congress,2018-11-06-g-CO,CO
+1013,connecticut,2018-11-06,g,np,congress,2018-11-06-g-CT,CT
+1014,delaware,2018-11-06,g,np,congress,2018-11-06-g-DE,DE
+1015,district of columbia,2018-11-06,g,np,congress,2018-11-06-g-DC,DC
+1016,florida,2018-11-06,g,np,congress,2018-11-06-g-FL,FL
+1017,georgia,2018-11-06,g,np,congress,2018-11-06-g-GA,GA
+1018,idaho,2018-11-06,g,np,congress,2018-11-06-g-ID,ID
+1019,illinois,2018-11-06,g,np,congress,2018-11-06-g-IL,IL
+1020,indiana,2018-11-06,g,np,congress,2018-11-06-g-IN,IN
+1021,iowa,2018-11-06,g,np,congress,2018-11-06-g-IA,IA
+1022,kansas,2018-11-06,g,np,congress,2018-11-06-g-KS,KS
+1023,kentucky,2018-11-06,g,np,congress,2018-11-06-g-KY,KY
+1024,louisiana,2018-11-06,g,np,congress,2018-11-06-g-LA,LA
+1025,maine,2018-11-06,g,np,congress,2018-11-06-g-ME,ME
+1026,montana,2018-11-06,g,np,congress,2018-11-06-g-MT,MT
+1027,nebraska,2018-11-06,g,np,congress,2018-11-06-g-NE,NE
+1028,nevada,2018-11-06,g,np,congress,2018-11-06-g-NV,NV
+1029,new hampshire,2018-11-06,g,np,congress,2018-11-06-g-NH,NH
+1030,new jersey,2018-11-06,g,np,congress,2018-11-06-g-NJ,NJ
+1031,new mexico,2018-11-06,g,np,congress,2018-11-06-g-NM,NM
+1032,new york,2018-11-06,g,np,congress,2018-11-06-g-NY,NY
+1033,north carolina,2018-11-06,g,np,congress,2018-11-06-g-NC,NC
+1034,north dakota,2018-11-06,g,np,congress,2018-11-06-g-ND,ND
+1035,ohio,2018-11-06,g,np,congress,2018-11-06-g-OH,OH
+1036,oklahoma,2018-11-06,g,np,congress,2018-11-06-g-OK,OK
+1037,oregon,2018-11-06,g,np,congress,2018-11-06-g-OR,OR
+1038,maryland,2018-11-06,g,np,congress,2018-11-06-g-MD,MD
+1039,massachusetts,2018-11-06,g,np,congress,2018-11-06-g-MA,MA
+1040,michigan,2018-11-06,g,np,congress,2018-11-06-g-MI,MI
+1041,minnesota,2018-11-06,g,np,congress,2018-11-06-g-MN,MN
+1042,mississippi,2018-11-06,g,np,congress,2018-11-06-g-MS,MS
+1043,missouri,2018-11-06,g,np,congress,2018-11-06-g-MO,MO
+1044,pennsylvania,2018-11-06,g,np,congress,2018-11-06-g-PA,PA
+1045,rhode island,2018-11-06,g,np,congress,2018-11-06-g-RI,RI
+1046,south carolina,2018-11-06,g,np,congress,2018-11-06-g-SC,SC
+1047,south dakota,2018-11-06,g,np,congress,2018-11-06-g-SD,SD
+1048,tennessee,2018-11-06,g,np,congress,2018-11-06-g-TN,TN
+1049,texas,2018-11-06,g,np,congress,2018-11-06-g-TX,TX
+1050,utah,2018-11-06,g,np,congress,2018-11-06-g-UT,UT
+1051,vermont,2018-11-06,g,np,congress,2018-11-06-g-VT,VT
+1052,virginia,2018-11-06,g,np,congress,2018-11-06-g-VA,VA
+1053,washington,2018-11-06,g,np,congress,2018-11-06-g-WA,WA
+1054,west virginia,2018-11-06,g,np,congress,2018-11-06-g-WV,WV
+1055,wisconsin,2018-11-06,g,np,congress,2018-11-06-g-WI,WI
+1056,wyoming,2018-11-06,g,np,congress,2018-11-06-g-WY,WY
+1057,alaska,2018-11-06,g,np,congress,2018-11-06-g-AK,AK
+1058,hawaii,2018-11-06,g,np,congress,2018-11-06-g-HI,HI
+1059,guam,2018-11-06,g,np,congress,2018-11-06-g-GU,GU
+1060,american samoa,2018-11-06,g,np,congress,2018-11-06-g-AS,AS
+1061,northern mariana islands,2018-11-06,g,np,congress,2018-11-06-g-MP,MP
+1062,virgin islands,2018-11-06,g,np,congress,2018-11-06-g-VI,VI
+1063,puerto rico,2018-11-06,g,np,congress,2018-11-06-g-PR,PR
+1064,alabama,2020-11-03,g,np,congress,2020-11-03-g-AL,AL
+1065,arizona,2020-11-03,g,np,congress,2020-11-03-g-AZ,AZ
+1066,arkansas,2020-11-03,g,np,congress,2020-11-03-g-AR,AR
+1067,california,2020-11-03,g,np,congress,2020-11-03-g-CA,CA
+1068,colorado,2020-11-03,g,np,congress,2020-11-03-g-CO,CO
+1069,connecticut,2020-11-03,g,np,congress,2020-11-03-g-CT,CT
+1070,delaware,2020-11-03,g,np,congress,2020-11-03-g-DE,DE
+1071,district of columbia,2020-11-03,g,np,congress,2020-11-03-g-DC,DC
+1072,florida,2020-11-03,g,np,congress,2020-11-03-g-FL,FL
+1073,georgia,2020-11-03,g,np,congress,2020-11-03-g-GA,GA
+1074,idaho,2020-11-03,g,np,congress,2020-11-03-g-ID,ID
+1075,illinois,2020-11-03,g,np,congress,2020-11-03-g-IL,IL
+1076,indiana,2020-11-03,g,np,congress,2020-11-03-g-IN,IN
+1077,iowa,2020-11-03,g,np,congress,2020-11-03-g-IA,IA
+1078,kansas,2020-11-03,g,np,congress,2020-11-03-g-KS,KS
+1079,kentucky,2020-11-03,g,np,congress,2020-11-03-g-KY,KY
+1080,louisiana,2020-11-03,g,np,congress,2020-11-03-g-LA,LA
+1081,maine,2020-11-03,g,np,congress,2020-11-03-g-ME,ME
+1082,montana,2020-11-03,g,np,congress,2020-11-03-g-MT,MT
+1083,nebraska,2020-11-03,g,np,congress,2020-11-03-g-NE,NE
+1084,nevada,2020-11-03,g,np,congress,2020-11-03-g-NV,NV
+1085,new hampshire,2020-11-03,g,np,congress,2020-11-03-g-NH,NH
+1086,new jersey,2020-11-03,g,np,congress,2020-11-03-g-NJ,NJ
+1087,new mexico,2020-11-03,g,np,congress,2020-11-03-g-NM,NM
+1088,new york,2020-11-03,g,np,congress,2020-11-03-g-NY,NY
+1089,north carolina,2020-11-03,g,np,congress,2020-11-03-g-NC,NC
+1090,north dakota,2020-11-03,g,np,congress,2020-11-03-g-ND,ND
+1091,ohio,2020-11-03,g,np,congress,2020-11-03-g-OH,OH
+1092,oklahoma,2020-11-03,g,np,congress,2020-11-03-g-OK,OK
+1093,oregon,2020-11-03,g,np,congress,2020-11-03-g-OR,OR
+1094,maryland,2020-11-03,g,np,congress,2020-11-03-g-MD,MD
+1095,massachusetts,2020-11-03,g,np,congress,2020-11-03-g-MA,MA
+1096,michigan,2020-11-03,g,np,congress,2020-11-03-g-MI,MI
+1097,minnesota,2020-11-03,g,np,congress,2020-11-03-g-MN,MN
+1098,mississippi,2020-11-03,g,np,congress,2020-11-03-g-MS,MS
+1099,missouri,2020-11-03,g,np,congress,2020-11-03-g-MO,MO
+1100,pennsylvania,2020-11-03,g,np,congress,2020-11-03-g-PA,PA
+1101,rhode island,2020-11-03,g,np,congress,2020-11-03-g-RI,RI
+1102,south carolina,2020-11-03,g,np,congress,2020-11-03-g-SC,SC
+1103,south dakota,2020-11-03,g,np,congress,2020-11-03-g-SD,SD
+1104,tennessee,2020-11-03,g,np,congress,2020-11-03-g-TN,TN
+1105,texas,2020-11-03,g,np,congress,2020-11-03-g-TX,TX
+1106,utah,2020-11-03,g,np,congress,2020-11-03-g-UT,UT
+1107,vermont,2020-11-03,g,np,congress,2020-11-03-g-VT,VT
+1108,virginia,2020-11-03,g,np,congress,2020-11-03-g-VA,VA
+1109,washington,2020-11-03,g,np,congress,2020-11-03-g-WA,WA
+1110,west virginia,2020-11-03,g,np,congress,2020-11-03-g-WV,WV
+1111,wisconsin,2020-11-03,g,np,congress,2020-11-03-g-WI,WI
+1112,wyoming,2020-11-03,g,np,congress,2020-11-03-g-WY,WY
+1113,alaska,2020-11-03,g,np,congress,2020-11-03-g-AK,AK
+1114,hawaii,2020-11-03,g,np,congress,2020-11-03-g-HI,HI
+1115,guam,2020-11-03,g,np,congress,2020-11-03-g-GU,GU
+1116,american samoa,2020-11-03,g,np,congress,2020-11-03-g-AS,AS
+1117,northern mariana islands,2020-11-03,g,np,congress,2020-11-03-g-MP,MP
+1118,virgin islands,2020-11-03,g,np,congress,2020-11-03-g-VI,VI
+1119,puerto rico,2020-11-03,g,np,congress,2020-11-03-g-PR,PR
+1120,alabama,1984-11-06,g,np,president,1984-11-06-g-AL,AL
+1121,arizona,1984-11-06,g,np,president,1984-11-06-g-AZ,AZ
+1122,arkansas,1984-11-06,g,np,president,1984-11-06-g-AR,AR
+1123,california,1984-11-06,g,np,president,1984-11-06-g-CA,CA
+1124,colorado,1984-11-06,g,np,president,1984-11-06-g-CO,CO
+1125,connecticut,1984-11-06,g,np,president,1984-11-06-g-CT,CT
+1126,delaware,1984-11-06,g,np,president,1984-11-06-g-DE,DE
+1127,district of columbia,1984-11-06,g,np,president,1984-11-06-g-DC,DC
+1128,florida,1984-11-06,g,np,president,1984-11-06-g-FL,FL
+1129,georgia,1984-11-06,g,np,president,1984-11-06-g-GA,GA
+1130,idaho,1984-11-06,g,np,president,1984-11-06-g-ID,ID
+1131,illinois,1984-11-06,g,np,president,1984-11-06-g-IL,IL
+1132,indiana,1984-11-06,g,np,president,1984-11-06-g-IN,IN
+1133,iowa,1984-11-06,g,np,president,1984-11-06-g-IA,IA
+1134,kansas,1984-11-06,g,np,president,1984-11-06-g-KS,KS
+1135,kentucky,1984-11-06,g,np,president,1984-11-06-g-KY,KY
+1136,louisiana,1984-11-06,g,np,president,1984-11-06-g-LA,LA
+1137,maine,1984-11-06,g,np,president,1984-11-06-g-ME,ME
+1138,montana,1984-11-06,g,np,president,1984-11-06-g-MT,MT
+1139,nebraska,1984-11-06,g,np,president,1984-11-06-g-NE,NE
+1140,nevada,1984-11-06,g,np,president,1984-11-06-g-NV,NV
+1141,new hampshire,1984-11-06,g,np,president,1984-11-06-g-NH,NH
+1142,new jersey,1984-11-06,g,np,president,1984-11-06-g-NJ,NJ
+1143,new mexico,1984-11-06,g,np,president,1984-11-06-g-NM,NM
+1144,new york,1984-11-06,g,np,president,1984-11-06-g-NY,NY
+1145,north carolina,1984-11-06,g,np,president,1984-11-06-g-NC,NC
+1146,north dakota,1984-11-06,g,np,president,1984-11-06-g-ND,ND
+1147,ohio,1984-11-06,g,np,president,1984-11-06-g-OH,OH
+1148,oklahoma,1984-11-06,g,np,president,1984-11-06-g-OK,OK
+1149,oregon,1984-11-06,g,np,president,1984-11-06-g-OR,OR
+1150,maryland,1984-11-06,g,np,president,1984-11-06-g-MD,MD
+1151,massachusetts,1984-11-06,g,np,president,1984-11-06-g-MA,MA
+1152,michigan,1984-11-06,g,np,president,1984-11-06-g-MI,MI
+1153,minnesota,1984-11-06,g,np,president,1984-11-06-g-MN,MN
+1154,mississippi,1984-11-06,g,np,president,1984-11-06-g-MS,MS
+1155,missouri,1984-11-06,g,np,president,1984-11-06-g-MO,MO
+1156,pennsylvania,1984-11-06,g,np,president,1984-11-06-g-PA,PA
+1157,rhode island,1984-11-06,g,np,president,1984-11-06-g-RI,RI
+1158,south carolina,1984-11-06,g,np,president,1984-11-06-g-SC,SC
+1159,south dakota,1984-11-06,g,np,president,1984-11-06-g-SD,SD
+1160,tennessee,1984-11-06,g,np,president,1984-11-06-g-TN,TN
+1161,texas,1984-11-06,g,np,president,1984-11-06-g-TX,TX
+1162,utah,1984-11-06,g,np,president,1984-11-06-g-UT,UT
+1163,vermont,1984-11-06,g,np,president,1984-11-06-g-VT,VT
+1164,virginia,1984-11-06,g,np,president,1984-11-06-g-VA,VA
+1165,washington,1984-11-06,g,np,president,1984-11-06-g-WA,WA
+1166,west virginia,1984-11-06,g,np,president,1984-11-06-g-WV,WV
+1167,wisconsin,1984-11-06,g,np,president,1984-11-06-g-WI,WI
+1168,wyoming,1984-11-06,g,np,president,1984-11-06-g-WY,WY
+1169,alaska,1984-11-06,g,np,president,1984-11-06-g-AK,AK
+1170,hawaii,1984-11-06,g,np,president,1984-11-06-g-HI,HI
+1171,guam,1984-11-06,g,np,president,1984-11-06-g-GU,GU
+1172,american samoa,1984-11-06,g,np,president,1984-11-06-g-AS,AS
+1173,northern mariana islands,1984-11-06,g,np,president,1984-11-06-g-MP,MP
+1174,virgin islands,1984-11-06,g,np,president,1984-11-06-g-VI,VI
+1175,puerto rico,1984-11-06,g,np,president,1984-11-06-g-PR,PR
+1176,alabama,1988-11-01,g,np,president,1988-11-01-g-AL,AL
+1177,arizona,1988-11-01,g,np,president,1988-11-01-g-AZ,AZ
+1178,arkansas,1988-11-01,g,np,president,1988-11-01-g-AR,AR
+1179,california,1988-11-01,g,np,president,1988-11-01-g-CA,CA
+1180,colorado,1988-11-01,g,np,president,1988-11-01-g-CO,CO
+1181,connecticut,1988-11-01,g,np,president,1988-11-01-g-CT,CT
+1182,delaware,1988-11-01,g,np,president,1988-11-01-g-DE,DE
+1183,district of columbia,1988-11-01,g,np,president,1988-11-01-g-DC,DC
+1184,florida,1988-11-01,g,np,president,1988-11-01-g-FL,FL
+1185,georgia,1988-11-01,g,np,president,1988-11-01-g-GA,GA
+1186,idaho,1988-11-01,g,np,president,1988-11-01-g-ID,ID
+1187,illinois,1988-11-01,g,np,president,1988-11-01-g-IL,IL
+1188,indiana,1988-11-01,g,np,president,1988-11-01-g-IN,IN
+1189,iowa,1988-11-01,g,np,president,1988-11-01-g-IA,IA
+1190,kansas,1988-11-01,g,np,president,1988-11-01-g-KS,KS
+1191,kentucky,1988-11-01,g,np,president,1988-11-01-g-KY,KY
+1192,louisiana,1988-11-01,g,np,president,1988-11-01-g-LA,LA
+1193,maine,1988-11-01,g,np,president,1988-11-01-g-ME,ME
+1194,montana,1988-11-01,g,np,president,1988-11-01-g-MT,MT
+1195,nebraska,1988-11-01,g,np,president,1988-11-01-g-NE,NE
+1196,nevada,1988-11-01,g,np,president,1988-11-01-g-NV,NV
+1197,new hampshire,1988-11-01,g,np,president,1988-11-01-g-NH,NH
+1198,new jersey,1988-11-01,g,np,president,1988-11-01-g-NJ,NJ
+1199,new mexico,1988-11-01,g,np,president,1988-11-01-g-NM,NM
+1200,new york,1988-11-01,g,np,president,1988-11-01-g-NY,NY
+1201,north carolina,1988-11-01,g,np,president,1988-11-01-g-NC,NC
+1202,north dakota,1988-11-01,g,np,president,1988-11-01-g-ND,ND
+1203,ohio,1988-11-01,g,np,president,1988-11-01-g-OH,OH
+1204,oklahoma,1988-11-01,g,np,president,1988-11-01-g-OK,OK
+1205,oregon,1988-11-01,g,np,president,1988-11-01-g-OR,OR
+1206,maryland,1988-11-01,g,np,president,1988-11-01-g-MD,MD
+1207,massachusetts,1988-11-01,g,np,president,1988-11-01-g-MA,MA
+1208,michigan,1988-11-01,g,np,president,1988-11-01-g-MI,MI
+1209,minnesota,1988-11-01,g,np,president,1988-11-01-g-MN,MN
+1210,mississippi,1988-11-01,g,np,president,1988-11-01-g-MS,MS
+1211,missouri,1988-11-01,g,np,president,1988-11-01-g-MO,MO
+1212,pennsylvania,1988-11-01,g,np,president,1988-11-01-g-PA,PA
+1213,rhode island,1988-11-01,g,np,president,1988-11-01-g-RI,RI
+1214,south carolina,1988-11-01,g,np,president,1988-11-01-g-SC,SC
+1215,south dakota,1988-11-01,g,np,president,1988-11-01-g-SD,SD
+1216,tennessee,1988-11-01,g,np,president,1988-11-01-g-TN,TN
+1217,texas,1988-11-01,g,np,president,1988-11-01-g-TX,TX
+1218,utah,1988-11-01,g,np,president,1988-11-01-g-UT,UT
+1219,vermont,1988-11-01,g,np,president,1988-11-01-g-VT,VT
+1220,virginia,1988-11-01,g,np,president,1988-11-01-g-VA,VA
+1221,washington,1988-11-01,g,np,president,1988-11-01-g-WA,WA
+1222,west virginia,1988-11-01,g,np,president,1988-11-01-g-WV,WV
+1223,wisconsin,1988-11-01,g,np,president,1988-11-01-g-WI,WI
+1224,wyoming,1988-11-01,g,np,president,1988-11-01-g-WY,WY
+1225,alaska,1988-11-01,g,np,president,1988-11-01-g-AK,AK
+1226,hawaii,1988-11-01,g,np,president,1988-11-01-g-HI,HI
+1227,guam,1988-11-01,g,np,president,1988-11-01-g-GU,GU
+1228,american samoa,1988-11-01,g,np,president,1988-11-01-g-AS,AS
+1229,northern mariana islands,1988-11-01,g,np,president,1988-11-01-g-MP,MP
+1230,virgin islands,1988-11-01,g,np,president,1988-11-01-g-VI,VI
+1231,puerto rico,1988-11-01,g,np,president,1988-11-01-g-PR,PR
+1232,alabama,1992-11-03,g,np,president,1992-11-03-g-AL,AL
+1233,arizona,1992-11-03,g,np,president,1992-11-03-g-AZ,AZ
+1234,arkansas,1992-11-03,g,np,president,1992-11-03-g-AR,AR
+1235,california,1992-11-03,g,np,president,1992-11-03-g-CA,CA
+1236,colorado,1992-11-03,g,np,president,1992-11-03-g-CO,CO
+1237,connecticut,1992-11-03,g,np,president,1992-11-03-g-CT,CT
+1238,delaware,1992-11-03,g,np,president,1992-11-03-g-DE,DE
+1239,district of columbia,1992-11-03,g,np,president,1992-11-03-g-DC,DC
+1240,florida,1992-11-03,g,np,president,1992-11-03-g-FL,FL
+1241,georgia,1992-11-03,g,np,president,1992-11-03-g-GA,GA
+1242,idaho,1992-11-03,g,np,president,1992-11-03-g-ID,ID
+1243,illinois,1992-11-03,g,np,president,1992-11-03-g-IL,IL
+1244,indiana,1992-11-03,g,np,president,1992-11-03-g-IN,IN
+1245,iowa,1992-11-03,g,np,president,1992-11-03-g-IA,IA
+1246,kansas,1992-11-03,g,np,president,1992-11-03-g-KS,KS
+1247,kentucky,1992-11-03,g,np,president,1992-11-03-g-KY,KY
+1248,louisiana,1992-11-03,g,np,president,1992-11-03-g-LA,LA
+1249,maine,1992-11-03,g,np,president,1992-11-03-g-ME,ME
+1250,montana,1992-11-03,g,np,president,1992-11-03-g-MT,MT
+1251,nebraska,1992-11-03,g,np,president,1992-11-03-g-NE,NE
+1252,nevada,1992-11-03,g,np,president,1992-11-03-g-NV,NV
+1253,new hampshire,1992-11-03,g,np,president,1992-11-03-g-NH,NH
+1254,new jersey,1992-11-03,g,np,president,1992-11-03-g-NJ,NJ
+1255,new mexico,1992-11-03,g,np,president,1992-11-03-g-NM,NM
+1256,new york,1992-11-03,g,np,president,1992-11-03-g-NY,NY
+1257,north carolina,1992-11-03,g,np,president,1992-11-03-g-NC,NC
+1258,north dakota,1992-11-03,g,np,president,1992-11-03-g-ND,ND
+1259,ohio,1992-11-03,g,np,president,1992-11-03-g-OH,OH
+1260,oklahoma,1992-11-03,g,np,president,1992-11-03-g-OK,OK
+1261,oregon,1992-11-03,g,np,president,1992-11-03-g-OR,OR
+1262,maryland,1992-11-03,g,np,president,1992-11-03-g-MD,MD
+1263,massachusetts,1992-11-03,g,np,president,1992-11-03-g-MA,MA
+1264,michigan,1992-11-03,g,np,president,1992-11-03-g-MI,MI
+1265,minnesota,1992-11-03,g,np,president,1992-11-03-g-MN,MN
+1266,mississippi,1992-11-03,g,np,president,1992-11-03-g-MS,MS
+1267,missouri,1992-11-03,g,np,president,1992-11-03-g-MO,MO
+1268,pennsylvania,1992-11-03,g,np,president,1992-11-03-g-PA,PA
+1269,rhode island,1992-11-03,g,np,president,1992-11-03-g-RI,RI
+1270,south carolina,1992-11-03,g,np,president,1992-11-03-g-SC,SC
+1271,south dakota,1992-11-03,g,np,president,1992-11-03-g-SD,SD
+1272,tennessee,1992-11-03,g,np,president,1992-11-03-g-TN,TN
+1273,texas,1992-11-03,g,np,president,1992-11-03-g-TX,TX
+1274,utah,1992-11-03,g,np,president,1992-11-03-g-UT,UT
+1275,vermont,1992-11-03,g,np,president,1992-11-03-g-VT,VT
+1276,virginia,1992-11-03,g,np,president,1992-11-03-g-VA,VA
+1277,washington,1992-11-03,g,np,president,1992-11-03-g-WA,WA
+1278,west virginia,1992-11-03,g,np,president,1992-11-03-g-WV,WV
+1279,wisconsin,1992-11-03,g,np,president,1992-11-03-g-WI,WI
+1280,wyoming,1992-11-03,g,np,president,1992-11-03-g-WY,WY
+1281,alaska,1992-11-03,g,np,president,1992-11-03-g-AK,AK
+1282,hawaii,1992-11-03,g,np,president,1992-11-03-g-HI,HI
+1283,guam,1992-11-03,g,np,president,1992-11-03-g-GU,GU
+1284,american samoa,1992-11-03,g,np,president,1992-11-03-g-AS,AS
+1285,northern mariana islands,1992-11-03,g,np,president,1992-11-03-g-MP,MP
+1286,virgin islands,1992-11-03,g,np,president,1992-11-03-g-VI,VI
+1287,puerto rico,1992-11-03,g,np,president,1992-11-03-g-PR,PR
+1288,alabama,1996-11-05,g,np,president,1996-11-05-g-AL,AL
+1289,arizona,1996-11-05,g,np,president,1996-11-05-g-AZ,AZ
+1290,arkansas,1996-11-05,g,np,president,1996-11-05-g-AR,AR
+1291,california,1996-11-05,g,np,president,1996-11-05-g-CA,CA
+1292,colorado,1996-11-05,g,np,president,1996-11-05-g-CO,CO
+1293,connecticut,1996-11-05,g,np,president,1996-11-05-g-CT,CT
+1294,delaware,1996-11-05,g,np,president,1996-11-05-g-DE,DE
+1295,district of columbia,1996-11-05,g,np,president,1996-11-05-g-DC,DC
+1296,florida,1996-11-05,g,np,president,1996-11-05-g-FL,FL
+1297,georgia,1996-11-05,g,np,president,1996-11-05-g-GA,GA
+1298,idaho,1996-11-05,g,np,president,1996-11-05-g-ID,ID
+1299,illinois,1996-11-05,g,np,president,1996-11-05-g-IL,IL
+1300,indiana,1996-11-05,g,np,president,1996-11-05-g-IN,IN
+1301,iowa,1996-11-05,g,np,president,1996-11-05-g-IA,IA
+1302,kansas,1996-11-05,g,np,president,1996-11-05-g-KS,KS
+1303,kentucky,1996-11-05,g,np,president,1996-11-05-g-KY,KY
+1304,louisiana,1996-11-05,g,np,president,1996-11-05-g-LA,LA
+1305,maine,1996-11-05,g,np,president,1996-11-05-g-ME,ME
+1306,montana,1996-11-05,g,np,president,1996-11-05-g-MT,MT
+1307,nebraska,1996-11-05,g,np,president,1996-11-05-g-NE,NE
+1308,nevada,1996-11-05,g,np,president,1996-11-05-g-NV,NV
+1309,new hampshire,1996-11-05,g,np,president,1996-11-05-g-NH,NH
+1310,new jersey,1996-11-05,g,np,president,1996-11-05-g-NJ,NJ
+1311,new mexico,1996-11-05,g,np,president,1996-11-05-g-NM,NM
+1312,new york,1996-11-05,g,np,president,1996-11-05-g-NY,NY
+1313,north carolina,1996-11-05,g,np,president,1996-11-05-g-NC,NC
+1314,north dakota,1996-11-05,g,np,president,1996-11-05-g-ND,ND
+1315,ohio,1996-11-05,g,np,president,1996-11-05-g-OH,OH
+1316,oklahoma,1996-11-05,g,np,president,1996-11-05-g-OK,OK
+1317,oregon,1996-11-05,g,np,president,1996-11-05-g-OR,OR
+1318,maryland,1996-11-05,g,np,president,1996-11-05-g-MD,MD
+1319,massachusetts,1996-11-05,g,np,president,1996-11-05-g-MA,MA
+1320,michigan,1996-11-05,g,np,president,1996-11-05-g-MI,MI
+1321,minnesota,1996-11-05,g,np,president,1996-11-05-g-MN,MN
+1322,mississippi,1996-11-05,g,np,president,1996-11-05-g-MS,MS
+1323,missouri,1996-11-05,g,np,president,1996-11-05-g-MO,MO
+1324,pennsylvania,1996-11-05,g,np,president,1996-11-05-g-PA,PA
+1325,rhode island,1996-11-05,g,np,president,1996-11-05-g-RI,RI
+1326,south carolina,1996-11-05,g,np,president,1996-11-05-g-SC,SC
+1327,south dakota,1996-11-05,g,np,president,1996-11-05-g-SD,SD
+1328,tennessee,1996-11-05,g,np,president,1996-11-05-g-TN,TN
+1329,texas,1996-11-05,g,np,president,1996-11-05-g-TX,TX
+1330,utah,1996-11-05,g,np,president,1996-11-05-g-UT,UT
+1331,vermont,1996-11-05,g,np,president,1996-11-05-g-VT,VT
+1332,virginia,1996-11-05,g,np,president,1996-11-05-g-VA,VA
+1333,washington,1996-11-05,g,np,president,1996-11-05-g-WA,WA
+1334,west virginia,1996-11-05,g,np,president,1996-11-05-g-WV,WV
+1335,wisconsin,1996-11-05,g,np,president,1996-11-05-g-WI,WI
+1336,wyoming,1996-11-05,g,np,president,1996-11-05-g-WY,WY
+1337,alaska,1996-11-05,g,np,president,1996-11-05-g-AK,AK
+1338,hawaii,1996-11-05,g,np,president,1996-11-05-g-HI,HI
+1339,guam,1996-11-05,g,np,president,1996-11-05-g-GU,GU
+1340,american samoa,1996-11-05,g,np,president,1996-11-05-g-AS,AS
+1341,northern mariana islands,1996-11-05,g,np,president,1996-11-05-g-MP,MP
+1342,virgin islands,1996-11-05,g,np,president,1996-11-05-g-VI,VI
+1343,puerto rico,1996-11-05,g,np,president,1996-11-05-g-PR,PR
+1344,alabama,2000-11-07,g,np,president,2000-11-07-g-AL,AL
+1345,arizona,2000-11-07,g,np,president,2000-11-07-g-AZ,AZ
+1346,arkansas,2000-11-07,g,np,president,2000-11-07-g-AR,AR
+1347,california,2000-11-07,g,np,president,2000-11-07-g-CA,CA
+1348,colorado,2000-11-07,g,np,president,2000-11-07-g-CO,CO
+1349,connecticut,2000-11-07,g,np,president,2000-11-07-g-CT,CT
+1350,delaware,2000-11-07,g,np,president,2000-11-07-g-DE,DE
+1351,district of columbia,2000-11-07,g,np,president,2000-11-07-g-DC,DC
+1352,florida,2000-11-07,g,np,president,2000-11-07-g-FL,FL
+1353,georgia,2000-11-07,g,np,president,2000-11-07-g-GA,GA
+1354,idaho,2000-11-07,g,np,president,2000-11-07-g-ID,ID
+1355,illinois,2000-11-07,g,np,president,2000-11-07-g-IL,IL
+1356,indiana,2000-11-07,g,np,president,2000-11-07-g-IN,IN
+1357,iowa,2000-11-07,g,np,president,2000-11-07-g-IA,IA
+1358,kansas,2000-11-07,g,np,president,2000-11-07-g-KS,KS
+1359,kentucky,2000-11-07,g,np,president,2000-11-07-g-KY,KY
+1360,louisiana,2000-11-07,g,np,president,2000-11-07-g-LA,LA
+1361,maine,2000-11-07,g,np,president,2000-11-07-g-ME,ME
+1362,montana,2000-11-07,g,np,president,2000-11-07-g-MT,MT
+1363,nebraska,2000-11-07,g,np,president,2000-11-07-g-NE,NE
+1364,nevada,2000-11-07,g,np,president,2000-11-07-g-NV,NV
+1365,new hampshire,2000-11-07,g,np,president,2000-11-07-g-NH,NH
+1366,new jersey,2000-11-07,g,np,president,2000-11-07-g-NJ,NJ
+1367,new mexico,2000-11-07,g,np,president,2000-11-07-g-NM,NM
+1368,new york,2000-11-07,g,np,president,2000-11-07-g-NY,NY
+1369,north carolina,2000-11-07,g,np,president,2000-11-07-g-NC,NC
+1370,north dakota,2000-11-07,g,np,president,2000-11-07-g-ND,ND
+1371,ohio,2000-11-07,g,np,president,2000-11-07-g-OH,OH
+1372,oklahoma,2000-11-07,g,np,president,2000-11-07-g-OK,OK
+1373,oregon,2000-11-07,g,np,president,2000-11-07-g-OR,OR
+1374,maryland,2000-11-07,g,np,president,2000-11-07-g-MD,MD
+1375,massachusetts,2000-11-07,g,np,president,2000-11-07-g-MA,MA
+1376,michigan,2000-11-07,g,np,president,2000-11-07-g-MI,MI
+1377,minnesota,2000-11-07,g,np,president,2000-11-07-g-MN,MN
+1378,mississippi,2000-11-07,g,np,president,2000-11-07-g-MS,MS
+1379,missouri,2000-11-07,g,np,president,2000-11-07-g-MO,MO
+1380,pennsylvania,2000-11-07,g,np,president,2000-11-07-g-PA,PA
+1381,rhode island,2000-11-07,g,np,president,2000-11-07-g-RI,RI
+1382,south carolina,2000-11-07,g,np,president,2000-11-07-g-SC,SC
+1383,south dakota,2000-11-07,g,np,president,2000-11-07-g-SD,SD
+1384,tennessee,2000-11-07,g,np,president,2000-11-07-g-TN,TN
+1385,texas,2000-11-07,g,np,president,2000-11-07-g-TX,TX
+1386,utah,2000-11-07,g,np,president,2000-11-07-g-UT,UT
+1387,vermont,2000-11-07,g,np,president,2000-11-07-g-VT,VT
+1388,virginia,2000-11-07,g,np,president,2000-11-07-g-VA,VA
+1389,washington,2000-11-07,g,np,president,2000-11-07-g-WA,WA
+1390,west virginia,2000-11-07,g,np,president,2000-11-07-g-WV,WV
+1391,wisconsin,2000-11-07,g,np,president,2000-11-07-g-WI,WI
+1392,wyoming,2000-11-07,g,np,president,2000-11-07-g-WY,WY
+1393,alaska,2000-11-07,g,np,president,2000-11-07-g-AK,AK
+1394,hawaii,2000-11-07,g,np,president,2000-11-07-g-HI,HI
+1395,guam,2000-11-07,g,np,president,2000-11-07-g-GU,GU
+1396,american samoa,2000-11-07,g,np,president,2000-11-07-g-AS,AS
+1397,northern mariana islands,2000-11-07,g,np,president,2000-11-07-g-MP,MP
+1398,virgin islands,2000-11-07,g,np,president,2000-11-07-g-VI,VI
+1399,puerto rico,2000-11-07,g,np,president,2000-11-07-g-PR,PR
+1400,alabama,2004-11-02,g,np,president,2004-11-02-g-AL,AL
+1401,arizona,2004-11-02,g,np,president,2004-11-02-g-AZ,AZ
+1402,arkansas,2004-11-02,g,np,president,2004-11-02-g-AR,AR
+1403,california,2004-11-02,g,np,president,2004-11-02-g-CA,CA
+1404,colorado,2004-11-02,g,np,president,2004-11-02-g-CO,CO
+1405,connecticut,2004-11-02,g,np,president,2004-11-02-g-CT,CT
+1406,delaware,2004-11-02,g,np,president,2004-11-02-g-DE,DE
+1407,district of columbia,2004-11-02,g,np,president,2004-11-02-g-DC,DC
+1408,florida,2004-11-02,g,np,president,2004-11-02-g-FL,FL
+1409,georgia,2004-11-02,g,np,president,2004-11-02-g-GA,GA
+1410,idaho,2004-11-02,g,np,president,2004-11-02-g-ID,ID
+1411,illinois,2004-11-02,g,np,president,2004-11-02-g-IL,IL
+1412,indiana,2004-11-02,g,np,president,2004-11-02-g-IN,IN
+1413,iowa,2004-11-02,g,np,president,2004-11-02-g-IA,IA
+1414,kansas,2004-11-02,g,np,president,2004-11-02-g-KS,KS
+1415,kentucky,2004-11-02,g,np,president,2004-11-02-g-KY,KY
+1416,louisiana,2004-11-02,g,np,president,2004-11-02-g-LA,LA
+1417,maine,2004-11-02,g,np,president,2004-11-02-g-ME,ME
+1418,montana,2004-11-02,g,np,president,2004-11-02-g-MT,MT
+1419,nebraska,2004-11-02,g,np,president,2004-11-02-g-NE,NE
+1420,nevada,2004-11-02,g,np,president,2004-11-02-g-NV,NV
+1421,new hampshire,2004-11-02,g,np,president,2004-11-02-g-NH,NH
+1422,new jersey,2004-11-02,g,np,president,2004-11-02-g-NJ,NJ
+1423,new mexico,2004-11-02,g,np,president,2004-11-02-g-NM,NM
+1424,new york,2004-11-02,g,np,president,2004-11-02-g-NY,NY
+1425,north carolina,2004-11-02,g,np,president,2004-11-02-g-NC,NC
+1426,north dakota,2004-11-02,g,np,president,2004-11-02-g-ND,ND
+1427,ohio,2004-11-02,g,np,president,2004-11-02-g-OH,OH
+1428,oklahoma,2004-11-02,g,np,president,2004-11-02-g-OK,OK
+1429,oregon,2004-11-02,g,np,president,2004-11-02-g-OR,OR
+1430,maryland,2004-11-02,g,np,president,2004-11-02-g-MD,MD
+1431,massachusetts,2004-11-02,g,np,president,2004-11-02-g-MA,MA
+1432,michigan,2004-11-02,g,np,president,2004-11-02-g-MI,MI
+1433,minnesota,2004-11-02,g,np,president,2004-11-02-g-MN,MN
+1434,mississippi,2004-11-02,g,np,president,2004-11-02-g-MS,MS
+1435,missouri,2004-11-02,g,np,president,2004-11-02-g-MO,MO
+1436,pennsylvania,2004-11-02,g,np,president,2004-11-02-g-PA,PA
+1437,rhode island,2004-11-02,g,np,president,2004-11-02-g-RI,RI
+1438,south carolina,2004-11-02,g,np,president,2004-11-02-g-SC,SC
+1439,south dakota,2004-11-02,g,np,president,2004-11-02-g-SD,SD
+1440,tennessee,2004-11-02,g,np,president,2004-11-02-g-TN,TN
+1441,texas,2004-11-02,g,np,president,2004-11-02-g-TX,TX
+1442,utah,2004-11-02,g,np,president,2004-11-02-g-UT,UT
+1443,vermont,2004-11-02,g,np,president,2004-11-02-g-VT,VT
+1444,virginia,2004-11-02,g,np,president,2004-11-02-g-VA,VA
+1445,washington,2004-11-02,g,np,president,2004-11-02-g-WA,WA
+1446,west virginia,2004-11-02,g,np,president,2004-11-02-g-WV,WV
+1447,wisconsin,2004-11-02,g,np,president,2004-11-02-g-WI,WI
+1448,wyoming,2004-11-02,g,np,president,2004-11-02-g-WY,WY
+1449,alaska,2004-11-02,g,np,president,2004-11-02-g-AK,AK
+1450,hawaii,2004-11-02,g,np,president,2004-11-02-g-HI,HI
+1451,guam,2004-11-02,g,np,president,2004-11-02-g-GU,GU
+1452,american samoa,2004-11-02,g,np,president,2004-11-02-g-AS,AS
+1453,northern mariana islands,2004-11-02,g,np,president,2004-11-02-g-MP,MP
+1454,virgin islands,2004-11-02,g,np,president,2004-11-02-g-VI,VI
+1455,puerto rico,2004-11-02,g,np,president,2004-11-02-g-PR,PR
+1456,alabama,2008-11-04,g,np,president,2008-11-04-g-AL,AL
+1457,arizona,2008-11-04,g,np,president,2008-11-04-g-AZ,AZ
+1458,arkansas,2008-11-04,g,np,president,2008-11-04-g-AR,AR
+1459,california,2008-11-04,g,np,president,2008-11-04-g-CA,CA
+1460,colorado,2008-11-04,g,np,president,2008-11-04-g-CO,CO
+1461,connecticut,2008-11-04,g,np,president,2008-11-04-g-CT,CT
+1462,delaware,2008-11-04,g,np,president,2008-11-04-g-DE,DE
+1463,district of columbia,2008-11-04,g,np,president,2008-11-04-g-DC,DC
+1464,florida,2008-11-04,g,np,president,2008-11-04-g-FL,FL
+1465,georgia,2008-11-04,g,np,president,2008-11-04-g-GA,GA
+1466,idaho,2008-11-04,g,np,president,2008-11-04-g-ID,ID
+1467,illinois,2008-11-04,g,np,president,2008-11-04-g-IL,IL
+1468,indiana,2008-11-04,g,np,president,2008-11-04-g-IN,IN
+1469,iowa,2008-11-04,g,np,president,2008-11-04-g-IA,IA
+1470,kansas,2008-11-04,g,np,president,2008-11-04-g-KS,KS
+1471,kentucky,2008-11-04,g,np,president,2008-11-04-g-KY,KY
+1472,louisiana,2008-11-04,g,np,president,2008-11-04-g-LA,LA
+1473,maine,2008-11-04,g,np,president,2008-11-04-g-ME,ME
+1474,montana,2008-11-04,g,np,president,2008-11-04-g-MT,MT
+1475,nebraska,2008-11-04,g,np,president,2008-11-04-g-NE,NE
+1476,nevada,2008-11-04,g,np,president,2008-11-04-g-NV,NV
+1477,new hampshire,2008-11-04,g,np,president,2008-11-04-g-NH,NH
+1478,new jersey,2008-11-04,g,np,president,2008-11-04-g-NJ,NJ
+1479,new mexico,2008-11-04,g,np,president,2008-11-04-g-NM,NM
+1480,new york,2008-11-04,g,np,president,2008-11-04-g-NY,NY
+1481,north carolina,2008-11-04,g,np,president,2008-11-04-g-NC,NC
+1482,north dakota,2008-11-04,g,np,president,2008-11-04-g-ND,ND
+1483,ohio,2008-11-04,g,np,president,2008-11-04-g-OH,OH
+1484,oklahoma,2008-11-04,g,np,president,2008-11-04-g-OK,OK
+1485,oregon,2008-11-04,g,np,president,2008-11-04-g-OR,OR
+1486,maryland,2008-11-04,g,np,president,2008-11-04-g-MD,MD
+1487,massachusetts,2008-11-04,g,np,president,2008-11-04-g-MA,MA
+1488,michigan,2008-11-04,g,np,president,2008-11-04-g-MI,MI
+1489,minnesota,2008-11-04,g,np,president,2008-11-04-g-MN,MN
+1490,mississippi,2008-11-04,g,np,president,2008-11-04-g-MS,MS
+1491,missouri,2008-11-04,g,np,president,2008-11-04-g-MO,MO
+1492,pennsylvania,2008-11-04,g,np,president,2008-11-04-g-PA,PA
+1493,rhode island,2008-11-04,g,np,president,2008-11-04-g-RI,RI
+1494,south carolina,2008-11-04,g,np,president,2008-11-04-g-SC,SC
+1495,south dakota,2008-11-04,g,np,president,2008-11-04-g-SD,SD
+1496,tennessee,2008-11-04,g,np,president,2008-11-04-g-TN,TN
+1497,texas,2008-11-04,g,np,president,2008-11-04-g-TX,TX
+1498,utah,2008-11-04,g,np,president,2008-11-04-g-UT,UT
+1499,vermont,2008-11-04,g,np,president,2008-11-04-g-VT,VT
+1500,virginia,2008-11-04,g,np,president,2008-11-04-g-VA,VA
+1501,washington,2008-11-04,g,np,president,2008-11-04-g-WA,WA
+1502,west virginia,2008-11-04,g,np,president,2008-11-04-g-WV,WV
+1503,wisconsin,2008-11-04,g,np,president,2008-11-04-g-WI,WI
+1504,wyoming,2008-11-04,g,np,president,2008-11-04-g-WY,WY
+1505,alaska,2008-11-04,g,np,president,2008-11-04-g-AK,AK
+1506,hawaii,2008-11-04,g,np,president,2008-11-04-g-HI,HI
+1507,guam,2008-11-04,g,np,president,2008-11-04-g-GU,GU
+1508,american samoa,2008-11-04,g,np,president,2008-11-04-g-AS,AS
+1509,northern mariana islands,2008-11-04,g,np,president,2008-11-04-g-MP,MP
+1510,virgin islands,2008-11-04,g,np,president,2008-11-04-g-VI,VI
+1511,puerto rico,2008-11-04,g,np,president,2008-11-04-g-PR,PR
+1512,alabama,2012-11-06,g,np,president,2012-11-06-g-AL,AL
+1513,arizona,2012-11-06,g,np,president,2012-11-06-g-AZ,AZ
+1514,arkansas,2012-11-06,g,np,president,2012-11-06-g-AR,AR
+1515,california,2012-11-06,g,np,president,2012-11-06-g-CA,CA
+1516,colorado,2012-11-06,g,np,president,2012-11-06-g-CO,CO
+1517,connecticut,2012-11-06,g,np,president,2012-11-06-g-CT,CT
+1518,delaware,2012-11-06,g,np,president,2012-11-06-g-DE,DE
+1519,district of columbia,2012-11-06,g,np,president,2012-11-06-g-DC,DC
+1520,florida,2012-11-06,g,np,president,2012-11-06-g-FL,FL
+1521,georgia,2012-11-06,g,np,president,2012-11-06-g-GA,GA
+1522,idaho,2012-11-06,g,np,president,2012-11-06-g-ID,ID
+1523,illinois,2012-11-06,g,np,president,2012-11-06-g-IL,IL
+1524,indiana,2012-11-06,g,np,president,2012-11-06-g-IN,IN
+1525,iowa,2012-11-06,g,np,president,2012-11-06-g-IA,IA
+1526,kansas,2012-11-06,g,np,president,2012-11-06-g-KS,KS
+1527,kentucky,2012-11-06,g,np,president,2012-11-06-g-KY,KY
+1528,louisiana,2012-11-06,g,np,president,2012-11-06-g-LA,LA
+1529,maine,2012-11-06,g,np,president,2012-11-06-g-ME,ME
+1530,montana,2012-11-06,g,np,president,2012-11-06-g-MT,MT
+1531,nebraska,2012-11-06,g,np,president,2012-11-06-g-NE,NE
+1532,nevada,2012-11-06,g,np,president,2012-11-06-g-NV,NV
+1533,new hampshire,2012-11-06,g,np,president,2012-11-06-g-NH,NH
+1534,new jersey,2012-11-06,g,np,president,2012-11-06-g-NJ,NJ
+1535,new mexico,2012-11-06,g,np,president,2012-11-06-g-NM,NM
+1536,new york,2012-11-06,g,np,president,2012-11-06-g-NY,NY
+1537,north carolina,2012-11-06,g,np,president,2012-11-06-g-NC,NC
+1538,north dakota,2012-11-06,g,np,president,2012-11-06-g-ND,ND
+1539,ohio,2012-11-06,g,np,president,2012-11-06-g-OH,OH
+1540,oklahoma,2012-11-06,g,np,president,2012-11-06-g-OK,OK
+1541,oregon,2012-11-06,g,np,president,2012-11-06-g-OR,OR
+1542,maryland,2012-11-06,g,np,president,2012-11-06-g-MD,MD
+1543,massachusetts,2012-11-06,g,np,president,2012-11-06-g-MA,MA
+1544,michigan,2012-11-06,g,np,president,2012-11-06-g-MI,MI
+1545,minnesota,2012-11-06,g,np,president,2012-11-06-g-MN,MN
+1546,mississippi,2012-11-06,g,np,president,2012-11-06-g-MS,MS
+1547,missouri,2012-11-06,g,np,president,2012-11-06-g-MO,MO
+1548,pennsylvania,2012-11-06,g,np,president,2012-11-06-g-PA,PA
+1549,rhode island,2012-11-06,g,np,president,2012-11-06-g-RI,RI
+1550,south carolina,2012-11-06,g,np,president,2012-11-06-g-SC,SC
+1551,south dakota,2012-11-06,g,np,president,2012-11-06-g-SD,SD
+1552,tennessee,2012-11-06,g,np,president,2012-11-06-g-TN,TN
+1553,texas,2012-11-06,g,np,president,2012-11-06-g-TX,TX
+1554,utah,2012-11-06,g,np,president,2012-11-06-g-UT,UT
+1555,vermont,2012-11-06,g,np,president,2012-11-06-g-VT,VT
+1556,virginia,2012-11-06,g,np,president,2012-11-06-g-VA,VA
+1557,washington,2012-11-06,g,np,president,2012-11-06-g-WA,WA
+1558,west virginia,2012-11-06,g,np,president,2012-11-06-g-WV,WV
+1559,wisconsin,2012-11-06,g,np,president,2012-11-06-g-WI,WI
+1560,wyoming,2012-11-06,g,np,president,2012-11-06-g-WY,WY
+1561,alaska,2012-11-06,g,np,president,2012-11-06-g-AK,AK
+1562,hawaii,2012-11-06,g,np,president,2012-11-06-g-HI,HI
+1563,guam,2012-11-06,g,np,president,2012-11-06-g-GU,GU
+1564,american samoa,2012-11-06,g,np,president,2012-11-06-g-AS,AS
+1565,northern mariana islands,2012-11-06,g,np,president,2012-11-06-g-MP,MP
+1566,virgin islands,2012-11-06,g,np,president,2012-11-06-g-VI,VI
+1567,puerto rico,2012-11-06,g,np,president,2012-11-06-g-PR,PR
+1568,alabama,2016-11-01,g,np,president,2016-11-01-g-AL,AL
+1569,arizona,2016-11-01,g,np,president,2016-11-01-g-AZ,AZ
+1570,arkansas,2016-11-01,g,np,president,2016-11-01-g-AR,AR
+1571,california,2016-11-01,g,np,president,2016-11-01-g-CA,CA
+1572,colorado,2016-11-01,g,np,president,2016-11-01-g-CO,CO
+1573,connecticut,2016-11-01,g,np,president,2016-11-01-g-CT,CT
+1574,delaware,2016-11-01,g,np,president,2016-11-01-g-DE,DE
+1575,district of columbia,2016-11-01,g,np,president,2016-11-01-g-DC,DC
+1576,florida,2016-11-01,g,np,president,2016-11-01-g-FL,FL
+1577,georgia,2016-11-01,g,np,president,2016-11-01-g-GA,GA
+1578,idaho,2016-11-01,g,np,president,2016-11-01-g-ID,ID
+1579,illinois,2016-11-01,g,np,president,2016-11-01-g-IL,IL
+1580,indiana,2016-11-01,g,np,president,2016-11-01-g-IN,IN
+1581,iowa,2016-11-01,g,np,president,2016-11-01-g-IA,IA
+1582,kansas,2016-11-01,g,np,president,2016-11-01-g-KS,KS
+1583,kentucky,2016-11-01,g,np,president,2016-11-01-g-KY,KY
+1584,louisiana,2016-11-01,g,np,president,2016-11-01-g-LA,LA
+1585,maine,2016-11-01,g,np,president,2016-11-01-g-ME,ME
+1586,montana,2016-11-01,g,np,president,2016-11-01-g-MT,MT
+1587,nebraska,2016-11-01,g,np,president,2016-11-01-g-NE,NE
+1588,nevada,2016-11-01,g,np,president,2016-11-01-g-NV,NV
+1589,new hampshire,2016-11-01,g,np,president,2016-11-01-g-NH,NH
+1590,new jersey,2016-11-01,g,np,president,2016-11-01-g-NJ,NJ
+1591,new mexico,2016-11-01,g,np,president,2016-11-01-g-NM,NM
+1592,new york,2016-11-01,g,np,president,2016-11-01-g-NY,NY
+1593,north carolina,2016-11-01,g,np,president,2016-11-01-g-NC,NC
+1594,north dakota,2016-11-01,g,np,president,2016-11-01-g-ND,ND
+1595,ohio,2016-11-01,g,np,president,2016-11-01-g-OH,OH
+1596,oklahoma,2016-11-01,g,np,president,2016-11-01-g-OK,OK
+1597,oregon,2016-11-01,g,np,president,2016-11-01-g-OR,OR
+1598,maryland,2016-11-01,g,np,president,2016-11-01-g-MD,MD
+1599,massachusetts,2016-11-01,g,np,president,2016-11-01-g-MA,MA
+1600,michigan,2016-11-01,g,np,president,2016-11-01-g-MI,MI
+1601,minnesota,2016-11-01,g,np,president,2016-11-01-g-MN,MN
+1602,mississippi,2016-11-01,g,np,president,2016-11-01-g-MS,MS
+1603,missouri,2016-11-01,g,np,president,2016-11-01-g-MO,MO
+1604,pennsylvania,2016-11-01,g,np,president,2016-11-01-g-PA,PA
+1605,rhode island,2016-11-01,g,np,president,2016-11-01-g-RI,RI
+1606,south carolina,2016-11-01,g,np,president,2016-11-01-g-SC,SC
+1607,south dakota,2016-11-01,g,np,president,2016-11-01-g-SD,SD
+1608,tennessee,2016-11-01,g,np,president,2016-11-01-g-TN,TN
+1609,texas,2016-11-01,g,np,president,2016-11-01-g-TX,TX
+1610,utah,2016-11-01,g,np,president,2016-11-01-g-UT,UT
+1611,vermont,2016-11-01,g,np,president,2016-11-01-g-VT,VT
+1612,virginia,2016-11-01,g,np,president,2016-11-01-g-VA,VA
+1613,washington,2016-11-01,g,np,president,2016-11-01-g-WA,WA
+1614,west virginia,2016-11-01,g,np,president,2016-11-01-g-WV,WV
+1615,wisconsin,2016-11-01,g,np,president,2016-11-01-g-WI,WI
+1616,wyoming,2016-11-01,g,np,president,2016-11-01-g-WY,WY
+1617,alaska,2016-11-01,g,np,president,2016-11-01-g-AK,AK
+1618,hawaii,2016-11-01,g,np,president,2016-11-01-g-HI,HI
+1619,guam,2016-11-01,g,np,president,2016-11-01-g-GU,GU
+1620,american samoa,2016-11-01,g,np,president,2016-11-01-g-AS,AS
+1621,northern mariana islands,2016-11-01,g,np,president,2016-11-01-g-MP,MP
+1622,virgin islands,2016-11-01,g,np,president,2016-11-01-g-VI,VI
+1623,puerto rico,2016-11-01,g,np,president,2016-11-01-g-PR,PR
+1624,alabama,2020-11-03,g,np,president,2020-11-03-g-AL,AL
+1625,arizona,2020-11-03,g,np,president,2020-11-03-g-AZ,AZ
+1626,arkansas,2020-11-03,g,np,president,2020-11-03-g-AR,AR
+1627,california,2020-11-03,g,np,president,2020-11-03-g-CA,CA
+1628,colorado,2020-11-03,g,np,president,2020-11-03-g-CO,CO
+1629,connecticut,2020-11-03,g,np,president,2020-11-03-g-CT,CT
+1630,delaware,2020-11-03,g,np,president,2020-11-03-g-DE,DE
+1631,district of columbia,2020-11-03,g,np,president,2020-11-03-g-DC,DC
+1632,florida,2020-11-03,g,np,president,2020-11-03-g-FL,FL
+1633,georgia,2020-11-03,g,np,president,2020-11-03-g-GA,GA
+1634,idaho,2020-11-03,g,np,president,2020-11-03-g-ID,ID
+1635,illinois,2020-11-03,g,np,president,2020-11-03-g-IL,IL
+1636,indiana,2020-11-03,g,np,president,2020-11-03-g-IN,IN
+1637,iowa,2020-11-03,g,np,president,2020-11-03-g-IA,IA
+1638,kansas,2020-11-03,g,np,president,2020-11-03-g-KS,KS
+1639,kentucky,2020-11-03,g,np,president,2020-11-03-g-KY,KY
+1640,louisiana,2020-11-03,g,np,president,2020-11-03-g-LA,LA
+1641,maine,2020-11-03,g,np,president,2020-11-03-g-ME,ME
+1642,montana,2020-11-03,g,np,president,2020-11-03-g-MT,MT
+1643,nebraska,2020-11-03,g,np,president,2020-11-03-g-NE,NE
+1644,nevada,2020-11-03,g,np,president,2020-11-03-g-NV,NV
+1645,new hampshire,2020-11-03,g,np,president,2020-11-03-g-NH,NH
+1646,new jersey,2020-11-03,g,np,president,2020-11-03-g-NJ,NJ
+1647,new mexico,2020-11-03,g,np,president,2020-11-03-g-NM,NM
+1648,new york,2020-11-03,g,np,president,2020-11-03-g-NY,NY
+1649,north carolina,2020-11-03,g,np,president,2020-11-03-g-NC,NC
+1650,north dakota,2020-11-03,g,np,president,2020-11-03-g-ND,ND
+1651,ohio,2020-11-03,g,np,president,2020-11-03-g-OH,OH
+1652,oklahoma,2020-11-03,g,np,president,2020-11-03-g-OK,OK
+1653,oregon,2020-11-03,g,np,president,2020-11-03-g-OR,OR
+1654,maryland,2020-11-03,g,np,president,2020-11-03-g-MD,MD
+1655,massachusetts,2020-11-03,g,np,president,2020-11-03-g-MA,MA
+1656,michigan,2020-11-03,g,np,president,2020-11-03-g-MI,MI
+1657,minnesota,2020-11-03,g,np,president,2020-11-03-g-MN,MN
+1658,mississippi,2020-11-03,g,np,president,2020-11-03-g-MS,MS
+1659,missouri,2020-11-03,g,np,president,2020-11-03-g-MO,MO
+1660,pennsylvania,2020-11-03,g,np,president,2020-11-03-g-PA,PA
+1661,rhode island,2020-11-03,g,np,president,2020-11-03-g-RI,RI
+1662,south carolina,2020-11-03,g,np,president,2020-11-03-g-SC,SC
+1663,south dakota,2020-11-03,g,np,president,2020-11-03-g-SD,SD
+1664,tennessee,2020-11-03,g,np,president,2020-11-03-g-TN,TN
+1665,texas,2020-11-03,g,np,president,2020-11-03-g-TX,TX
+1666,utah,2020-11-03,g,np,president,2020-11-03-g-UT,UT
+1667,vermont,2020-11-03,g,np,president,2020-11-03-g-VT,VT
+1668,virginia,2020-11-03,g,np,president,2020-11-03-g-VA,VA
+1669,washington,2020-11-03,g,np,president,2020-11-03-g-WA,WA
+1670,west virginia,2020-11-03,g,np,president,2020-11-03-g-WV,WV
+1671,wisconsin,2020-11-03,g,np,president,2020-11-03-g-WI,WI
+1672,wyoming,2020-11-03,g,np,president,2020-11-03-g-WY,WY
+1673,alaska,2020-11-03,g,np,president,2020-11-03-g-AK,AK
+1674,hawaii,2020-11-03,g,np,president,2020-11-03-g-HI,HI
+1675,guam,2020-11-03,g,np,president,2020-11-03-g-GU,GU
+1676,american samoa,2020-11-03,g,np,president,2020-11-03-g-AS,AS
+1677,northern mariana islands,2020-11-03,g,np,president,2020-11-03-g-MP,MP
+1678,virgin islands,2020-11-03,g,np,president,2020-11-03-g-VI,VI
+1679,puerto rico,2020-11-03,g,np,president,2020-11-03-g-PR,PR

@@ -1,0 +1,1681 @@
+state_name,date,election_type,party,govt_type,election_key,state_abbr
+alabama,1982-11-02,g,np,congress,1982-11-02-g-AL,AL
+arizona,1982-11-02,g,np,congress,1982-11-02-g-AZ,AZ
+arkansas,1982-11-02,g,np,congress,1982-11-02-g-AR,AR
+california,1982-11-02,g,np,congress,1982-11-02-g-CA,CA
+colorado,1982-11-02,g,np,congress,1982-11-02-g-CO,CO
+connecticut,1982-11-02,g,np,congress,1982-11-02-g-CT,CT
+delaware,1982-11-02,g,np,congress,1982-11-02-g-DE,DE
+district of columbia,1982-11-02,g,np,congress,1982-11-02-g-DC,DC
+florida,1982-11-02,g,np,congress,1982-11-02-g-FL,FL
+georgia,1982-11-02,g,np,congress,1982-11-02-g-GA,GA
+idaho,1982-11-02,g,np,congress,1982-11-02-g-ID,ID
+illinois,1982-11-02,g,np,congress,1982-11-02-g-IL,IL
+indiana,1982-11-02,g,np,congress,1982-11-02-g-IN,IN
+iowa,1982-11-02,g,np,congress,1982-11-02-g-IA,IA
+kansas,1982-11-02,g,np,congress,1982-11-02-g-KS,KS
+kentucky,1982-11-02,g,np,congress,1982-11-02-g-KY,KY
+louisiana,1982-11-02,g,np,congress,1982-11-02-g-LA,LA
+maine,1982-11-02,g,np,congress,1982-11-02-g-ME,ME
+montana,1982-11-02,g,np,congress,1982-11-02-g-MT,MT
+nebraska,1982-11-02,g,np,congress,1982-11-02-g-NE,NE
+nevada,1982-11-02,g,np,congress,1982-11-02-g-NV,NV
+new hampshire,1982-11-02,g,np,congress,1982-11-02-g-NH,NH
+new jersey,1982-11-02,g,np,congress,1982-11-02-g-NJ,NJ
+new mexico,1982-11-02,g,np,congress,1982-11-02-g-NM,NM
+new york,1982-11-02,g,np,congress,1982-11-02-g-NY,NY
+north carolina,1982-11-02,g,np,congress,1982-11-02-g-NC,NC
+north dakota,1982-11-02,g,np,congress,1982-11-02-g-ND,ND
+ohio,1982-11-02,g,np,congress,1982-11-02-g-OH,OH
+oklahoma,1982-11-02,g,np,congress,1982-11-02-g-OK,OK
+oregon,1982-11-02,g,np,congress,1982-11-02-g-OR,OR
+maryland,1982-11-02,g,np,congress,1982-11-02-g-MD,MD
+massachusetts,1982-11-02,g,np,congress,1982-11-02-g-MA,MA
+michigan,1982-11-02,g,np,congress,1982-11-02-g-MI,MI
+minnesota,1982-11-02,g,np,congress,1982-11-02-g-MN,MN
+mississippi,1982-11-02,g,np,congress,1982-11-02-g-MS,MS
+missouri,1982-11-02,g,np,congress,1982-11-02-g-MO,MO
+pennsylvania,1982-11-02,g,np,congress,1982-11-02-g-PA,PA
+rhode island,1982-11-02,g,np,congress,1982-11-02-g-RI,RI
+south carolina,1982-11-02,g,np,congress,1982-11-02-g-SC,SC
+south dakota,1982-11-02,g,np,congress,1982-11-02-g-SD,SD
+tennessee,1982-11-02,g,np,congress,1982-11-02-g-TN,TN
+texas,1982-11-02,g,np,congress,1982-11-02-g-TX,TX
+utah,1982-11-02,g,np,congress,1982-11-02-g-UT,UT
+vermont,1982-11-02,g,np,congress,1982-11-02-g-VT,VT
+virginia,1982-11-02,g,np,congress,1982-11-02-g-VA,VA
+washington,1982-11-02,g,np,congress,1982-11-02-g-WA,WA
+west virginia,1982-11-02,g,np,congress,1982-11-02-g-WV,WV
+wisconsin,1982-11-02,g,np,congress,1982-11-02-g-WI,WI
+wyoming,1982-11-02,g,np,congress,1982-11-02-g-WY,WY
+alaska,1982-11-02,g,np,congress,1982-11-02-g-AK,AK
+hawaii,1982-11-02,g,np,congress,1982-11-02-g-HI,HI
+guam,1982-11-02,g,np,congress,1982-11-02-g-GU,GU
+american samoa,1982-11-02,g,np,congress,1982-11-02-g-AS,AS
+northern mariana islands,1982-11-02,g,np,congress,1982-11-02-g-MP,MP
+virgin islands,1982-11-02,g,np,congress,1982-11-02-g-VI,VI
+puerto rico,1982-11-02,g,np,congress,1982-11-02-g-PR,PR
+alabama,1984-11-06,g,np,congress,1984-11-06-g-AL,AL
+arizona,1984-11-06,g,np,congress,1984-11-06-g-AZ,AZ
+arkansas,1984-11-06,g,np,congress,1984-11-06-g-AR,AR
+california,1984-11-06,g,np,congress,1984-11-06-g-CA,CA
+colorado,1984-11-06,g,np,congress,1984-11-06-g-CO,CO
+connecticut,1984-11-06,g,np,congress,1984-11-06-g-CT,CT
+delaware,1984-11-06,g,np,congress,1984-11-06-g-DE,DE
+district of columbia,1984-11-06,g,np,congress,1984-11-06-g-DC,DC
+florida,1984-11-06,g,np,congress,1984-11-06-g-FL,FL
+georgia,1984-11-06,g,np,congress,1984-11-06-g-GA,GA
+idaho,1984-11-06,g,np,congress,1984-11-06-g-ID,ID
+illinois,1984-11-06,g,np,congress,1984-11-06-g-IL,IL
+indiana,1984-11-06,g,np,congress,1984-11-06-g-IN,IN
+iowa,1984-11-06,g,np,congress,1984-11-06-g-IA,IA
+kansas,1984-11-06,g,np,congress,1984-11-06-g-KS,KS
+kentucky,1984-11-06,g,np,congress,1984-11-06-g-KY,KY
+louisiana,1984-11-06,g,np,congress,1984-11-06-g-LA,LA
+maine,1984-11-06,g,np,congress,1984-11-06-g-ME,ME
+montana,1984-11-06,g,np,congress,1984-11-06-g-MT,MT
+nebraska,1984-11-06,g,np,congress,1984-11-06-g-NE,NE
+nevada,1984-11-06,g,np,congress,1984-11-06-g-NV,NV
+new hampshire,1984-11-06,g,np,congress,1984-11-06-g-NH,NH
+new jersey,1984-11-06,g,np,congress,1984-11-06-g-NJ,NJ
+new mexico,1984-11-06,g,np,congress,1984-11-06-g-NM,NM
+new york,1984-11-06,g,np,congress,1984-11-06-g-NY,NY
+north carolina,1984-11-06,g,np,congress,1984-11-06-g-NC,NC
+north dakota,1984-11-06,g,np,congress,1984-11-06-g-ND,ND
+ohio,1984-11-06,g,np,congress,1984-11-06-g-OH,OH
+oklahoma,1984-11-06,g,np,congress,1984-11-06-g-OK,OK
+oregon,1984-11-06,g,np,congress,1984-11-06-g-OR,OR
+maryland,1984-11-06,g,np,congress,1984-11-06-g-MD,MD
+massachusetts,1984-11-06,g,np,congress,1984-11-06-g-MA,MA
+michigan,1984-11-06,g,np,congress,1984-11-06-g-MI,MI
+minnesota,1984-11-06,g,np,congress,1984-11-06-g-MN,MN
+mississippi,1984-11-06,g,np,congress,1984-11-06-g-MS,MS
+missouri,1984-11-06,g,np,congress,1984-11-06-g-MO,MO
+pennsylvania,1984-11-06,g,np,congress,1984-11-06-g-PA,PA
+rhode island,1984-11-06,g,np,congress,1984-11-06-g-RI,RI
+south carolina,1984-11-06,g,np,congress,1984-11-06-g-SC,SC
+south dakota,1984-11-06,g,np,congress,1984-11-06-g-SD,SD
+tennessee,1984-11-06,g,np,congress,1984-11-06-g-TN,TN
+texas,1984-11-06,g,np,congress,1984-11-06-g-TX,TX
+utah,1984-11-06,g,np,congress,1984-11-06-g-UT,UT
+vermont,1984-11-06,g,np,congress,1984-11-06-g-VT,VT
+virginia,1984-11-06,g,np,congress,1984-11-06-g-VA,VA
+washington,1984-11-06,g,np,congress,1984-11-06-g-WA,WA
+west virginia,1984-11-06,g,np,congress,1984-11-06-g-WV,WV
+wisconsin,1984-11-06,g,np,congress,1984-11-06-g-WI,WI
+wyoming,1984-11-06,g,np,congress,1984-11-06-g-WY,WY
+alaska,1984-11-06,g,np,congress,1984-11-06-g-AK,AK
+hawaii,1984-11-06,g,np,congress,1984-11-06-g-HI,HI
+guam,1984-11-06,g,np,congress,1984-11-06-g-GU,GU
+american samoa,1984-11-06,g,np,congress,1984-11-06-g-AS,AS
+northern mariana islands,1984-11-06,g,np,congress,1984-11-06-g-MP,MP
+virgin islands,1984-11-06,g,np,congress,1984-11-06-g-VI,VI
+puerto rico,1984-11-06,g,np,congress,1984-11-06-g-PR,PR
+alabama,1986-11-04,g,np,congress,1986-11-04-g-AL,AL
+arizona,1986-11-04,g,np,congress,1986-11-04-g-AZ,AZ
+arkansas,1986-11-04,g,np,congress,1986-11-04-g-AR,AR
+california,1986-11-04,g,np,congress,1986-11-04-g-CA,CA
+colorado,1986-11-04,g,np,congress,1986-11-04-g-CO,CO
+connecticut,1986-11-04,g,np,congress,1986-11-04-g-CT,CT
+delaware,1986-11-04,g,np,congress,1986-11-04-g-DE,DE
+district of columbia,1986-11-04,g,np,congress,1986-11-04-g-DC,DC
+florida,1986-11-04,g,np,congress,1986-11-04-g-FL,FL
+georgia,1986-11-04,g,np,congress,1986-11-04-g-GA,GA
+idaho,1986-11-04,g,np,congress,1986-11-04-g-ID,ID
+illinois,1986-11-04,g,np,congress,1986-11-04-g-IL,IL
+indiana,1986-11-04,g,np,congress,1986-11-04-g-IN,IN
+iowa,1986-11-04,g,np,congress,1986-11-04-g-IA,IA
+kansas,1986-11-04,g,np,congress,1986-11-04-g-KS,KS
+kentucky,1986-11-04,g,np,congress,1986-11-04-g-KY,KY
+louisiana,1986-11-04,g,np,congress,1986-11-04-g-LA,LA
+maine,1986-11-04,g,np,congress,1986-11-04-g-ME,ME
+montana,1986-11-04,g,np,congress,1986-11-04-g-MT,MT
+nebraska,1986-11-04,g,np,congress,1986-11-04-g-NE,NE
+nevada,1986-11-04,g,np,congress,1986-11-04-g-NV,NV
+new hampshire,1986-11-04,g,np,congress,1986-11-04-g-NH,NH
+new jersey,1986-11-04,g,np,congress,1986-11-04-g-NJ,NJ
+new mexico,1986-11-04,g,np,congress,1986-11-04-g-NM,NM
+new york,1986-11-04,g,np,congress,1986-11-04-g-NY,NY
+north carolina,1986-11-04,g,np,congress,1986-11-04-g-NC,NC
+north dakota,1986-11-04,g,np,congress,1986-11-04-g-ND,ND
+ohio,1986-11-04,g,np,congress,1986-11-04-g-OH,OH
+oklahoma,1986-11-04,g,np,congress,1986-11-04-g-OK,OK
+oregon,1986-11-04,g,np,congress,1986-11-04-g-OR,OR
+maryland,1986-11-04,g,np,congress,1986-11-04-g-MD,MD
+massachusetts,1986-11-04,g,np,congress,1986-11-04-g-MA,MA
+michigan,1986-11-04,g,np,congress,1986-11-04-g-MI,MI
+minnesota,1986-11-04,g,np,congress,1986-11-04-g-MN,MN
+mississippi,1986-11-04,g,np,congress,1986-11-04-g-MS,MS
+missouri,1986-11-04,g,np,congress,1986-11-04-g-MO,MO
+pennsylvania,1986-11-04,g,np,congress,1986-11-04-g-PA,PA
+rhode island,1986-11-04,g,np,congress,1986-11-04-g-RI,RI
+south carolina,1986-11-04,g,np,congress,1986-11-04-g-SC,SC
+south dakota,1986-11-04,g,np,congress,1986-11-04-g-SD,SD
+tennessee,1986-11-04,g,np,congress,1986-11-04-g-TN,TN
+texas,1986-11-04,g,np,congress,1986-11-04-g-TX,TX
+utah,1986-11-04,g,np,congress,1986-11-04-g-UT,UT
+vermont,1986-11-04,g,np,congress,1986-11-04-g-VT,VT
+virginia,1986-11-04,g,np,congress,1986-11-04-g-VA,VA
+washington,1986-11-04,g,np,congress,1986-11-04-g-WA,WA
+west virginia,1986-11-04,g,np,congress,1986-11-04-g-WV,WV
+wisconsin,1986-11-04,g,np,congress,1986-11-04-g-WI,WI
+wyoming,1986-11-04,g,np,congress,1986-11-04-g-WY,WY
+alaska,1986-11-04,g,np,congress,1986-11-04-g-AK,AK
+hawaii,1986-11-04,g,np,congress,1986-11-04-g-HI,HI
+guam,1986-11-04,g,np,congress,1986-11-04-g-GU,GU
+american samoa,1986-11-04,g,np,congress,1986-11-04-g-AS,AS
+northern mariana islands,1986-11-04,g,np,congress,1986-11-04-g-MP,MP
+virgin islands,1986-11-04,g,np,congress,1986-11-04-g-VI,VI
+puerto rico,1986-11-04,g,np,congress,1986-11-04-g-PR,PR
+alabama,1988-11-01,g,np,congress,1988-11-01-g-AL,AL
+arizona,1988-11-01,g,np,congress,1988-11-01-g-AZ,AZ
+arkansas,1988-11-01,g,np,congress,1988-11-01-g-AR,AR
+california,1988-11-01,g,np,congress,1988-11-01-g-CA,CA
+colorado,1988-11-01,g,np,congress,1988-11-01-g-CO,CO
+connecticut,1988-11-01,g,np,congress,1988-11-01-g-CT,CT
+delaware,1988-11-01,g,np,congress,1988-11-01-g-DE,DE
+district of columbia,1988-11-01,g,np,congress,1988-11-01-g-DC,DC
+florida,1988-11-01,g,np,congress,1988-11-01-g-FL,FL
+georgia,1988-11-01,g,np,congress,1988-11-01-g-GA,GA
+idaho,1988-11-01,g,np,congress,1988-11-01-g-ID,ID
+illinois,1988-11-01,g,np,congress,1988-11-01-g-IL,IL
+indiana,1988-11-01,g,np,congress,1988-11-01-g-IN,IN
+iowa,1988-11-01,g,np,congress,1988-11-01-g-IA,IA
+kansas,1988-11-01,g,np,congress,1988-11-01-g-KS,KS
+kentucky,1988-11-01,g,np,congress,1988-11-01-g-KY,KY
+louisiana,1988-11-01,g,np,congress,1988-11-01-g-LA,LA
+maine,1988-11-01,g,np,congress,1988-11-01-g-ME,ME
+montana,1988-11-01,g,np,congress,1988-11-01-g-MT,MT
+nebraska,1988-11-01,g,np,congress,1988-11-01-g-NE,NE
+nevada,1988-11-01,g,np,congress,1988-11-01-g-NV,NV
+new hampshire,1988-11-01,g,np,congress,1988-11-01-g-NH,NH
+new jersey,1988-11-01,g,np,congress,1988-11-01-g-NJ,NJ
+new mexico,1988-11-01,g,np,congress,1988-11-01-g-NM,NM
+new york,1988-11-01,g,np,congress,1988-11-01-g-NY,NY
+north carolina,1988-11-01,g,np,congress,1988-11-01-g-NC,NC
+north dakota,1988-11-01,g,np,congress,1988-11-01-g-ND,ND
+ohio,1988-11-01,g,np,congress,1988-11-01-g-OH,OH
+oklahoma,1988-11-01,g,np,congress,1988-11-01-g-OK,OK
+oregon,1988-11-01,g,np,congress,1988-11-01-g-OR,OR
+maryland,1988-11-01,g,np,congress,1988-11-01-g-MD,MD
+massachusetts,1988-11-01,g,np,congress,1988-11-01-g-MA,MA
+michigan,1988-11-01,g,np,congress,1988-11-01-g-MI,MI
+minnesota,1988-11-01,g,np,congress,1988-11-01-g-MN,MN
+mississippi,1988-11-01,g,np,congress,1988-11-01-g-MS,MS
+missouri,1988-11-01,g,np,congress,1988-11-01-g-MO,MO
+pennsylvania,1988-11-01,g,np,congress,1988-11-01-g-PA,PA
+rhode island,1988-11-01,g,np,congress,1988-11-01-g-RI,RI
+south carolina,1988-11-01,g,np,congress,1988-11-01-g-SC,SC
+south dakota,1988-11-01,g,np,congress,1988-11-01-g-SD,SD
+tennessee,1988-11-01,g,np,congress,1988-11-01-g-TN,TN
+texas,1988-11-01,g,np,congress,1988-11-01-g-TX,TX
+utah,1988-11-01,g,np,congress,1988-11-01-g-UT,UT
+vermont,1988-11-01,g,np,congress,1988-11-01-g-VT,VT
+virginia,1988-11-01,g,np,congress,1988-11-01-g-VA,VA
+washington,1988-11-01,g,np,congress,1988-11-01-g-WA,WA
+west virginia,1988-11-01,g,np,congress,1988-11-01-g-WV,WV
+wisconsin,1988-11-01,g,np,congress,1988-11-01-g-WI,WI
+wyoming,1988-11-01,g,np,congress,1988-11-01-g-WY,WY
+alaska,1988-11-01,g,np,congress,1988-11-01-g-AK,AK
+hawaii,1988-11-01,g,np,congress,1988-11-01-g-HI,HI
+guam,1988-11-01,g,np,congress,1988-11-01-g-GU,GU
+american samoa,1988-11-01,g,np,congress,1988-11-01-g-AS,AS
+northern mariana islands,1988-11-01,g,np,congress,1988-11-01-g-MP,MP
+virgin islands,1988-11-01,g,np,congress,1988-11-01-g-VI,VI
+puerto rico,1988-11-01,g,np,congress,1988-11-01-g-PR,PR
+alabama,1990-11-06,g,np,congress,1990-11-06-g-AL,AL
+arizona,1990-11-06,g,np,congress,1990-11-06-g-AZ,AZ
+arkansas,1990-11-06,g,np,congress,1990-11-06-g-AR,AR
+california,1990-11-06,g,np,congress,1990-11-06-g-CA,CA
+colorado,1990-11-06,g,np,congress,1990-11-06-g-CO,CO
+connecticut,1990-11-06,g,np,congress,1990-11-06-g-CT,CT
+delaware,1990-11-06,g,np,congress,1990-11-06-g-DE,DE
+district of columbia,1990-11-06,g,np,congress,1990-11-06-g-DC,DC
+florida,1990-11-06,g,np,congress,1990-11-06-g-FL,FL
+georgia,1990-11-06,g,np,congress,1990-11-06-g-GA,GA
+idaho,1990-11-06,g,np,congress,1990-11-06-g-ID,ID
+illinois,1990-11-06,g,np,congress,1990-11-06-g-IL,IL
+indiana,1990-11-06,g,np,congress,1990-11-06-g-IN,IN
+iowa,1990-11-06,g,np,congress,1990-11-06-g-IA,IA
+kansas,1990-11-06,g,np,congress,1990-11-06-g-KS,KS
+kentucky,1990-11-06,g,np,congress,1990-11-06-g-KY,KY
+louisiana,1990-11-06,g,np,congress,1990-11-06-g-LA,LA
+maine,1990-11-06,g,np,congress,1990-11-06-g-ME,ME
+montana,1990-11-06,g,np,congress,1990-11-06-g-MT,MT
+nebraska,1990-11-06,g,np,congress,1990-11-06-g-NE,NE
+nevada,1990-11-06,g,np,congress,1990-11-06-g-NV,NV
+new hampshire,1990-11-06,g,np,congress,1990-11-06-g-NH,NH
+new jersey,1990-11-06,g,np,congress,1990-11-06-g-NJ,NJ
+new mexico,1990-11-06,g,np,congress,1990-11-06-g-NM,NM
+new york,1990-11-06,g,np,congress,1990-11-06-g-NY,NY
+north carolina,1990-11-06,g,np,congress,1990-11-06-g-NC,NC
+north dakota,1990-11-06,g,np,congress,1990-11-06-g-ND,ND
+ohio,1990-11-06,g,np,congress,1990-11-06-g-OH,OH
+oklahoma,1990-11-06,g,np,congress,1990-11-06-g-OK,OK
+oregon,1990-11-06,g,np,congress,1990-11-06-g-OR,OR
+maryland,1990-11-06,g,np,congress,1990-11-06-g-MD,MD
+massachusetts,1990-11-06,g,np,congress,1990-11-06-g-MA,MA
+michigan,1990-11-06,g,np,congress,1990-11-06-g-MI,MI
+minnesota,1990-11-06,g,np,congress,1990-11-06-g-MN,MN
+mississippi,1990-11-06,g,np,congress,1990-11-06-g-MS,MS
+missouri,1990-11-06,g,np,congress,1990-11-06-g-MO,MO
+pennsylvania,1990-11-06,g,np,congress,1990-11-06-g-PA,PA
+rhode island,1990-11-06,g,np,congress,1990-11-06-g-RI,RI
+south carolina,1990-11-06,g,np,congress,1990-11-06-g-SC,SC
+south dakota,1990-11-06,g,np,congress,1990-11-06-g-SD,SD
+tennessee,1990-11-06,g,np,congress,1990-11-06-g-TN,TN
+texas,1990-11-06,g,np,congress,1990-11-06-g-TX,TX
+utah,1990-11-06,g,np,congress,1990-11-06-g-UT,UT
+vermont,1990-11-06,g,np,congress,1990-11-06-g-VT,VT
+virginia,1990-11-06,g,np,congress,1990-11-06-g-VA,VA
+washington,1990-11-06,g,np,congress,1990-11-06-g-WA,WA
+west virginia,1990-11-06,g,np,congress,1990-11-06-g-WV,WV
+wisconsin,1990-11-06,g,np,congress,1990-11-06-g-WI,WI
+wyoming,1990-11-06,g,np,congress,1990-11-06-g-WY,WY
+alaska,1990-11-06,g,np,congress,1990-11-06-g-AK,AK
+hawaii,1990-11-06,g,np,congress,1990-11-06-g-HI,HI
+guam,1990-11-06,g,np,congress,1990-11-06-g-GU,GU
+american samoa,1990-11-06,g,np,congress,1990-11-06-g-AS,AS
+northern mariana islands,1990-11-06,g,np,congress,1990-11-06-g-MP,MP
+virgin islands,1990-11-06,g,np,congress,1990-11-06-g-VI,VI
+puerto rico,1990-11-06,g,np,congress,1990-11-06-g-PR,PR
+alabama,1992-11-03,g,np,congress,1992-11-03-g-AL,AL
+arizona,1992-11-03,g,np,congress,1992-11-03-g-AZ,AZ
+arkansas,1992-11-03,g,np,congress,1992-11-03-g-AR,AR
+california,1992-11-03,g,np,congress,1992-11-03-g-CA,CA
+colorado,1992-11-03,g,np,congress,1992-11-03-g-CO,CO
+connecticut,1992-11-03,g,np,congress,1992-11-03-g-CT,CT
+delaware,1992-11-03,g,np,congress,1992-11-03-g-DE,DE
+district of columbia,1992-11-03,g,np,congress,1992-11-03-g-DC,DC
+florida,1992-11-03,g,np,congress,1992-11-03-g-FL,FL
+georgia,1992-11-03,g,np,congress,1992-11-03-g-GA,GA
+idaho,1992-11-03,g,np,congress,1992-11-03-g-ID,ID
+illinois,1992-11-03,g,np,congress,1992-11-03-g-IL,IL
+indiana,1992-11-03,g,np,congress,1992-11-03-g-IN,IN
+iowa,1992-11-03,g,np,congress,1992-11-03-g-IA,IA
+kansas,1992-11-03,g,np,congress,1992-11-03-g-KS,KS
+kentucky,1992-11-03,g,np,congress,1992-11-03-g-KY,KY
+louisiana,1992-11-03,g,np,congress,1992-11-03-g-LA,LA
+maine,1992-11-03,g,np,congress,1992-11-03-g-ME,ME
+montana,1992-11-03,g,np,congress,1992-11-03-g-MT,MT
+nebraska,1992-11-03,g,np,congress,1992-11-03-g-NE,NE
+nevada,1992-11-03,g,np,congress,1992-11-03-g-NV,NV
+new hampshire,1992-11-03,g,np,congress,1992-11-03-g-NH,NH
+new jersey,1992-11-03,g,np,congress,1992-11-03-g-NJ,NJ
+new mexico,1992-11-03,g,np,congress,1992-11-03-g-NM,NM
+new york,1992-11-03,g,np,congress,1992-11-03-g-NY,NY
+north carolina,1992-11-03,g,np,congress,1992-11-03-g-NC,NC
+north dakota,1992-11-03,g,np,congress,1992-11-03-g-ND,ND
+ohio,1992-11-03,g,np,congress,1992-11-03-g-OH,OH
+oklahoma,1992-11-03,g,np,congress,1992-11-03-g-OK,OK
+oregon,1992-11-03,g,np,congress,1992-11-03-g-OR,OR
+maryland,1992-11-03,g,np,congress,1992-11-03-g-MD,MD
+massachusetts,1992-11-03,g,np,congress,1992-11-03-g-MA,MA
+michigan,1992-11-03,g,np,congress,1992-11-03-g-MI,MI
+minnesota,1992-11-03,g,np,congress,1992-11-03-g-MN,MN
+mississippi,1992-11-03,g,np,congress,1992-11-03-g-MS,MS
+missouri,1992-11-03,g,np,congress,1992-11-03-g-MO,MO
+pennsylvania,1992-11-03,g,np,congress,1992-11-03-g-PA,PA
+rhode island,1992-11-03,g,np,congress,1992-11-03-g-RI,RI
+south carolina,1992-11-03,g,np,congress,1992-11-03-g-SC,SC
+south dakota,1992-11-03,g,np,congress,1992-11-03-g-SD,SD
+tennessee,1992-11-03,g,np,congress,1992-11-03-g-TN,TN
+texas,1992-11-03,g,np,congress,1992-11-03-g-TX,TX
+utah,1992-11-03,g,np,congress,1992-11-03-g-UT,UT
+vermont,1992-11-03,g,np,congress,1992-11-03-g-VT,VT
+virginia,1992-11-03,g,np,congress,1992-11-03-g-VA,VA
+washington,1992-11-03,g,np,congress,1992-11-03-g-WA,WA
+west virginia,1992-11-03,g,np,congress,1992-11-03-g-WV,WV
+wisconsin,1992-11-03,g,np,congress,1992-11-03-g-WI,WI
+wyoming,1992-11-03,g,np,congress,1992-11-03-g-WY,WY
+alaska,1992-11-03,g,np,congress,1992-11-03-g-AK,AK
+hawaii,1992-11-03,g,np,congress,1992-11-03-g-HI,HI
+guam,1992-11-03,g,np,congress,1992-11-03-g-GU,GU
+american samoa,1992-11-03,g,np,congress,1992-11-03-g-AS,AS
+northern mariana islands,1992-11-03,g,np,congress,1992-11-03-g-MP,MP
+virgin islands,1992-11-03,g,np,congress,1992-11-03-g-VI,VI
+puerto rico,1992-11-03,g,np,congress,1992-11-03-g-PR,PR
+alabama,1994-11-01,g,np,congress,1994-11-01-g-AL,AL
+arizona,1994-11-01,g,np,congress,1994-11-01-g-AZ,AZ
+arkansas,1994-11-01,g,np,congress,1994-11-01-g-AR,AR
+california,1994-11-01,g,np,congress,1994-11-01-g-CA,CA
+colorado,1994-11-01,g,np,congress,1994-11-01-g-CO,CO
+connecticut,1994-11-01,g,np,congress,1994-11-01-g-CT,CT
+delaware,1994-11-01,g,np,congress,1994-11-01-g-DE,DE
+district of columbia,1994-11-01,g,np,congress,1994-11-01-g-DC,DC
+florida,1994-11-01,g,np,congress,1994-11-01-g-FL,FL
+georgia,1994-11-01,g,np,congress,1994-11-01-g-GA,GA
+idaho,1994-11-01,g,np,congress,1994-11-01-g-ID,ID
+illinois,1994-11-01,g,np,congress,1994-11-01-g-IL,IL
+indiana,1994-11-01,g,np,congress,1994-11-01-g-IN,IN
+iowa,1994-11-01,g,np,congress,1994-11-01-g-IA,IA
+kansas,1994-11-01,g,np,congress,1994-11-01-g-KS,KS
+kentucky,1994-11-01,g,np,congress,1994-11-01-g-KY,KY
+louisiana,1994-11-01,g,np,congress,1994-11-01-g-LA,LA
+maine,1994-11-01,g,np,congress,1994-11-01-g-ME,ME
+montana,1994-11-01,g,np,congress,1994-11-01-g-MT,MT
+nebraska,1994-11-01,g,np,congress,1994-11-01-g-NE,NE
+nevada,1994-11-01,g,np,congress,1994-11-01-g-NV,NV
+new hampshire,1994-11-01,g,np,congress,1994-11-01-g-NH,NH
+new jersey,1994-11-01,g,np,congress,1994-11-01-g-NJ,NJ
+new mexico,1994-11-01,g,np,congress,1994-11-01-g-NM,NM
+new york,1994-11-01,g,np,congress,1994-11-01-g-NY,NY
+north carolina,1994-11-01,g,np,congress,1994-11-01-g-NC,NC
+north dakota,1994-11-01,g,np,congress,1994-11-01-g-ND,ND
+ohio,1994-11-01,g,np,congress,1994-11-01-g-OH,OH
+oklahoma,1994-11-01,g,np,congress,1994-11-01-g-OK,OK
+oregon,1994-11-01,g,np,congress,1994-11-01-g-OR,OR
+maryland,1994-11-01,g,np,congress,1994-11-01-g-MD,MD
+massachusetts,1994-11-01,g,np,congress,1994-11-01-g-MA,MA
+michigan,1994-11-01,g,np,congress,1994-11-01-g-MI,MI
+minnesota,1994-11-01,g,np,congress,1994-11-01-g-MN,MN
+mississippi,1994-11-01,g,np,congress,1994-11-01-g-MS,MS
+missouri,1994-11-01,g,np,congress,1994-11-01-g-MO,MO
+pennsylvania,1994-11-01,g,np,congress,1994-11-01-g-PA,PA
+rhode island,1994-11-01,g,np,congress,1994-11-01-g-RI,RI
+south carolina,1994-11-01,g,np,congress,1994-11-01-g-SC,SC
+south dakota,1994-11-01,g,np,congress,1994-11-01-g-SD,SD
+tennessee,1994-11-01,g,np,congress,1994-11-01-g-TN,TN
+texas,1994-11-01,g,np,congress,1994-11-01-g-TX,TX
+utah,1994-11-01,g,np,congress,1994-11-01-g-UT,UT
+vermont,1994-11-01,g,np,congress,1994-11-01-g-VT,VT
+virginia,1994-11-01,g,np,congress,1994-11-01-g-VA,VA
+washington,1994-11-01,g,np,congress,1994-11-01-g-WA,WA
+west virginia,1994-11-01,g,np,congress,1994-11-01-g-WV,WV
+wisconsin,1994-11-01,g,np,congress,1994-11-01-g-WI,WI
+wyoming,1994-11-01,g,np,congress,1994-11-01-g-WY,WY
+alaska,1994-11-01,g,np,congress,1994-11-01-g-AK,AK
+hawaii,1994-11-01,g,np,congress,1994-11-01-g-HI,HI
+guam,1994-11-01,g,np,congress,1994-11-01-g-GU,GU
+american samoa,1994-11-01,g,np,congress,1994-11-01-g-AS,AS
+northern mariana islands,1994-11-01,g,np,congress,1994-11-01-g-MP,MP
+virgin islands,1994-11-01,g,np,congress,1994-11-01-g-VI,VI
+puerto rico,1994-11-01,g,np,congress,1994-11-01-g-PR,PR
+alabama,1996-11-05,g,np,congress,1996-11-05-g-AL,AL
+arizona,1996-11-05,g,np,congress,1996-11-05-g-AZ,AZ
+arkansas,1996-11-05,g,np,congress,1996-11-05-g-AR,AR
+california,1996-11-05,g,np,congress,1996-11-05-g-CA,CA
+colorado,1996-11-05,g,np,congress,1996-11-05-g-CO,CO
+connecticut,1996-11-05,g,np,congress,1996-11-05-g-CT,CT
+delaware,1996-11-05,g,np,congress,1996-11-05-g-DE,DE
+district of columbia,1996-11-05,g,np,congress,1996-11-05-g-DC,DC
+florida,1996-11-05,g,np,congress,1996-11-05-g-FL,FL
+georgia,1996-11-05,g,np,congress,1996-11-05-g-GA,GA
+idaho,1996-11-05,g,np,congress,1996-11-05-g-ID,ID
+illinois,1996-11-05,g,np,congress,1996-11-05-g-IL,IL
+indiana,1996-11-05,g,np,congress,1996-11-05-g-IN,IN
+iowa,1996-11-05,g,np,congress,1996-11-05-g-IA,IA
+kansas,1996-11-05,g,np,congress,1996-11-05-g-KS,KS
+kentucky,1996-11-05,g,np,congress,1996-11-05-g-KY,KY
+louisiana,1996-11-05,g,np,congress,1996-11-05-g-LA,LA
+maine,1996-11-05,g,np,congress,1996-11-05-g-ME,ME
+montana,1996-11-05,g,np,congress,1996-11-05-g-MT,MT
+nebraska,1996-11-05,g,np,congress,1996-11-05-g-NE,NE
+nevada,1996-11-05,g,np,congress,1996-11-05-g-NV,NV
+new hampshire,1996-11-05,g,np,congress,1996-11-05-g-NH,NH
+new jersey,1996-11-05,g,np,congress,1996-11-05-g-NJ,NJ
+new mexico,1996-11-05,g,np,congress,1996-11-05-g-NM,NM
+new york,1996-11-05,g,np,congress,1996-11-05-g-NY,NY
+north carolina,1996-11-05,g,np,congress,1996-11-05-g-NC,NC
+north dakota,1996-11-05,g,np,congress,1996-11-05-g-ND,ND
+ohio,1996-11-05,g,np,congress,1996-11-05-g-OH,OH
+oklahoma,1996-11-05,g,np,congress,1996-11-05-g-OK,OK
+oregon,1996-11-05,g,np,congress,1996-11-05-g-OR,OR
+maryland,1996-11-05,g,np,congress,1996-11-05-g-MD,MD
+massachusetts,1996-11-05,g,np,congress,1996-11-05-g-MA,MA
+michigan,1996-11-05,g,np,congress,1996-11-05-g-MI,MI
+minnesota,1996-11-05,g,np,congress,1996-11-05-g-MN,MN
+mississippi,1996-11-05,g,np,congress,1996-11-05-g-MS,MS
+missouri,1996-11-05,g,np,congress,1996-11-05-g-MO,MO
+pennsylvania,1996-11-05,g,np,congress,1996-11-05-g-PA,PA
+rhode island,1996-11-05,g,np,congress,1996-11-05-g-RI,RI
+south carolina,1996-11-05,g,np,congress,1996-11-05-g-SC,SC
+south dakota,1996-11-05,g,np,congress,1996-11-05-g-SD,SD
+tennessee,1996-11-05,g,np,congress,1996-11-05-g-TN,TN
+texas,1996-11-05,g,np,congress,1996-11-05-g-TX,TX
+utah,1996-11-05,g,np,congress,1996-11-05-g-UT,UT
+vermont,1996-11-05,g,np,congress,1996-11-05-g-VT,VT
+virginia,1996-11-05,g,np,congress,1996-11-05-g-VA,VA
+washington,1996-11-05,g,np,congress,1996-11-05-g-WA,WA
+west virginia,1996-11-05,g,np,congress,1996-11-05-g-WV,WV
+wisconsin,1996-11-05,g,np,congress,1996-11-05-g-WI,WI
+wyoming,1996-11-05,g,np,congress,1996-11-05-g-WY,WY
+alaska,1996-11-05,g,np,congress,1996-11-05-g-AK,AK
+hawaii,1996-11-05,g,np,congress,1996-11-05-g-HI,HI
+guam,1996-11-05,g,np,congress,1996-11-05-g-GU,GU
+american samoa,1996-11-05,g,np,congress,1996-11-05-g-AS,AS
+northern mariana islands,1996-11-05,g,np,congress,1996-11-05-g-MP,MP
+virgin islands,1996-11-05,g,np,congress,1996-11-05-g-VI,VI
+puerto rico,1996-11-05,g,np,congress,1996-11-05-g-PR,PR
+alabama,1998-11-03,g,np,congress,1998-11-03-g-AL,AL
+arizona,1998-11-03,g,np,congress,1998-11-03-g-AZ,AZ
+arkansas,1998-11-03,g,np,congress,1998-11-03-g-AR,AR
+california,1998-11-03,g,np,congress,1998-11-03-g-CA,CA
+colorado,1998-11-03,g,np,congress,1998-11-03-g-CO,CO
+connecticut,1998-11-03,g,np,congress,1998-11-03-g-CT,CT
+delaware,1998-11-03,g,np,congress,1998-11-03-g-DE,DE
+district of columbia,1998-11-03,g,np,congress,1998-11-03-g-DC,DC
+florida,1998-11-03,g,np,congress,1998-11-03-g-FL,FL
+georgia,1998-11-03,g,np,congress,1998-11-03-g-GA,GA
+idaho,1998-11-03,g,np,congress,1998-11-03-g-ID,ID
+illinois,1998-11-03,g,np,congress,1998-11-03-g-IL,IL
+indiana,1998-11-03,g,np,congress,1998-11-03-g-IN,IN
+iowa,1998-11-03,g,np,congress,1998-11-03-g-IA,IA
+kansas,1998-11-03,g,np,congress,1998-11-03-g-KS,KS
+kentucky,1998-11-03,g,np,congress,1998-11-03-g-KY,KY
+louisiana,1998-11-03,g,np,congress,1998-11-03-g-LA,LA
+maine,1998-11-03,g,np,congress,1998-11-03-g-ME,ME
+montana,1998-11-03,g,np,congress,1998-11-03-g-MT,MT
+nebraska,1998-11-03,g,np,congress,1998-11-03-g-NE,NE
+nevada,1998-11-03,g,np,congress,1998-11-03-g-NV,NV
+new hampshire,1998-11-03,g,np,congress,1998-11-03-g-NH,NH
+new jersey,1998-11-03,g,np,congress,1998-11-03-g-NJ,NJ
+new mexico,1998-11-03,g,np,congress,1998-11-03-g-NM,NM
+new york,1998-11-03,g,np,congress,1998-11-03-g-NY,NY
+north carolina,1998-11-03,g,np,congress,1998-11-03-g-NC,NC
+north dakota,1998-11-03,g,np,congress,1998-11-03-g-ND,ND
+ohio,1998-11-03,g,np,congress,1998-11-03-g-OH,OH
+oklahoma,1998-11-03,g,np,congress,1998-11-03-g-OK,OK
+oregon,1998-11-03,g,np,congress,1998-11-03-g-OR,OR
+maryland,1998-11-03,g,np,congress,1998-11-03-g-MD,MD
+massachusetts,1998-11-03,g,np,congress,1998-11-03-g-MA,MA
+michigan,1998-11-03,g,np,congress,1998-11-03-g-MI,MI
+minnesota,1998-11-03,g,np,congress,1998-11-03-g-MN,MN
+mississippi,1998-11-03,g,np,congress,1998-11-03-g-MS,MS
+missouri,1998-11-03,g,np,congress,1998-11-03-g-MO,MO
+pennsylvania,1998-11-03,g,np,congress,1998-11-03-g-PA,PA
+rhode island,1998-11-03,g,np,congress,1998-11-03-g-RI,RI
+south carolina,1998-11-03,g,np,congress,1998-11-03-g-SC,SC
+south dakota,1998-11-03,g,np,congress,1998-11-03-g-SD,SD
+tennessee,1998-11-03,g,np,congress,1998-11-03-g-TN,TN
+texas,1998-11-03,g,np,congress,1998-11-03-g-TX,TX
+utah,1998-11-03,g,np,congress,1998-11-03-g-UT,UT
+vermont,1998-11-03,g,np,congress,1998-11-03-g-VT,VT
+virginia,1998-11-03,g,np,congress,1998-11-03-g-VA,VA
+washington,1998-11-03,g,np,congress,1998-11-03-g-WA,WA
+west virginia,1998-11-03,g,np,congress,1998-11-03-g-WV,WV
+wisconsin,1998-11-03,g,np,congress,1998-11-03-g-WI,WI
+wyoming,1998-11-03,g,np,congress,1998-11-03-g-WY,WY
+alaska,1998-11-03,g,np,congress,1998-11-03-g-AK,AK
+hawaii,1998-11-03,g,np,congress,1998-11-03-g-HI,HI
+guam,1998-11-03,g,np,congress,1998-11-03-g-GU,GU
+american samoa,1998-11-03,g,np,congress,1998-11-03-g-AS,AS
+northern mariana islands,1998-11-03,g,np,congress,1998-11-03-g-MP,MP
+virgin islands,1998-11-03,g,np,congress,1998-11-03-g-VI,VI
+puerto rico,1998-11-03,g,np,congress,1998-11-03-g-PR,PR
+alabama,2000-11-07,g,np,congress,2000-11-07-g-AL,AL
+arizona,2000-11-07,g,np,congress,2000-11-07-g-AZ,AZ
+arkansas,2000-11-07,g,np,congress,2000-11-07-g-AR,AR
+california,2000-11-07,g,np,congress,2000-11-07-g-CA,CA
+colorado,2000-11-07,g,np,congress,2000-11-07-g-CO,CO
+connecticut,2000-11-07,g,np,congress,2000-11-07-g-CT,CT
+delaware,2000-11-07,g,np,congress,2000-11-07-g-DE,DE
+district of columbia,2000-11-07,g,np,congress,2000-11-07-g-DC,DC
+florida,2000-11-07,g,np,congress,2000-11-07-g-FL,FL
+georgia,2000-11-07,g,np,congress,2000-11-07-g-GA,GA
+idaho,2000-11-07,g,np,congress,2000-11-07-g-ID,ID
+illinois,2000-11-07,g,np,congress,2000-11-07-g-IL,IL
+indiana,2000-11-07,g,np,congress,2000-11-07-g-IN,IN
+iowa,2000-11-07,g,np,congress,2000-11-07-g-IA,IA
+kansas,2000-11-07,g,np,congress,2000-11-07-g-KS,KS
+kentucky,2000-11-07,g,np,congress,2000-11-07-g-KY,KY
+louisiana,2000-11-07,g,np,congress,2000-11-07-g-LA,LA
+maine,2000-11-07,g,np,congress,2000-11-07-g-ME,ME
+montana,2000-11-07,g,np,congress,2000-11-07-g-MT,MT
+nebraska,2000-11-07,g,np,congress,2000-11-07-g-NE,NE
+nevada,2000-11-07,g,np,congress,2000-11-07-g-NV,NV
+new hampshire,2000-11-07,g,np,congress,2000-11-07-g-NH,NH
+new jersey,2000-11-07,g,np,congress,2000-11-07-g-NJ,NJ
+new mexico,2000-11-07,g,np,congress,2000-11-07-g-NM,NM
+new york,2000-11-07,g,np,congress,2000-11-07-g-NY,NY
+north carolina,2000-11-07,g,np,congress,2000-11-07-g-NC,NC
+north dakota,2000-11-07,g,np,congress,2000-11-07-g-ND,ND
+ohio,2000-11-07,g,np,congress,2000-11-07-g-OH,OH
+oklahoma,2000-11-07,g,np,congress,2000-11-07-g-OK,OK
+oregon,2000-11-07,g,np,congress,2000-11-07-g-OR,OR
+maryland,2000-11-07,g,np,congress,2000-11-07-g-MD,MD
+massachusetts,2000-11-07,g,np,congress,2000-11-07-g-MA,MA
+michigan,2000-11-07,g,np,congress,2000-11-07-g-MI,MI
+minnesota,2000-11-07,g,np,congress,2000-11-07-g-MN,MN
+mississippi,2000-11-07,g,np,congress,2000-11-07-g-MS,MS
+missouri,2000-11-07,g,np,congress,2000-11-07-g-MO,MO
+pennsylvania,2000-11-07,g,np,congress,2000-11-07-g-PA,PA
+rhode island,2000-11-07,g,np,congress,2000-11-07-g-RI,RI
+south carolina,2000-11-07,g,np,congress,2000-11-07-g-SC,SC
+south dakota,2000-11-07,g,np,congress,2000-11-07-g-SD,SD
+tennessee,2000-11-07,g,np,congress,2000-11-07-g-TN,TN
+texas,2000-11-07,g,np,congress,2000-11-07-g-TX,TX
+utah,2000-11-07,g,np,congress,2000-11-07-g-UT,UT
+vermont,2000-11-07,g,np,congress,2000-11-07-g-VT,VT
+virginia,2000-11-07,g,np,congress,2000-11-07-g-VA,VA
+washington,2000-11-07,g,np,congress,2000-11-07-g-WA,WA
+west virginia,2000-11-07,g,np,congress,2000-11-07-g-WV,WV
+wisconsin,2000-11-07,g,np,congress,2000-11-07-g-WI,WI
+wyoming,2000-11-07,g,np,congress,2000-11-07-g-WY,WY
+alaska,2000-11-07,g,np,congress,2000-11-07-g-AK,AK
+hawaii,2000-11-07,g,np,congress,2000-11-07-g-HI,HI
+guam,2000-11-07,g,np,congress,2000-11-07-g-GU,GU
+american samoa,2000-11-07,g,np,congress,2000-11-07-g-AS,AS
+northern mariana islands,2000-11-07,g,np,congress,2000-11-07-g-MP,MP
+virgin islands,2000-11-07,g,np,congress,2000-11-07-g-VI,VI
+puerto rico,2000-11-07,g,np,congress,2000-11-07-g-PR,PR
+alabama,2002-11-05,g,np,congress,2002-11-05-g-AL,AL
+arizona,2002-11-05,g,np,congress,2002-11-05-g-AZ,AZ
+arkansas,2002-11-05,g,np,congress,2002-11-05-g-AR,AR
+california,2002-11-05,g,np,congress,2002-11-05-g-CA,CA
+colorado,2002-11-05,g,np,congress,2002-11-05-g-CO,CO
+connecticut,2002-11-05,g,np,congress,2002-11-05-g-CT,CT
+delaware,2002-11-05,g,np,congress,2002-11-05-g-DE,DE
+district of columbia,2002-11-05,g,np,congress,2002-11-05-g-DC,DC
+florida,2002-11-05,g,np,congress,2002-11-05-g-FL,FL
+georgia,2002-11-05,g,np,congress,2002-11-05-g-GA,GA
+idaho,2002-11-05,g,np,congress,2002-11-05-g-ID,ID
+illinois,2002-11-05,g,np,congress,2002-11-05-g-IL,IL
+indiana,2002-11-05,g,np,congress,2002-11-05-g-IN,IN
+iowa,2002-11-05,g,np,congress,2002-11-05-g-IA,IA
+kansas,2002-11-05,g,np,congress,2002-11-05-g-KS,KS
+kentucky,2002-11-05,g,np,congress,2002-11-05-g-KY,KY
+louisiana,2002-11-05,g,np,congress,2002-11-05-g-LA,LA
+maine,2002-11-05,g,np,congress,2002-11-05-g-ME,ME
+montana,2002-11-05,g,np,congress,2002-11-05-g-MT,MT
+nebraska,2002-11-05,g,np,congress,2002-11-05-g-NE,NE
+nevada,2002-11-05,g,np,congress,2002-11-05-g-NV,NV
+new hampshire,2002-11-05,g,np,congress,2002-11-05-g-NH,NH
+new jersey,2002-11-05,g,np,congress,2002-11-05-g-NJ,NJ
+new mexico,2002-11-05,g,np,congress,2002-11-05-g-NM,NM
+new york,2002-11-05,g,np,congress,2002-11-05-g-NY,NY
+north carolina,2002-11-05,g,np,congress,2002-11-05-g-NC,NC
+north dakota,2002-11-05,g,np,congress,2002-11-05-g-ND,ND
+ohio,2002-11-05,g,np,congress,2002-11-05-g-OH,OH
+oklahoma,2002-11-05,g,np,congress,2002-11-05-g-OK,OK
+oregon,2002-11-05,g,np,congress,2002-11-05-g-OR,OR
+maryland,2002-11-05,g,np,congress,2002-11-05-g-MD,MD
+massachusetts,2002-11-05,g,np,congress,2002-11-05-g-MA,MA
+michigan,2002-11-05,g,np,congress,2002-11-05-g-MI,MI
+minnesota,2002-11-05,g,np,congress,2002-11-05-g-MN,MN
+mississippi,2002-11-05,g,np,congress,2002-11-05-g-MS,MS
+missouri,2002-11-05,g,np,congress,2002-11-05-g-MO,MO
+pennsylvania,2002-11-05,g,np,congress,2002-11-05-g-PA,PA
+rhode island,2002-11-05,g,np,congress,2002-11-05-g-RI,RI
+south carolina,2002-11-05,g,np,congress,2002-11-05-g-SC,SC
+south dakota,2002-11-05,g,np,congress,2002-11-05-g-SD,SD
+tennessee,2002-11-05,g,np,congress,2002-11-05-g-TN,TN
+texas,2002-11-05,g,np,congress,2002-11-05-g-TX,TX
+utah,2002-11-05,g,np,congress,2002-11-05-g-UT,UT
+vermont,2002-11-05,g,np,congress,2002-11-05-g-VT,VT
+virginia,2002-11-05,g,np,congress,2002-11-05-g-VA,VA
+washington,2002-11-05,g,np,congress,2002-11-05-g-WA,WA
+west virginia,2002-11-05,g,np,congress,2002-11-05-g-WV,WV
+wisconsin,2002-11-05,g,np,congress,2002-11-05-g-WI,WI
+wyoming,2002-11-05,g,np,congress,2002-11-05-g-WY,WY
+alaska,2002-11-05,g,np,congress,2002-11-05-g-AK,AK
+hawaii,2002-11-05,g,np,congress,2002-11-05-g-HI,HI
+guam,2002-11-05,g,np,congress,2002-11-05-g-GU,GU
+american samoa,2002-11-05,g,np,congress,2002-11-05-g-AS,AS
+northern mariana islands,2002-11-05,g,np,congress,2002-11-05-g-MP,MP
+virgin islands,2002-11-05,g,np,congress,2002-11-05-g-VI,VI
+puerto rico,2002-11-05,g,np,congress,2002-11-05-g-PR,PR
+alabama,2004-11-02,g,np,congress,2004-11-02-g-AL,AL
+arizona,2004-11-02,g,np,congress,2004-11-02-g-AZ,AZ
+arkansas,2004-11-02,g,np,congress,2004-11-02-g-AR,AR
+california,2004-11-02,g,np,congress,2004-11-02-g-CA,CA
+colorado,2004-11-02,g,np,congress,2004-11-02-g-CO,CO
+connecticut,2004-11-02,g,np,congress,2004-11-02-g-CT,CT
+delaware,2004-11-02,g,np,congress,2004-11-02-g-DE,DE
+district of columbia,2004-11-02,g,np,congress,2004-11-02-g-DC,DC
+florida,2004-11-02,g,np,congress,2004-11-02-g-FL,FL
+georgia,2004-11-02,g,np,congress,2004-11-02-g-GA,GA
+idaho,2004-11-02,g,np,congress,2004-11-02-g-ID,ID
+illinois,2004-11-02,g,np,congress,2004-11-02-g-IL,IL
+indiana,2004-11-02,g,np,congress,2004-11-02-g-IN,IN
+iowa,2004-11-02,g,np,congress,2004-11-02-g-IA,IA
+kansas,2004-11-02,g,np,congress,2004-11-02-g-KS,KS
+kentucky,2004-11-02,g,np,congress,2004-11-02-g-KY,KY
+louisiana,2004-11-02,g,np,congress,2004-11-02-g-LA,LA
+maine,2004-11-02,g,np,congress,2004-11-02-g-ME,ME
+montana,2004-11-02,g,np,congress,2004-11-02-g-MT,MT
+nebraska,2004-11-02,g,np,congress,2004-11-02-g-NE,NE
+nevada,2004-11-02,g,np,congress,2004-11-02-g-NV,NV
+new hampshire,2004-11-02,g,np,congress,2004-11-02-g-NH,NH
+new jersey,2004-11-02,g,np,congress,2004-11-02-g-NJ,NJ
+new mexico,2004-11-02,g,np,congress,2004-11-02-g-NM,NM
+new york,2004-11-02,g,np,congress,2004-11-02-g-NY,NY
+north carolina,2004-11-02,g,np,congress,2004-11-02-g-NC,NC
+north dakota,2004-11-02,g,np,congress,2004-11-02-g-ND,ND
+ohio,2004-11-02,g,np,congress,2004-11-02-g-OH,OH
+oklahoma,2004-11-02,g,np,congress,2004-11-02-g-OK,OK
+oregon,2004-11-02,g,np,congress,2004-11-02-g-OR,OR
+maryland,2004-11-02,g,np,congress,2004-11-02-g-MD,MD
+massachusetts,2004-11-02,g,np,congress,2004-11-02-g-MA,MA
+michigan,2004-11-02,g,np,congress,2004-11-02-g-MI,MI
+minnesota,2004-11-02,g,np,congress,2004-11-02-g-MN,MN
+mississippi,2004-11-02,g,np,congress,2004-11-02-g-MS,MS
+missouri,2004-11-02,g,np,congress,2004-11-02-g-MO,MO
+pennsylvania,2004-11-02,g,np,congress,2004-11-02-g-PA,PA
+rhode island,2004-11-02,g,np,congress,2004-11-02-g-RI,RI
+south carolina,2004-11-02,g,np,congress,2004-11-02-g-SC,SC
+south dakota,2004-11-02,g,np,congress,2004-11-02-g-SD,SD
+tennessee,2004-11-02,g,np,congress,2004-11-02-g-TN,TN
+texas,2004-11-02,g,np,congress,2004-11-02-g-TX,TX
+utah,2004-11-02,g,np,congress,2004-11-02-g-UT,UT
+vermont,2004-11-02,g,np,congress,2004-11-02-g-VT,VT
+virginia,2004-11-02,g,np,congress,2004-11-02-g-VA,VA
+washington,2004-11-02,g,np,congress,2004-11-02-g-WA,WA
+west virginia,2004-11-02,g,np,congress,2004-11-02-g-WV,WV
+wisconsin,2004-11-02,g,np,congress,2004-11-02-g-WI,WI
+wyoming,2004-11-02,g,np,congress,2004-11-02-g-WY,WY
+alaska,2004-11-02,g,np,congress,2004-11-02-g-AK,AK
+hawaii,2004-11-02,g,np,congress,2004-11-02-g-HI,HI
+guam,2004-11-02,g,np,congress,2004-11-02-g-GU,GU
+american samoa,2004-11-02,g,np,congress,2004-11-02-g-AS,AS
+northern mariana islands,2004-11-02,g,np,congress,2004-11-02-g-MP,MP
+virgin islands,2004-11-02,g,np,congress,2004-11-02-g-VI,VI
+puerto rico,2004-11-02,g,np,congress,2004-11-02-g-PR,PR
+alabama,2006-11-07,g,np,congress,2006-11-07-g-AL,AL
+arizona,2006-11-07,g,np,congress,2006-11-07-g-AZ,AZ
+arkansas,2006-11-07,g,np,congress,2006-11-07-g-AR,AR
+california,2006-11-07,g,np,congress,2006-11-07-g-CA,CA
+colorado,2006-11-07,g,np,congress,2006-11-07-g-CO,CO
+connecticut,2006-11-07,g,np,congress,2006-11-07-g-CT,CT
+delaware,2006-11-07,g,np,congress,2006-11-07-g-DE,DE
+district of columbia,2006-11-07,g,np,congress,2006-11-07-g-DC,DC
+florida,2006-11-07,g,np,congress,2006-11-07-g-FL,FL
+georgia,2006-11-07,g,np,congress,2006-11-07-g-GA,GA
+idaho,2006-11-07,g,np,congress,2006-11-07-g-ID,ID
+illinois,2006-11-07,g,np,congress,2006-11-07-g-IL,IL
+indiana,2006-11-07,g,np,congress,2006-11-07-g-IN,IN
+iowa,2006-11-07,g,np,congress,2006-11-07-g-IA,IA
+kansas,2006-11-07,g,np,congress,2006-11-07-g-KS,KS
+kentucky,2006-11-07,g,np,congress,2006-11-07-g-KY,KY
+louisiana,2006-11-07,g,np,congress,2006-11-07-g-LA,LA
+maine,2006-11-07,g,np,congress,2006-11-07-g-ME,ME
+montana,2006-11-07,g,np,congress,2006-11-07-g-MT,MT
+nebraska,2006-11-07,g,np,congress,2006-11-07-g-NE,NE
+nevada,2006-11-07,g,np,congress,2006-11-07-g-NV,NV
+new hampshire,2006-11-07,g,np,congress,2006-11-07-g-NH,NH
+new jersey,2006-11-07,g,np,congress,2006-11-07-g-NJ,NJ
+new mexico,2006-11-07,g,np,congress,2006-11-07-g-NM,NM
+new york,2006-11-07,g,np,congress,2006-11-07-g-NY,NY
+north carolina,2006-11-07,g,np,congress,2006-11-07-g-NC,NC
+north dakota,2006-11-07,g,np,congress,2006-11-07-g-ND,ND
+ohio,2006-11-07,g,np,congress,2006-11-07-g-OH,OH
+oklahoma,2006-11-07,g,np,congress,2006-11-07-g-OK,OK
+oregon,2006-11-07,g,np,congress,2006-11-07-g-OR,OR
+maryland,2006-11-07,g,np,congress,2006-11-07-g-MD,MD
+massachusetts,2006-11-07,g,np,congress,2006-11-07-g-MA,MA
+michigan,2006-11-07,g,np,congress,2006-11-07-g-MI,MI
+minnesota,2006-11-07,g,np,congress,2006-11-07-g-MN,MN
+mississippi,2006-11-07,g,np,congress,2006-11-07-g-MS,MS
+missouri,2006-11-07,g,np,congress,2006-11-07-g-MO,MO
+pennsylvania,2006-11-07,g,np,congress,2006-11-07-g-PA,PA
+rhode island,2006-11-07,g,np,congress,2006-11-07-g-RI,RI
+south carolina,2006-11-07,g,np,congress,2006-11-07-g-SC,SC
+south dakota,2006-11-07,g,np,congress,2006-11-07-g-SD,SD
+tennessee,2006-11-07,g,np,congress,2006-11-07-g-TN,TN
+texas,2006-11-07,g,np,congress,2006-11-07-g-TX,TX
+utah,2006-11-07,g,np,congress,2006-11-07-g-UT,UT
+vermont,2006-11-07,g,np,congress,2006-11-07-g-VT,VT
+virginia,2006-11-07,g,np,congress,2006-11-07-g-VA,VA
+washington,2006-11-07,g,np,congress,2006-11-07-g-WA,WA
+west virginia,2006-11-07,g,np,congress,2006-11-07-g-WV,WV
+wisconsin,2006-11-07,g,np,congress,2006-11-07-g-WI,WI
+wyoming,2006-11-07,g,np,congress,2006-11-07-g-WY,WY
+alaska,2006-11-07,g,np,congress,2006-11-07-g-AK,AK
+hawaii,2006-11-07,g,np,congress,2006-11-07-g-HI,HI
+guam,2006-11-07,g,np,congress,2006-11-07-g-GU,GU
+american samoa,2006-11-07,g,np,congress,2006-11-07-g-AS,AS
+northern mariana islands,2006-11-07,g,np,congress,2006-11-07-g-MP,MP
+virgin islands,2006-11-07,g,np,congress,2006-11-07-g-VI,VI
+puerto rico,2006-11-07,g,np,congress,2006-11-07-g-PR,PR
+alabama,2008-11-04,g,np,congress,2008-11-04-g-AL,AL
+arizona,2008-11-04,g,np,congress,2008-11-04-g-AZ,AZ
+arkansas,2008-11-04,g,np,congress,2008-11-04-g-AR,AR
+california,2008-11-04,g,np,congress,2008-11-04-g-CA,CA
+colorado,2008-11-04,g,np,congress,2008-11-04-g-CO,CO
+connecticut,2008-11-04,g,np,congress,2008-11-04-g-CT,CT
+delaware,2008-11-04,g,np,congress,2008-11-04-g-DE,DE
+district of columbia,2008-11-04,g,np,congress,2008-11-04-g-DC,DC
+florida,2008-11-04,g,np,congress,2008-11-04-g-FL,FL
+georgia,2008-11-04,g,np,congress,2008-11-04-g-GA,GA
+idaho,2008-11-04,g,np,congress,2008-11-04-g-ID,ID
+illinois,2008-11-04,g,np,congress,2008-11-04-g-IL,IL
+indiana,2008-11-04,g,np,congress,2008-11-04-g-IN,IN
+iowa,2008-11-04,g,np,congress,2008-11-04-g-IA,IA
+kansas,2008-11-04,g,np,congress,2008-11-04-g-KS,KS
+kentucky,2008-11-04,g,np,congress,2008-11-04-g-KY,KY
+louisiana,2008-11-04,g,np,congress,2008-11-04-g-LA,LA
+maine,2008-11-04,g,np,congress,2008-11-04-g-ME,ME
+montana,2008-11-04,g,np,congress,2008-11-04-g-MT,MT
+nebraska,2008-11-04,g,np,congress,2008-11-04-g-NE,NE
+nevada,2008-11-04,g,np,congress,2008-11-04-g-NV,NV
+new hampshire,2008-11-04,g,np,congress,2008-11-04-g-NH,NH
+new jersey,2008-11-04,g,np,congress,2008-11-04-g-NJ,NJ
+new mexico,2008-11-04,g,np,congress,2008-11-04-g-NM,NM
+new york,2008-11-04,g,np,congress,2008-11-04-g-NY,NY
+north carolina,2008-11-04,g,np,congress,2008-11-04-g-NC,NC
+north dakota,2008-11-04,g,np,congress,2008-11-04-g-ND,ND
+ohio,2008-11-04,g,np,congress,2008-11-04-g-OH,OH
+oklahoma,2008-11-04,g,np,congress,2008-11-04-g-OK,OK
+oregon,2008-11-04,g,np,congress,2008-11-04-g-OR,OR
+maryland,2008-11-04,g,np,congress,2008-11-04-g-MD,MD
+massachusetts,2008-11-04,g,np,congress,2008-11-04-g-MA,MA
+michigan,2008-11-04,g,np,congress,2008-11-04-g-MI,MI
+minnesota,2008-11-04,g,np,congress,2008-11-04-g-MN,MN
+mississippi,2008-11-04,g,np,congress,2008-11-04-g-MS,MS
+missouri,2008-11-04,g,np,congress,2008-11-04-g-MO,MO
+pennsylvania,2008-11-04,g,np,congress,2008-11-04-g-PA,PA
+rhode island,2008-11-04,g,np,congress,2008-11-04-g-RI,RI
+south carolina,2008-11-04,g,np,congress,2008-11-04-g-SC,SC
+south dakota,2008-11-04,g,np,congress,2008-11-04-g-SD,SD
+tennessee,2008-11-04,g,np,congress,2008-11-04-g-TN,TN
+texas,2008-11-04,g,np,congress,2008-11-04-g-TX,TX
+utah,2008-11-04,g,np,congress,2008-11-04-g-UT,UT
+vermont,2008-11-04,g,np,congress,2008-11-04-g-VT,VT
+virginia,2008-11-04,g,np,congress,2008-11-04-g-VA,VA
+washington,2008-11-04,g,np,congress,2008-11-04-g-WA,WA
+west virginia,2008-11-04,g,np,congress,2008-11-04-g-WV,WV
+wisconsin,2008-11-04,g,np,congress,2008-11-04-g-WI,WI
+wyoming,2008-11-04,g,np,congress,2008-11-04-g-WY,WY
+alaska,2008-11-04,g,np,congress,2008-11-04-g-AK,AK
+hawaii,2008-11-04,g,np,congress,2008-11-04-g-HI,HI
+guam,2008-11-04,g,np,congress,2008-11-04-g-GU,GU
+american samoa,2008-11-04,g,np,congress,2008-11-04-g-AS,AS
+northern mariana islands,2008-11-04,g,np,congress,2008-11-04-g-MP,MP
+virgin islands,2008-11-04,g,np,congress,2008-11-04-g-VI,VI
+puerto rico,2008-11-04,g,np,congress,2008-11-04-g-PR,PR
+alabama,2010-11-02,g,np,congress,2010-11-02-g-AL,AL
+arizona,2010-11-02,g,np,congress,2010-11-02-g-AZ,AZ
+arkansas,2010-11-02,g,np,congress,2010-11-02-g-AR,AR
+california,2010-11-02,g,np,congress,2010-11-02-g-CA,CA
+colorado,2010-11-02,g,np,congress,2010-11-02-g-CO,CO
+connecticut,2010-11-02,g,np,congress,2010-11-02-g-CT,CT
+delaware,2010-11-02,g,np,congress,2010-11-02-g-DE,DE
+district of columbia,2010-11-02,g,np,congress,2010-11-02-g-DC,DC
+florida,2010-11-02,g,np,congress,2010-11-02-g-FL,FL
+georgia,2010-11-02,g,np,congress,2010-11-02-g-GA,GA
+idaho,2010-11-02,g,np,congress,2010-11-02-g-ID,ID
+illinois,2010-11-02,g,np,congress,2010-11-02-g-IL,IL
+indiana,2010-11-02,g,np,congress,2010-11-02-g-IN,IN
+iowa,2010-11-02,g,np,congress,2010-11-02-g-IA,IA
+kansas,2010-11-02,g,np,congress,2010-11-02-g-KS,KS
+kentucky,2010-11-02,g,np,congress,2010-11-02-g-KY,KY
+louisiana,2010-11-02,g,np,congress,2010-11-02-g-LA,LA
+maine,2010-11-02,g,np,congress,2010-11-02-g-ME,ME
+montana,2010-11-02,g,np,congress,2010-11-02-g-MT,MT
+nebraska,2010-11-02,g,np,congress,2010-11-02-g-NE,NE
+nevada,2010-11-02,g,np,congress,2010-11-02-g-NV,NV
+new hampshire,2010-11-02,g,np,congress,2010-11-02-g-NH,NH
+new jersey,2010-11-02,g,np,congress,2010-11-02-g-NJ,NJ
+new mexico,2010-11-02,g,np,congress,2010-11-02-g-NM,NM
+new york,2010-11-02,g,np,congress,2010-11-02-g-NY,NY
+north carolina,2010-11-02,g,np,congress,2010-11-02-g-NC,NC
+north dakota,2010-11-02,g,np,congress,2010-11-02-g-ND,ND
+ohio,2010-11-02,g,np,congress,2010-11-02-g-OH,OH
+oklahoma,2010-11-02,g,np,congress,2010-11-02-g-OK,OK
+oregon,2010-11-02,g,np,congress,2010-11-02-g-OR,OR
+maryland,2010-11-02,g,np,congress,2010-11-02-g-MD,MD
+massachusetts,2010-11-02,g,np,congress,2010-11-02-g-MA,MA
+michigan,2010-11-02,g,np,congress,2010-11-02-g-MI,MI
+minnesota,2010-11-02,g,np,congress,2010-11-02-g-MN,MN
+mississippi,2010-11-02,g,np,congress,2010-11-02-g-MS,MS
+missouri,2010-11-02,g,np,congress,2010-11-02-g-MO,MO
+pennsylvania,2010-11-02,g,np,congress,2010-11-02-g-PA,PA
+rhode island,2010-11-02,g,np,congress,2010-11-02-g-RI,RI
+south carolina,2010-11-02,g,np,congress,2010-11-02-g-SC,SC
+south dakota,2010-11-02,g,np,congress,2010-11-02-g-SD,SD
+tennessee,2010-11-02,g,np,congress,2010-11-02-g-TN,TN
+texas,2010-11-02,g,np,congress,2010-11-02-g-TX,TX
+utah,2010-11-02,g,np,congress,2010-11-02-g-UT,UT
+vermont,2010-11-02,g,np,congress,2010-11-02-g-VT,VT
+virginia,2010-11-02,g,np,congress,2010-11-02-g-VA,VA
+washington,2010-11-02,g,np,congress,2010-11-02-g-WA,WA
+west virginia,2010-11-02,g,np,congress,2010-11-02-g-WV,WV
+wisconsin,2010-11-02,g,np,congress,2010-11-02-g-WI,WI
+wyoming,2010-11-02,g,np,congress,2010-11-02-g-WY,WY
+alaska,2010-11-02,g,np,congress,2010-11-02-g-AK,AK
+hawaii,2010-11-02,g,np,congress,2010-11-02-g-HI,HI
+guam,2010-11-02,g,np,congress,2010-11-02-g-GU,GU
+american samoa,2010-11-02,g,np,congress,2010-11-02-g-AS,AS
+northern mariana islands,2010-11-02,g,np,congress,2010-11-02-g-MP,MP
+virgin islands,2010-11-02,g,np,congress,2010-11-02-g-VI,VI
+puerto rico,2010-11-02,g,np,congress,2010-11-02-g-PR,PR
+alabama,2012-11-06,g,np,congress,2012-11-06-g-AL,AL
+arizona,2012-11-06,g,np,congress,2012-11-06-g-AZ,AZ
+arkansas,2012-11-06,g,np,congress,2012-11-06-g-AR,AR
+california,2012-11-06,g,np,congress,2012-11-06-g-CA,CA
+colorado,2012-11-06,g,np,congress,2012-11-06-g-CO,CO
+connecticut,2012-11-06,g,np,congress,2012-11-06-g-CT,CT
+delaware,2012-11-06,g,np,congress,2012-11-06-g-DE,DE
+district of columbia,2012-11-06,g,np,congress,2012-11-06-g-DC,DC
+florida,2012-11-06,g,np,congress,2012-11-06-g-FL,FL
+georgia,2012-11-06,g,np,congress,2012-11-06-g-GA,GA
+idaho,2012-11-06,g,np,congress,2012-11-06-g-ID,ID
+illinois,2012-11-06,g,np,congress,2012-11-06-g-IL,IL
+indiana,2012-11-06,g,np,congress,2012-11-06-g-IN,IN
+iowa,2012-11-06,g,np,congress,2012-11-06-g-IA,IA
+kansas,2012-11-06,g,np,congress,2012-11-06-g-KS,KS
+kentucky,2012-11-06,g,np,congress,2012-11-06-g-KY,KY
+louisiana,2012-11-06,g,np,congress,2012-11-06-g-LA,LA
+maine,2012-11-06,g,np,congress,2012-11-06-g-ME,ME
+montana,2012-11-06,g,np,congress,2012-11-06-g-MT,MT
+nebraska,2012-11-06,g,np,congress,2012-11-06-g-NE,NE
+nevada,2012-11-06,g,np,congress,2012-11-06-g-NV,NV
+new hampshire,2012-11-06,g,np,congress,2012-11-06-g-NH,NH
+new jersey,2012-11-06,g,np,congress,2012-11-06-g-NJ,NJ
+new mexico,2012-11-06,g,np,congress,2012-11-06-g-NM,NM
+new york,2012-11-06,g,np,congress,2012-11-06-g-NY,NY
+north carolina,2012-11-06,g,np,congress,2012-11-06-g-NC,NC
+north dakota,2012-11-06,g,np,congress,2012-11-06-g-ND,ND
+ohio,2012-11-06,g,np,congress,2012-11-06-g-OH,OH
+oklahoma,2012-11-06,g,np,congress,2012-11-06-g-OK,OK
+oregon,2012-11-06,g,np,congress,2012-11-06-g-OR,OR
+maryland,2012-11-06,g,np,congress,2012-11-06-g-MD,MD
+massachusetts,2012-11-06,g,np,congress,2012-11-06-g-MA,MA
+michigan,2012-11-06,g,np,congress,2012-11-06-g-MI,MI
+minnesota,2012-11-06,g,np,congress,2012-11-06-g-MN,MN
+mississippi,2012-11-06,g,np,congress,2012-11-06-g-MS,MS
+missouri,2012-11-06,g,np,congress,2012-11-06-g-MO,MO
+pennsylvania,2012-11-06,g,np,congress,2012-11-06-g-PA,PA
+rhode island,2012-11-06,g,np,congress,2012-11-06-g-RI,RI
+south carolina,2012-11-06,g,np,congress,2012-11-06-g-SC,SC
+south dakota,2012-11-06,g,np,congress,2012-11-06-g-SD,SD
+tennessee,2012-11-06,g,np,congress,2012-11-06-g-TN,TN
+texas,2012-11-06,g,np,congress,2012-11-06-g-TX,TX
+utah,2012-11-06,g,np,congress,2012-11-06-g-UT,UT
+vermont,2012-11-06,g,np,congress,2012-11-06-g-VT,VT
+virginia,2012-11-06,g,np,congress,2012-11-06-g-VA,VA
+washington,2012-11-06,g,np,congress,2012-11-06-g-WA,WA
+west virginia,2012-11-06,g,np,congress,2012-11-06-g-WV,WV
+wisconsin,2012-11-06,g,np,congress,2012-11-06-g-WI,WI
+wyoming,2012-11-06,g,np,congress,2012-11-06-g-WY,WY
+alaska,2012-11-06,g,np,congress,2012-11-06-g-AK,AK
+hawaii,2012-11-06,g,np,congress,2012-11-06-g-HI,HI
+guam,2012-11-06,g,np,congress,2012-11-06-g-GU,GU
+american samoa,2012-11-06,g,np,congress,2012-11-06-g-AS,AS
+northern mariana islands,2012-11-06,g,np,congress,2012-11-06-g-MP,MP
+virgin islands,2012-11-06,g,np,congress,2012-11-06-g-VI,VI
+puerto rico,2012-11-06,g,np,congress,2012-11-06-g-PR,PR
+alabama,2014-11-04,g,np,congress,2014-11-04-g-AL,AL
+arizona,2014-11-04,g,np,congress,2014-11-04-g-AZ,AZ
+arkansas,2014-11-04,g,np,congress,2014-11-04-g-AR,AR
+california,2014-11-04,g,np,congress,2014-11-04-g-CA,CA
+colorado,2014-11-04,g,np,congress,2014-11-04-g-CO,CO
+connecticut,2014-11-04,g,np,congress,2014-11-04-g-CT,CT
+delaware,2014-11-04,g,np,congress,2014-11-04-g-DE,DE
+district of columbia,2014-11-04,g,np,congress,2014-11-04-g-DC,DC
+florida,2014-11-04,g,np,congress,2014-11-04-g-FL,FL
+georgia,2014-11-04,g,np,congress,2014-11-04-g-GA,GA
+idaho,2014-11-04,g,np,congress,2014-11-04-g-ID,ID
+illinois,2014-11-04,g,np,congress,2014-11-04-g-IL,IL
+indiana,2014-11-04,g,np,congress,2014-11-04-g-IN,IN
+iowa,2014-11-04,g,np,congress,2014-11-04-g-IA,IA
+kansas,2014-11-04,g,np,congress,2014-11-04-g-KS,KS
+kentucky,2014-11-04,g,np,congress,2014-11-04-g-KY,KY
+louisiana,2014-11-04,g,np,congress,2014-11-04-g-LA,LA
+maine,2014-11-04,g,np,congress,2014-11-04-g-ME,ME
+montana,2014-11-04,g,np,congress,2014-11-04-g-MT,MT
+nebraska,2014-11-04,g,np,congress,2014-11-04-g-NE,NE
+nevada,2014-11-04,g,np,congress,2014-11-04-g-NV,NV
+new hampshire,2014-11-04,g,np,congress,2014-11-04-g-NH,NH
+new jersey,2014-11-04,g,np,congress,2014-11-04-g-NJ,NJ
+new mexico,2014-11-04,g,np,congress,2014-11-04-g-NM,NM
+new york,2014-11-04,g,np,congress,2014-11-04-g-NY,NY
+north carolina,2014-11-04,g,np,congress,2014-11-04-g-NC,NC
+north dakota,2014-11-04,g,np,congress,2014-11-04-g-ND,ND
+ohio,2014-11-04,g,np,congress,2014-11-04-g-OH,OH
+oklahoma,2014-11-04,g,np,congress,2014-11-04-g-OK,OK
+oregon,2014-11-04,g,np,congress,2014-11-04-g-OR,OR
+maryland,2014-11-04,g,np,congress,2014-11-04-g-MD,MD
+massachusetts,2014-11-04,g,np,congress,2014-11-04-g-MA,MA
+michigan,2014-11-04,g,np,congress,2014-11-04-g-MI,MI
+minnesota,2014-11-04,g,np,congress,2014-11-04-g-MN,MN
+mississippi,2014-11-04,g,np,congress,2014-11-04-g-MS,MS
+missouri,2014-11-04,g,np,congress,2014-11-04-g-MO,MO
+pennsylvania,2014-11-04,g,np,congress,2014-11-04-g-PA,PA
+rhode island,2014-11-04,g,np,congress,2014-11-04-g-RI,RI
+south carolina,2014-11-04,g,np,congress,2014-11-04-g-SC,SC
+south dakota,2014-11-04,g,np,congress,2014-11-04-g-SD,SD
+tennessee,2014-11-04,g,np,congress,2014-11-04-g-TN,TN
+texas,2014-11-04,g,np,congress,2014-11-04-g-TX,TX
+utah,2014-11-04,g,np,congress,2014-11-04-g-UT,UT
+vermont,2014-11-04,g,np,congress,2014-11-04-g-VT,VT
+virginia,2014-11-04,g,np,congress,2014-11-04-g-VA,VA
+washington,2014-11-04,g,np,congress,2014-11-04-g-WA,WA
+west virginia,2014-11-04,g,np,congress,2014-11-04-g-WV,WV
+wisconsin,2014-11-04,g,np,congress,2014-11-04-g-WI,WI
+wyoming,2014-11-04,g,np,congress,2014-11-04-g-WY,WY
+alaska,2014-11-04,g,np,congress,2014-11-04-g-AK,AK
+hawaii,2014-11-04,g,np,congress,2014-11-04-g-HI,HI
+guam,2014-11-04,g,np,congress,2014-11-04-g-GU,GU
+american samoa,2014-11-04,g,np,congress,2014-11-04-g-AS,AS
+northern mariana islands,2014-11-04,g,np,congress,2014-11-04-g-MP,MP
+virgin islands,2014-11-04,g,np,congress,2014-11-04-g-VI,VI
+puerto rico,2014-11-04,g,np,congress,2014-11-04-g-PR,PR
+alabama,2016-11-01,g,np,congress,2016-11-01-g-AL,AL
+arizona,2016-11-01,g,np,congress,2016-11-01-g-AZ,AZ
+arkansas,2016-11-01,g,np,congress,2016-11-01-g-AR,AR
+california,2016-11-01,g,np,congress,2016-11-01-g-CA,CA
+colorado,2016-11-01,g,np,congress,2016-11-01-g-CO,CO
+connecticut,2016-11-01,g,np,congress,2016-11-01-g-CT,CT
+delaware,2016-11-01,g,np,congress,2016-11-01-g-DE,DE
+district of columbia,2016-11-01,g,np,congress,2016-11-01-g-DC,DC
+florida,2016-11-01,g,np,congress,2016-11-01-g-FL,FL
+georgia,2016-11-01,g,np,congress,2016-11-01-g-GA,GA
+idaho,2016-11-01,g,np,congress,2016-11-01-g-ID,ID
+illinois,2016-11-01,g,np,congress,2016-11-01-g-IL,IL
+indiana,2016-11-01,g,np,congress,2016-11-01-g-IN,IN
+iowa,2016-11-01,g,np,congress,2016-11-01-g-IA,IA
+kansas,2016-11-01,g,np,congress,2016-11-01-g-KS,KS
+kentucky,2016-11-01,g,np,congress,2016-11-01-g-KY,KY
+louisiana,2016-11-01,g,np,congress,2016-11-01-g-LA,LA
+maine,2016-11-01,g,np,congress,2016-11-01-g-ME,ME
+montana,2016-11-01,g,np,congress,2016-11-01-g-MT,MT
+nebraska,2016-11-01,g,np,congress,2016-11-01-g-NE,NE
+nevada,2016-11-01,g,np,congress,2016-11-01-g-NV,NV
+new hampshire,2016-11-01,g,np,congress,2016-11-01-g-NH,NH
+new jersey,2016-11-01,g,np,congress,2016-11-01-g-NJ,NJ
+new mexico,2016-11-01,g,np,congress,2016-11-01-g-NM,NM
+new york,2016-11-01,g,np,congress,2016-11-01-g-NY,NY
+north carolina,2016-11-01,g,np,congress,2016-11-01-g-NC,NC
+north dakota,2016-11-01,g,np,congress,2016-11-01-g-ND,ND
+ohio,2016-11-01,g,np,congress,2016-11-01-g-OH,OH
+oklahoma,2016-11-01,g,np,congress,2016-11-01-g-OK,OK
+oregon,2016-11-01,g,np,congress,2016-11-01-g-OR,OR
+maryland,2016-11-01,g,np,congress,2016-11-01-g-MD,MD
+massachusetts,2016-11-01,g,np,congress,2016-11-01-g-MA,MA
+michigan,2016-11-01,g,np,congress,2016-11-01-g-MI,MI
+minnesota,2016-11-01,g,np,congress,2016-11-01-g-MN,MN
+mississippi,2016-11-01,g,np,congress,2016-11-01-g-MS,MS
+missouri,2016-11-01,g,np,congress,2016-11-01-g-MO,MO
+pennsylvania,2016-11-01,g,np,congress,2016-11-01-g-PA,PA
+rhode island,2016-11-01,g,np,congress,2016-11-01-g-RI,RI
+south carolina,2016-11-01,g,np,congress,2016-11-01-g-SC,SC
+south dakota,2016-11-01,g,np,congress,2016-11-01-g-SD,SD
+tennessee,2016-11-01,g,np,congress,2016-11-01-g-TN,TN
+texas,2016-11-01,g,np,congress,2016-11-01-g-TX,TX
+utah,2016-11-01,g,np,congress,2016-11-01-g-UT,UT
+vermont,2016-11-01,g,np,congress,2016-11-01-g-VT,VT
+virginia,2016-11-01,g,np,congress,2016-11-01-g-VA,VA
+washington,2016-11-01,g,np,congress,2016-11-01-g-WA,WA
+west virginia,2016-11-01,g,np,congress,2016-11-01-g-WV,WV
+wisconsin,2016-11-01,g,np,congress,2016-11-01-g-WI,WI
+wyoming,2016-11-01,g,np,congress,2016-11-01-g-WY,WY
+alaska,2016-11-01,g,np,congress,2016-11-01-g-AK,AK
+hawaii,2016-11-01,g,np,congress,2016-11-01-g-HI,HI
+guam,2016-11-01,g,np,congress,2016-11-01-g-GU,GU
+american samoa,2016-11-01,g,np,congress,2016-11-01-g-AS,AS
+northern mariana islands,2016-11-01,g,np,congress,2016-11-01-g-MP,MP
+virgin islands,2016-11-01,g,np,congress,2016-11-01-g-VI,VI
+puerto rico,2016-11-01,g,np,congress,2016-11-01-g-PR,PR
+alabama,2018-11-06,g,np,congress,2018-11-06-g-AL,AL
+arizona,2018-11-06,g,np,congress,2018-11-06-g-AZ,AZ
+arkansas,2018-11-06,g,np,congress,2018-11-06-g-AR,AR
+california,2018-11-06,g,np,congress,2018-11-06-g-CA,CA
+colorado,2018-11-06,g,np,congress,2018-11-06-g-CO,CO
+connecticut,2018-11-06,g,np,congress,2018-11-06-g-CT,CT
+delaware,2018-11-06,g,np,congress,2018-11-06-g-DE,DE
+district of columbia,2018-11-06,g,np,congress,2018-11-06-g-DC,DC
+florida,2018-11-06,g,np,congress,2018-11-06-g-FL,FL
+georgia,2018-11-06,g,np,congress,2018-11-06-g-GA,GA
+idaho,2018-11-06,g,np,congress,2018-11-06-g-ID,ID
+illinois,2018-11-06,g,np,congress,2018-11-06-g-IL,IL
+indiana,2018-11-06,g,np,congress,2018-11-06-g-IN,IN
+iowa,2018-11-06,g,np,congress,2018-11-06-g-IA,IA
+kansas,2018-11-06,g,np,congress,2018-11-06-g-KS,KS
+kentucky,2018-11-06,g,np,congress,2018-11-06-g-KY,KY
+louisiana,2018-11-06,g,np,congress,2018-11-06-g-LA,LA
+maine,2018-11-06,g,np,congress,2018-11-06-g-ME,ME
+montana,2018-11-06,g,np,congress,2018-11-06-g-MT,MT
+nebraska,2018-11-06,g,np,congress,2018-11-06-g-NE,NE
+nevada,2018-11-06,g,np,congress,2018-11-06-g-NV,NV
+new hampshire,2018-11-06,g,np,congress,2018-11-06-g-NH,NH
+new jersey,2018-11-06,g,np,congress,2018-11-06-g-NJ,NJ
+new mexico,2018-11-06,g,np,congress,2018-11-06-g-NM,NM
+new york,2018-11-06,g,np,congress,2018-11-06-g-NY,NY
+north carolina,2018-11-06,g,np,congress,2018-11-06-g-NC,NC
+north dakota,2018-11-06,g,np,congress,2018-11-06-g-ND,ND
+ohio,2018-11-06,g,np,congress,2018-11-06-g-OH,OH
+oklahoma,2018-11-06,g,np,congress,2018-11-06-g-OK,OK
+oregon,2018-11-06,g,np,congress,2018-11-06-g-OR,OR
+maryland,2018-11-06,g,np,congress,2018-11-06-g-MD,MD
+massachusetts,2018-11-06,g,np,congress,2018-11-06-g-MA,MA
+michigan,2018-11-06,g,np,congress,2018-11-06-g-MI,MI
+minnesota,2018-11-06,g,np,congress,2018-11-06-g-MN,MN
+mississippi,2018-11-06,g,np,congress,2018-11-06-g-MS,MS
+missouri,2018-11-06,g,np,congress,2018-11-06-g-MO,MO
+pennsylvania,2018-11-06,g,np,congress,2018-11-06-g-PA,PA
+rhode island,2018-11-06,g,np,congress,2018-11-06-g-RI,RI
+south carolina,2018-11-06,g,np,congress,2018-11-06-g-SC,SC
+south dakota,2018-11-06,g,np,congress,2018-11-06-g-SD,SD
+tennessee,2018-11-06,g,np,congress,2018-11-06-g-TN,TN
+texas,2018-11-06,g,np,congress,2018-11-06-g-TX,TX
+utah,2018-11-06,g,np,congress,2018-11-06-g-UT,UT
+vermont,2018-11-06,g,np,congress,2018-11-06-g-VT,VT
+virginia,2018-11-06,g,np,congress,2018-11-06-g-VA,VA
+washington,2018-11-06,g,np,congress,2018-11-06-g-WA,WA
+west virginia,2018-11-06,g,np,congress,2018-11-06-g-WV,WV
+wisconsin,2018-11-06,g,np,congress,2018-11-06-g-WI,WI
+wyoming,2018-11-06,g,np,congress,2018-11-06-g-WY,WY
+alaska,2018-11-06,g,np,congress,2018-11-06-g-AK,AK
+hawaii,2018-11-06,g,np,congress,2018-11-06-g-HI,HI
+guam,2018-11-06,g,np,congress,2018-11-06-g-GU,GU
+american samoa,2018-11-06,g,np,congress,2018-11-06-g-AS,AS
+northern mariana islands,2018-11-06,g,np,congress,2018-11-06-g-MP,MP
+virgin islands,2018-11-06,g,np,congress,2018-11-06-g-VI,VI
+puerto rico,2018-11-06,g,np,congress,2018-11-06-g-PR,PR
+alabama,2020-11-03,g,np,congress,2020-11-03-g-AL,AL
+arizona,2020-11-03,g,np,congress,2020-11-03-g-AZ,AZ
+arkansas,2020-11-03,g,np,congress,2020-11-03-g-AR,AR
+california,2020-11-03,g,np,congress,2020-11-03-g-CA,CA
+colorado,2020-11-03,g,np,congress,2020-11-03-g-CO,CO
+connecticut,2020-11-03,g,np,congress,2020-11-03-g-CT,CT
+delaware,2020-11-03,g,np,congress,2020-11-03-g-DE,DE
+district of columbia,2020-11-03,g,np,congress,2020-11-03-g-DC,DC
+florida,2020-11-03,g,np,congress,2020-11-03-g-FL,FL
+georgia,2020-11-03,g,np,congress,2020-11-03-g-GA,GA
+idaho,2020-11-03,g,np,congress,2020-11-03-g-ID,ID
+illinois,2020-11-03,g,np,congress,2020-11-03-g-IL,IL
+indiana,2020-11-03,g,np,congress,2020-11-03-g-IN,IN
+iowa,2020-11-03,g,np,congress,2020-11-03-g-IA,IA
+kansas,2020-11-03,g,np,congress,2020-11-03-g-KS,KS
+kentucky,2020-11-03,g,np,congress,2020-11-03-g-KY,KY
+louisiana,2020-11-03,g,np,congress,2020-11-03-g-LA,LA
+maine,2020-11-03,g,np,congress,2020-11-03-g-ME,ME
+montana,2020-11-03,g,np,congress,2020-11-03-g-MT,MT
+nebraska,2020-11-03,g,np,congress,2020-11-03-g-NE,NE
+nevada,2020-11-03,g,np,congress,2020-11-03-g-NV,NV
+new hampshire,2020-11-03,g,np,congress,2020-11-03-g-NH,NH
+new jersey,2020-11-03,g,np,congress,2020-11-03-g-NJ,NJ
+new mexico,2020-11-03,g,np,congress,2020-11-03-g-NM,NM
+new york,2020-11-03,g,np,congress,2020-11-03-g-NY,NY
+north carolina,2020-11-03,g,np,congress,2020-11-03-g-NC,NC
+north dakota,2020-11-03,g,np,congress,2020-11-03-g-ND,ND
+ohio,2020-11-03,g,np,congress,2020-11-03-g-OH,OH
+oklahoma,2020-11-03,g,np,congress,2020-11-03-g-OK,OK
+oregon,2020-11-03,g,np,congress,2020-11-03-g-OR,OR
+maryland,2020-11-03,g,np,congress,2020-11-03-g-MD,MD
+massachusetts,2020-11-03,g,np,congress,2020-11-03-g-MA,MA
+michigan,2020-11-03,g,np,congress,2020-11-03-g-MI,MI
+minnesota,2020-11-03,g,np,congress,2020-11-03-g-MN,MN
+mississippi,2020-11-03,g,np,congress,2020-11-03-g-MS,MS
+missouri,2020-11-03,g,np,congress,2020-11-03-g-MO,MO
+pennsylvania,2020-11-03,g,np,congress,2020-11-03-g-PA,PA
+rhode island,2020-11-03,g,np,congress,2020-11-03-g-RI,RI
+south carolina,2020-11-03,g,np,congress,2020-11-03-g-SC,SC
+south dakota,2020-11-03,g,np,congress,2020-11-03-g-SD,SD
+tennessee,2020-11-03,g,np,congress,2020-11-03-g-TN,TN
+texas,2020-11-03,g,np,congress,2020-11-03-g-TX,TX
+utah,2020-11-03,g,np,congress,2020-11-03-g-UT,UT
+vermont,2020-11-03,g,np,congress,2020-11-03-g-VT,VT
+virginia,2020-11-03,g,np,congress,2020-11-03-g-VA,VA
+washington,2020-11-03,g,np,congress,2020-11-03-g-WA,WA
+west virginia,2020-11-03,g,np,congress,2020-11-03-g-WV,WV
+wisconsin,2020-11-03,g,np,congress,2020-11-03-g-WI,WI
+wyoming,2020-11-03,g,np,congress,2020-11-03-g-WY,WY
+alaska,2020-11-03,g,np,congress,2020-11-03-g-AK,AK
+hawaii,2020-11-03,g,np,congress,2020-11-03-g-HI,HI
+guam,2020-11-03,g,np,congress,2020-11-03-g-GU,GU
+american samoa,2020-11-03,g,np,congress,2020-11-03-g-AS,AS
+northern mariana islands,2020-11-03,g,np,congress,2020-11-03-g-MP,MP
+virgin islands,2020-11-03,g,np,congress,2020-11-03-g-VI,VI
+puerto rico,2020-11-03,g,np,congress,2020-11-03-g-PR,PR
+alabama,1984-11-06,g,np,president,1984-11-06-g-AL,AL
+arizona,1984-11-06,g,np,president,1984-11-06-g-AZ,AZ
+arkansas,1984-11-06,g,np,president,1984-11-06-g-AR,AR
+california,1984-11-06,g,np,president,1984-11-06-g-CA,CA
+colorado,1984-11-06,g,np,president,1984-11-06-g-CO,CO
+connecticut,1984-11-06,g,np,president,1984-11-06-g-CT,CT
+delaware,1984-11-06,g,np,president,1984-11-06-g-DE,DE
+district of columbia,1984-11-06,g,np,president,1984-11-06-g-DC,DC
+florida,1984-11-06,g,np,president,1984-11-06-g-FL,FL
+georgia,1984-11-06,g,np,president,1984-11-06-g-GA,GA
+idaho,1984-11-06,g,np,president,1984-11-06-g-ID,ID
+illinois,1984-11-06,g,np,president,1984-11-06-g-IL,IL
+indiana,1984-11-06,g,np,president,1984-11-06-g-IN,IN
+iowa,1984-11-06,g,np,president,1984-11-06-g-IA,IA
+kansas,1984-11-06,g,np,president,1984-11-06-g-KS,KS
+kentucky,1984-11-06,g,np,president,1984-11-06-g-KY,KY
+louisiana,1984-11-06,g,np,president,1984-11-06-g-LA,LA
+maine,1984-11-06,g,np,president,1984-11-06-g-ME,ME
+montana,1984-11-06,g,np,president,1984-11-06-g-MT,MT
+nebraska,1984-11-06,g,np,president,1984-11-06-g-NE,NE
+nevada,1984-11-06,g,np,president,1984-11-06-g-NV,NV
+new hampshire,1984-11-06,g,np,president,1984-11-06-g-NH,NH
+new jersey,1984-11-06,g,np,president,1984-11-06-g-NJ,NJ
+new mexico,1984-11-06,g,np,president,1984-11-06-g-NM,NM
+new york,1984-11-06,g,np,president,1984-11-06-g-NY,NY
+north carolina,1984-11-06,g,np,president,1984-11-06-g-NC,NC
+north dakota,1984-11-06,g,np,president,1984-11-06-g-ND,ND
+ohio,1984-11-06,g,np,president,1984-11-06-g-OH,OH
+oklahoma,1984-11-06,g,np,president,1984-11-06-g-OK,OK
+oregon,1984-11-06,g,np,president,1984-11-06-g-OR,OR
+maryland,1984-11-06,g,np,president,1984-11-06-g-MD,MD
+massachusetts,1984-11-06,g,np,president,1984-11-06-g-MA,MA
+michigan,1984-11-06,g,np,president,1984-11-06-g-MI,MI
+minnesota,1984-11-06,g,np,president,1984-11-06-g-MN,MN
+mississippi,1984-11-06,g,np,president,1984-11-06-g-MS,MS
+missouri,1984-11-06,g,np,president,1984-11-06-g-MO,MO
+pennsylvania,1984-11-06,g,np,president,1984-11-06-g-PA,PA
+rhode island,1984-11-06,g,np,president,1984-11-06-g-RI,RI
+south carolina,1984-11-06,g,np,president,1984-11-06-g-SC,SC
+south dakota,1984-11-06,g,np,president,1984-11-06-g-SD,SD
+tennessee,1984-11-06,g,np,president,1984-11-06-g-TN,TN
+texas,1984-11-06,g,np,president,1984-11-06-g-TX,TX
+utah,1984-11-06,g,np,president,1984-11-06-g-UT,UT
+vermont,1984-11-06,g,np,president,1984-11-06-g-VT,VT
+virginia,1984-11-06,g,np,president,1984-11-06-g-VA,VA
+washington,1984-11-06,g,np,president,1984-11-06-g-WA,WA
+west virginia,1984-11-06,g,np,president,1984-11-06-g-WV,WV
+wisconsin,1984-11-06,g,np,president,1984-11-06-g-WI,WI
+wyoming,1984-11-06,g,np,president,1984-11-06-g-WY,WY
+alaska,1984-11-06,g,np,president,1984-11-06-g-AK,AK
+hawaii,1984-11-06,g,np,president,1984-11-06-g-HI,HI
+guam,1984-11-06,g,np,president,1984-11-06-g-GU,GU
+american samoa,1984-11-06,g,np,president,1984-11-06-g-AS,AS
+northern mariana islands,1984-11-06,g,np,president,1984-11-06-g-MP,MP
+virgin islands,1984-11-06,g,np,president,1984-11-06-g-VI,VI
+puerto rico,1984-11-06,g,np,president,1984-11-06-g-PR,PR
+alabama,1988-11-01,g,np,president,1988-11-01-g-AL,AL
+arizona,1988-11-01,g,np,president,1988-11-01-g-AZ,AZ
+arkansas,1988-11-01,g,np,president,1988-11-01-g-AR,AR
+california,1988-11-01,g,np,president,1988-11-01-g-CA,CA
+colorado,1988-11-01,g,np,president,1988-11-01-g-CO,CO
+connecticut,1988-11-01,g,np,president,1988-11-01-g-CT,CT
+delaware,1988-11-01,g,np,president,1988-11-01-g-DE,DE
+district of columbia,1988-11-01,g,np,president,1988-11-01-g-DC,DC
+florida,1988-11-01,g,np,president,1988-11-01-g-FL,FL
+georgia,1988-11-01,g,np,president,1988-11-01-g-GA,GA
+idaho,1988-11-01,g,np,president,1988-11-01-g-ID,ID
+illinois,1988-11-01,g,np,president,1988-11-01-g-IL,IL
+indiana,1988-11-01,g,np,president,1988-11-01-g-IN,IN
+iowa,1988-11-01,g,np,president,1988-11-01-g-IA,IA
+kansas,1988-11-01,g,np,president,1988-11-01-g-KS,KS
+kentucky,1988-11-01,g,np,president,1988-11-01-g-KY,KY
+louisiana,1988-11-01,g,np,president,1988-11-01-g-LA,LA
+maine,1988-11-01,g,np,president,1988-11-01-g-ME,ME
+montana,1988-11-01,g,np,president,1988-11-01-g-MT,MT
+nebraska,1988-11-01,g,np,president,1988-11-01-g-NE,NE
+nevada,1988-11-01,g,np,president,1988-11-01-g-NV,NV
+new hampshire,1988-11-01,g,np,president,1988-11-01-g-NH,NH
+new jersey,1988-11-01,g,np,president,1988-11-01-g-NJ,NJ
+new mexico,1988-11-01,g,np,president,1988-11-01-g-NM,NM
+new york,1988-11-01,g,np,president,1988-11-01-g-NY,NY
+north carolina,1988-11-01,g,np,president,1988-11-01-g-NC,NC
+north dakota,1988-11-01,g,np,president,1988-11-01-g-ND,ND
+ohio,1988-11-01,g,np,president,1988-11-01-g-OH,OH
+oklahoma,1988-11-01,g,np,president,1988-11-01-g-OK,OK
+oregon,1988-11-01,g,np,president,1988-11-01-g-OR,OR
+maryland,1988-11-01,g,np,president,1988-11-01-g-MD,MD
+massachusetts,1988-11-01,g,np,president,1988-11-01-g-MA,MA
+michigan,1988-11-01,g,np,president,1988-11-01-g-MI,MI
+minnesota,1988-11-01,g,np,president,1988-11-01-g-MN,MN
+mississippi,1988-11-01,g,np,president,1988-11-01-g-MS,MS
+missouri,1988-11-01,g,np,president,1988-11-01-g-MO,MO
+pennsylvania,1988-11-01,g,np,president,1988-11-01-g-PA,PA
+rhode island,1988-11-01,g,np,president,1988-11-01-g-RI,RI
+south carolina,1988-11-01,g,np,president,1988-11-01-g-SC,SC
+south dakota,1988-11-01,g,np,president,1988-11-01-g-SD,SD
+tennessee,1988-11-01,g,np,president,1988-11-01-g-TN,TN
+texas,1988-11-01,g,np,president,1988-11-01-g-TX,TX
+utah,1988-11-01,g,np,president,1988-11-01-g-UT,UT
+vermont,1988-11-01,g,np,president,1988-11-01-g-VT,VT
+virginia,1988-11-01,g,np,president,1988-11-01-g-VA,VA
+washington,1988-11-01,g,np,president,1988-11-01-g-WA,WA
+west virginia,1988-11-01,g,np,president,1988-11-01-g-WV,WV
+wisconsin,1988-11-01,g,np,president,1988-11-01-g-WI,WI
+wyoming,1988-11-01,g,np,president,1988-11-01-g-WY,WY
+alaska,1988-11-01,g,np,president,1988-11-01-g-AK,AK
+hawaii,1988-11-01,g,np,president,1988-11-01-g-HI,HI
+guam,1988-11-01,g,np,president,1988-11-01-g-GU,GU
+american samoa,1988-11-01,g,np,president,1988-11-01-g-AS,AS
+northern mariana islands,1988-11-01,g,np,president,1988-11-01-g-MP,MP
+virgin islands,1988-11-01,g,np,president,1988-11-01-g-VI,VI
+puerto rico,1988-11-01,g,np,president,1988-11-01-g-PR,PR
+alabama,1992-11-03,g,np,president,1992-11-03-g-AL,AL
+arizona,1992-11-03,g,np,president,1992-11-03-g-AZ,AZ
+arkansas,1992-11-03,g,np,president,1992-11-03-g-AR,AR
+california,1992-11-03,g,np,president,1992-11-03-g-CA,CA
+colorado,1992-11-03,g,np,president,1992-11-03-g-CO,CO
+connecticut,1992-11-03,g,np,president,1992-11-03-g-CT,CT
+delaware,1992-11-03,g,np,president,1992-11-03-g-DE,DE
+district of columbia,1992-11-03,g,np,president,1992-11-03-g-DC,DC
+florida,1992-11-03,g,np,president,1992-11-03-g-FL,FL
+georgia,1992-11-03,g,np,president,1992-11-03-g-GA,GA
+idaho,1992-11-03,g,np,president,1992-11-03-g-ID,ID
+illinois,1992-11-03,g,np,president,1992-11-03-g-IL,IL
+indiana,1992-11-03,g,np,president,1992-11-03-g-IN,IN
+iowa,1992-11-03,g,np,president,1992-11-03-g-IA,IA
+kansas,1992-11-03,g,np,president,1992-11-03-g-KS,KS
+kentucky,1992-11-03,g,np,president,1992-11-03-g-KY,KY
+louisiana,1992-11-03,g,np,president,1992-11-03-g-LA,LA
+maine,1992-11-03,g,np,president,1992-11-03-g-ME,ME
+montana,1992-11-03,g,np,president,1992-11-03-g-MT,MT
+nebraska,1992-11-03,g,np,president,1992-11-03-g-NE,NE
+nevada,1992-11-03,g,np,president,1992-11-03-g-NV,NV
+new hampshire,1992-11-03,g,np,president,1992-11-03-g-NH,NH
+new jersey,1992-11-03,g,np,president,1992-11-03-g-NJ,NJ
+new mexico,1992-11-03,g,np,president,1992-11-03-g-NM,NM
+new york,1992-11-03,g,np,president,1992-11-03-g-NY,NY
+north carolina,1992-11-03,g,np,president,1992-11-03-g-NC,NC
+north dakota,1992-11-03,g,np,president,1992-11-03-g-ND,ND
+ohio,1992-11-03,g,np,president,1992-11-03-g-OH,OH
+oklahoma,1992-11-03,g,np,president,1992-11-03-g-OK,OK
+oregon,1992-11-03,g,np,president,1992-11-03-g-OR,OR
+maryland,1992-11-03,g,np,president,1992-11-03-g-MD,MD
+massachusetts,1992-11-03,g,np,president,1992-11-03-g-MA,MA
+michigan,1992-11-03,g,np,president,1992-11-03-g-MI,MI
+minnesota,1992-11-03,g,np,president,1992-11-03-g-MN,MN
+mississippi,1992-11-03,g,np,president,1992-11-03-g-MS,MS
+missouri,1992-11-03,g,np,president,1992-11-03-g-MO,MO
+pennsylvania,1992-11-03,g,np,president,1992-11-03-g-PA,PA
+rhode island,1992-11-03,g,np,president,1992-11-03-g-RI,RI
+south carolina,1992-11-03,g,np,president,1992-11-03-g-SC,SC
+south dakota,1992-11-03,g,np,president,1992-11-03-g-SD,SD
+tennessee,1992-11-03,g,np,president,1992-11-03-g-TN,TN
+texas,1992-11-03,g,np,president,1992-11-03-g-TX,TX
+utah,1992-11-03,g,np,president,1992-11-03-g-UT,UT
+vermont,1992-11-03,g,np,president,1992-11-03-g-VT,VT
+virginia,1992-11-03,g,np,president,1992-11-03-g-VA,VA
+washington,1992-11-03,g,np,president,1992-11-03-g-WA,WA
+west virginia,1992-11-03,g,np,president,1992-11-03-g-WV,WV
+wisconsin,1992-11-03,g,np,president,1992-11-03-g-WI,WI
+wyoming,1992-11-03,g,np,president,1992-11-03-g-WY,WY
+alaska,1992-11-03,g,np,president,1992-11-03-g-AK,AK
+hawaii,1992-11-03,g,np,president,1992-11-03-g-HI,HI
+guam,1992-11-03,g,np,president,1992-11-03-g-GU,GU
+american samoa,1992-11-03,g,np,president,1992-11-03-g-AS,AS
+northern mariana islands,1992-11-03,g,np,president,1992-11-03-g-MP,MP
+virgin islands,1992-11-03,g,np,president,1992-11-03-g-VI,VI
+puerto rico,1992-11-03,g,np,president,1992-11-03-g-PR,PR
+alabama,1996-11-05,g,np,president,1996-11-05-g-AL,AL
+arizona,1996-11-05,g,np,president,1996-11-05-g-AZ,AZ
+arkansas,1996-11-05,g,np,president,1996-11-05-g-AR,AR
+california,1996-11-05,g,np,president,1996-11-05-g-CA,CA
+colorado,1996-11-05,g,np,president,1996-11-05-g-CO,CO
+connecticut,1996-11-05,g,np,president,1996-11-05-g-CT,CT
+delaware,1996-11-05,g,np,president,1996-11-05-g-DE,DE
+district of columbia,1996-11-05,g,np,president,1996-11-05-g-DC,DC
+florida,1996-11-05,g,np,president,1996-11-05-g-FL,FL
+georgia,1996-11-05,g,np,president,1996-11-05-g-GA,GA
+idaho,1996-11-05,g,np,president,1996-11-05-g-ID,ID
+illinois,1996-11-05,g,np,president,1996-11-05-g-IL,IL
+indiana,1996-11-05,g,np,president,1996-11-05-g-IN,IN
+iowa,1996-11-05,g,np,president,1996-11-05-g-IA,IA
+kansas,1996-11-05,g,np,president,1996-11-05-g-KS,KS
+kentucky,1996-11-05,g,np,president,1996-11-05-g-KY,KY
+louisiana,1996-11-05,g,np,president,1996-11-05-g-LA,LA
+maine,1996-11-05,g,np,president,1996-11-05-g-ME,ME
+montana,1996-11-05,g,np,president,1996-11-05-g-MT,MT
+nebraska,1996-11-05,g,np,president,1996-11-05-g-NE,NE
+nevada,1996-11-05,g,np,president,1996-11-05-g-NV,NV
+new hampshire,1996-11-05,g,np,president,1996-11-05-g-NH,NH
+new jersey,1996-11-05,g,np,president,1996-11-05-g-NJ,NJ
+new mexico,1996-11-05,g,np,president,1996-11-05-g-NM,NM
+new york,1996-11-05,g,np,president,1996-11-05-g-NY,NY
+north carolina,1996-11-05,g,np,president,1996-11-05-g-NC,NC
+north dakota,1996-11-05,g,np,president,1996-11-05-g-ND,ND
+ohio,1996-11-05,g,np,president,1996-11-05-g-OH,OH
+oklahoma,1996-11-05,g,np,president,1996-11-05-g-OK,OK
+oregon,1996-11-05,g,np,president,1996-11-05-g-OR,OR
+maryland,1996-11-05,g,np,president,1996-11-05-g-MD,MD
+massachusetts,1996-11-05,g,np,president,1996-11-05-g-MA,MA
+michigan,1996-11-05,g,np,president,1996-11-05-g-MI,MI
+minnesota,1996-11-05,g,np,president,1996-11-05-g-MN,MN
+mississippi,1996-11-05,g,np,president,1996-11-05-g-MS,MS
+missouri,1996-11-05,g,np,president,1996-11-05-g-MO,MO
+pennsylvania,1996-11-05,g,np,president,1996-11-05-g-PA,PA
+rhode island,1996-11-05,g,np,president,1996-11-05-g-RI,RI
+south carolina,1996-11-05,g,np,president,1996-11-05-g-SC,SC
+south dakota,1996-11-05,g,np,president,1996-11-05-g-SD,SD
+tennessee,1996-11-05,g,np,president,1996-11-05-g-TN,TN
+texas,1996-11-05,g,np,president,1996-11-05-g-TX,TX
+utah,1996-11-05,g,np,president,1996-11-05-g-UT,UT
+vermont,1996-11-05,g,np,president,1996-11-05-g-VT,VT
+virginia,1996-11-05,g,np,president,1996-11-05-g-VA,VA
+washington,1996-11-05,g,np,president,1996-11-05-g-WA,WA
+west virginia,1996-11-05,g,np,president,1996-11-05-g-WV,WV
+wisconsin,1996-11-05,g,np,president,1996-11-05-g-WI,WI
+wyoming,1996-11-05,g,np,president,1996-11-05-g-WY,WY
+alaska,1996-11-05,g,np,president,1996-11-05-g-AK,AK
+hawaii,1996-11-05,g,np,president,1996-11-05-g-HI,HI
+guam,1996-11-05,g,np,president,1996-11-05-g-GU,GU
+american samoa,1996-11-05,g,np,president,1996-11-05-g-AS,AS
+northern mariana islands,1996-11-05,g,np,president,1996-11-05-g-MP,MP
+virgin islands,1996-11-05,g,np,president,1996-11-05-g-VI,VI
+puerto rico,1996-11-05,g,np,president,1996-11-05-g-PR,PR
+alabama,2000-11-07,g,np,president,2000-11-07-g-AL,AL
+arizona,2000-11-07,g,np,president,2000-11-07-g-AZ,AZ
+arkansas,2000-11-07,g,np,president,2000-11-07-g-AR,AR
+california,2000-11-07,g,np,president,2000-11-07-g-CA,CA
+colorado,2000-11-07,g,np,president,2000-11-07-g-CO,CO
+connecticut,2000-11-07,g,np,president,2000-11-07-g-CT,CT
+delaware,2000-11-07,g,np,president,2000-11-07-g-DE,DE
+district of columbia,2000-11-07,g,np,president,2000-11-07-g-DC,DC
+florida,2000-11-07,g,np,president,2000-11-07-g-FL,FL
+georgia,2000-11-07,g,np,president,2000-11-07-g-GA,GA
+idaho,2000-11-07,g,np,president,2000-11-07-g-ID,ID
+illinois,2000-11-07,g,np,president,2000-11-07-g-IL,IL
+indiana,2000-11-07,g,np,president,2000-11-07-g-IN,IN
+iowa,2000-11-07,g,np,president,2000-11-07-g-IA,IA
+kansas,2000-11-07,g,np,president,2000-11-07-g-KS,KS
+kentucky,2000-11-07,g,np,president,2000-11-07-g-KY,KY
+louisiana,2000-11-07,g,np,president,2000-11-07-g-LA,LA
+maine,2000-11-07,g,np,president,2000-11-07-g-ME,ME
+montana,2000-11-07,g,np,president,2000-11-07-g-MT,MT
+nebraska,2000-11-07,g,np,president,2000-11-07-g-NE,NE
+nevada,2000-11-07,g,np,president,2000-11-07-g-NV,NV
+new hampshire,2000-11-07,g,np,president,2000-11-07-g-NH,NH
+new jersey,2000-11-07,g,np,president,2000-11-07-g-NJ,NJ
+new mexico,2000-11-07,g,np,president,2000-11-07-g-NM,NM
+new york,2000-11-07,g,np,president,2000-11-07-g-NY,NY
+north carolina,2000-11-07,g,np,president,2000-11-07-g-NC,NC
+north dakota,2000-11-07,g,np,president,2000-11-07-g-ND,ND
+ohio,2000-11-07,g,np,president,2000-11-07-g-OH,OH
+oklahoma,2000-11-07,g,np,president,2000-11-07-g-OK,OK
+oregon,2000-11-07,g,np,president,2000-11-07-g-OR,OR
+maryland,2000-11-07,g,np,president,2000-11-07-g-MD,MD
+massachusetts,2000-11-07,g,np,president,2000-11-07-g-MA,MA
+michigan,2000-11-07,g,np,president,2000-11-07-g-MI,MI
+minnesota,2000-11-07,g,np,president,2000-11-07-g-MN,MN
+mississippi,2000-11-07,g,np,president,2000-11-07-g-MS,MS
+missouri,2000-11-07,g,np,president,2000-11-07-g-MO,MO
+pennsylvania,2000-11-07,g,np,president,2000-11-07-g-PA,PA
+rhode island,2000-11-07,g,np,president,2000-11-07-g-RI,RI
+south carolina,2000-11-07,g,np,president,2000-11-07-g-SC,SC
+south dakota,2000-11-07,g,np,president,2000-11-07-g-SD,SD
+tennessee,2000-11-07,g,np,president,2000-11-07-g-TN,TN
+texas,2000-11-07,g,np,president,2000-11-07-g-TX,TX
+utah,2000-11-07,g,np,president,2000-11-07-g-UT,UT
+vermont,2000-11-07,g,np,president,2000-11-07-g-VT,VT
+virginia,2000-11-07,g,np,president,2000-11-07-g-VA,VA
+washington,2000-11-07,g,np,president,2000-11-07-g-WA,WA
+west virginia,2000-11-07,g,np,president,2000-11-07-g-WV,WV
+wisconsin,2000-11-07,g,np,president,2000-11-07-g-WI,WI
+wyoming,2000-11-07,g,np,president,2000-11-07-g-WY,WY
+alaska,2000-11-07,g,np,president,2000-11-07-g-AK,AK
+hawaii,2000-11-07,g,np,president,2000-11-07-g-HI,HI
+guam,2000-11-07,g,np,president,2000-11-07-g-GU,GU
+american samoa,2000-11-07,g,np,president,2000-11-07-g-AS,AS
+northern mariana islands,2000-11-07,g,np,president,2000-11-07-g-MP,MP
+virgin islands,2000-11-07,g,np,president,2000-11-07-g-VI,VI
+puerto rico,2000-11-07,g,np,president,2000-11-07-g-PR,PR
+alabama,2004-11-02,g,np,president,2004-11-02-g-AL,AL
+arizona,2004-11-02,g,np,president,2004-11-02-g-AZ,AZ
+arkansas,2004-11-02,g,np,president,2004-11-02-g-AR,AR
+california,2004-11-02,g,np,president,2004-11-02-g-CA,CA
+colorado,2004-11-02,g,np,president,2004-11-02-g-CO,CO
+connecticut,2004-11-02,g,np,president,2004-11-02-g-CT,CT
+delaware,2004-11-02,g,np,president,2004-11-02-g-DE,DE
+district of columbia,2004-11-02,g,np,president,2004-11-02-g-DC,DC
+florida,2004-11-02,g,np,president,2004-11-02-g-FL,FL
+georgia,2004-11-02,g,np,president,2004-11-02-g-GA,GA
+idaho,2004-11-02,g,np,president,2004-11-02-g-ID,ID
+illinois,2004-11-02,g,np,president,2004-11-02-g-IL,IL
+indiana,2004-11-02,g,np,president,2004-11-02-g-IN,IN
+iowa,2004-11-02,g,np,president,2004-11-02-g-IA,IA
+kansas,2004-11-02,g,np,president,2004-11-02-g-KS,KS
+kentucky,2004-11-02,g,np,president,2004-11-02-g-KY,KY
+louisiana,2004-11-02,g,np,president,2004-11-02-g-LA,LA
+maine,2004-11-02,g,np,president,2004-11-02-g-ME,ME
+montana,2004-11-02,g,np,president,2004-11-02-g-MT,MT
+nebraska,2004-11-02,g,np,president,2004-11-02-g-NE,NE
+nevada,2004-11-02,g,np,president,2004-11-02-g-NV,NV
+new hampshire,2004-11-02,g,np,president,2004-11-02-g-NH,NH
+new jersey,2004-11-02,g,np,president,2004-11-02-g-NJ,NJ
+new mexico,2004-11-02,g,np,president,2004-11-02-g-NM,NM
+new york,2004-11-02,g,np,president,2004-11-02-g-NY,NY
+north carolina,2004-11-02,g,np,president,2004-11-02-g-NC,NC
+north dakota,2004-11-02,g,np,president,2004-11-02-g-ND,ND
+ohio,2004-11-02,g,np,president,2004-11-02-g-OH,OH
+oklahoma,2004-11-02,g,np,president,2004-11-02-g-OK,OK
+oregon,2004-11-02,g,np,president,2004-11-02-g-OR,OR
+maryland,2004-11-02,g,np,president,2004-11-02-g-MD,MD
+massachusetts,2004-11-02,g,np,president,2004-11-02-g-MA,MA
+michigan,2004-11-02,g,np,president,2004-11-02-g-MI,MI
+minnesota,2004-11-02,g,np,president,2004-11-02-g-MN,MN
+mississippi,2004-11-02,g,np,president,2004-11-02-g-MS,MS
+missouri,2004-11-02,g,np,president,2004-11-02-g-MO,MO
+pennsylvania,2004-11-02,g,np,president,2004-11-02-g-PA,PA
+rhode island,2004-11-02,g,np,president,2004-11-02-g-RI,RI
+south carolina,2004-11-02,g,np,president,2004-11-02-g-SC,SC
+south dakota,2004-11-02,g,np,president,2004-11-02-g-SD,SD
+tennessee,2004-11-02,g,np,president,2004-11-02-g-TN,TN
+texas,2004-11-02,g,np,president,2004-11-02-g-TX,TX
+utah,2004-11-02,g,np,president,2004-11-02-g-UT,UT
+vermont,2004-11-02,g,np,president,2004-11-02-g-VT,VT
+virginia,2004-11-02,g,np,president,2004-11-02-g-VA,VA
+washington,2004-11-02,g,np,president,2004-11-02-g-WA,WA
+west virginia,2004-11-02,g,np,president,2004-11-02-g-WV,WV
+wisconsin,2004-11-02,g,np,president,2004-11-02-g-WI,WI
+wyoming,2004-11-02,g,np,president,2004-11-02-g-WY,WY
+alaska,2004-11-02,g,np,president,2004-11-02-g-AK,AK
+hawaii,2004-11-02,g,np,president,2004-11-02-g-HI,HI
+guam,2004-11-02,g,np,president,2004-11-02-g-GU,GU
+american samoa,2004-11-02,g,np,president,2004-11-02-g-AS,AS
+northern mariana islands,2004-11-02,g,np,president,2004-11-02-g-MP,MP
+virgin islands,2004-11-02,g,np,president,2004-11-02-g-VI,VI
+puerto rico,2004-11-02,g,np,president,2004-11-02-g-PR,PR
+alabama,2008-11-04,g,np,president,2008-11-04-g-AL,AL
+arizona,2008-11-04,g,np,president,2008-11-04-g-AZ,AZ
+arkansas,2008-11-04,g,np,president,2008-11-04-g-AR,AR
+california,2008-11-04,g,np,president,2008-11-04-g-CA,CA
+colorado,2008-11-04,g,np,president,2008-11-04-g-CO,CO
+connecticut,2008-11-04,g,np,president,2008-11-04-g-CT,CT
+delaware,2008-11-04,g,np,president,2008-11-04-g-DE,DE
+district of columbia,2008-11-04,g,np,president,2008-11-04-g-DC,DC
+florida,2008-11-04,g,np,president,2008-11-04-g-FL,FL
+georgia,2008-11-04,g,np,president,2008-11-04-g-GA,GA
+idaho,2008-11-04,g,np,president,2008-11-04-g-ID,ID
+illinois,2008-11-04,g,np,president,2008-11-04-g-IL,IL
+indiana,2008-11-04,g,np,president,2008-11-04-g-IN,IN
+iowa,2008-11-04,g,np,president,2008-11-04-g-IA,IA
+kansas,2008-11-04,g,np,president,2008-11-04-g-KS,KS
+kentucky,2008-11-04,g,np,president,2008-11-04-g-KY,KY
+louisiana,2008-11-04,g,np,president,2008-11-04-g-LA,LA
+maine,2008-11-04,g,np,president,2008-11-04-g-ME,ME
+montana,2008-11-04,g,np,president,2008-11-04-g-MT,MT
+nebraska,2008-11-04,g,np,president,2008-11-04-g-NE,NE
+nevada,2008-11-04,g,np,president,2008-11-04-g-NV,NV
+new hampshire,2008-11-04,g,np,president,2008-11-04-g-NH,NH
+new jersey,2008-11-04,g,np,president,2008-11-04-g-NJ,NJ
+new mexico,2008-11-04,g,np,president,2008-11-04-g-NM,NM
+new york,2008-11-04,g,np,president,2008-11-04-g-NY,NY
+north carolina,2008-11-04,g,np,president,2008-11-04-g-NC,NC
+north dakota,2008-11-04,g,np,president,2008-11-04-g-ND,ND
+ohio,2008-11-04,g,np,president,2008-11-04-g-OH,OH
+oklahoma,2008-11-04,g,np,president,2008-11-04-g-OK,OK
+oregon,2008-11-04,g,np,president,2008-11-04-g-OR,OR
+maryland,2008-11-04,g,np,president,2008-11-04-g-MD,MD
+massachusetts,2008-11-04,g,np,president,2008-11-04-g-MA,MA
+michigan,2008-11-04,g,np,president,2008-11-04-g-MI,MI
+minnesota,2008-11-04,g,np,president,2008-11-04-g-MN,MN
+mississippi,2008-11-04,g,np,president,2008-11-04-g-MS,MS
+missouri,2008-11-04,g,np,president,2008-11-04-g-MO,MO
+pennsylvania,2008-11-04,g,np,president,2008-11-04-g-PA,PA
+rhode island,2008-11-04,g,np,president,2008-11-04-g-RI,RI
+south carolina,2008-11-04,g,np,president,2008-11-04-g-SC,SC
+south dakota,2008-11-04,g,np,president,2008-11-04-g-SD,SD
+tennessee,2008-11-04,g,np,president,2008-11-04-g-TN,TN
+texas,2008-11-04,g,np,president,2008-11-04-g-TX,TX
+utah,2008-11-04,g,np,president,2008-11-04-g-UT,UT
+vermont,2008-11-04,g,np,president,2008-11-04-g-VT,VT
+virginia,2008-11-04,g,np,president,2008-11-04-g-VA,VA
+washington,2008-11-04,g,np,president,2008-11-04-g-WA,WA
+west virginia,2008-11-04,g,np,president,2008-11-04-g-WV,WV
+wisconsin,2008-11-04,g,np,president,2008-11-04-g-WI,WI
+wyoming,2008-11-04,g,np,president,2008-11-04-g-WY,WY
+alaska,2008-11-04,g,np,president,2008-11-04-g-AK,AK
+hawaii,2008-11-04,g,np,president,2008-11-04-g-HI,HI
+guam,2008-11-04,g,np,president,2008-11-04-g-GU,GU
+american samoa,2008-11-04,g,np,president,2008-11-04-g-AS,AS
+northern mariana islands,2008-11-04,g,np,president,2008-11-04-g-MP,MP
+virgin islands,2008-11-04,g,np,president,2008-11-04-g-VI,VI
+puerto rico,2008-11-04,g,np,president,2008-11-04-g-PR,PR
+alabama,2012-11-06,g,np,president,2012-11-06-g-AL,AL
+arizona,2012-11-06,g,np,president,2012-11-06-g-AZ,AZ
+arkansas,2012-11-06,g,np,president,2012-11-06-g-AR,AR
+california,2012-11-06,g,np,president,2012-11-06-g-CA,CA
+colorado,2012-11-06,g,np,president,2012-11-06-g-CO,CO
+connecticut,2012-11-06,g,np,president,2012-11-06-g-CT,CT
+delaware,2012-11-06,g,np,president,2012-11-06-g-DE,DE
+district of columbia,2012-11-06,g,np,president,2012-11-06-g-DC,DC
+florida,2012-11-06,g,np,president,2012-11-06-g-FL,FL
+georgia,2012-11-06,g,np,president,2012-11-06-g-GA,GA
+idaho,2012-11-06,g,np,president,2012-11-06-g-ID,ID
+illinois,2012-11-06,g,np,president,2012-11-06-g-IL,IL
+indiana,2012-11-06,g,np,president,2012-11-06-g-IN,IN
+iowa,2012-11-06,g,np,president,2012-11-06-g-IA,IA
+kansas,2012-11-06,g,np,president,2012-11-06-g-KS,KS
+kentucky,2012-11-06,g,np,president,2012-11-06-g-KY,KY
+louisiana,2012-11-06,g,np,president,2012-11-06-g-LA,LA
+maine,2012-11-06,g,np,president,2012-11-06-g-ME,ME
+montana,2012-11-06,g,np,president,2012-11-06-g-MT,MT
+nebraska,2012-11-06,g,np,president,2012-11-06-g-NE,NE
+nevada,2012-11-06,g,np,president,2012-11-06-g-NV,NV
+new hampshire,2012-11-06,g,np,president,2012-11-06-g-NH,NH
+new jersey,2012-11-06,g,np,president,2012-11-06-g-NJ,NJ
+new mexico,2012-11-06,g,np,president,2012-11-06-g-NM,NM
+new york,2012-11-06,g,np,president,2012-11-06-g-NY,NY
+north carolina,2012-11-06,g,np,president,2012-11-06-g-NC,NC
+north dakota,2012-11-06,g,np,president,2012-11-06-g-ND,ND
+ohio,2012-11-06,g,np,president,2012-11-06-g-OH,OH
+oklahoma,2012-11-06,g,np,president,2012-11-06-g-OK,OK
+oregon,2012-11-06,g,np,president,2012-11-06-g-OR,OR
+maryland,2012-11-06,g,np,president,2012-11-06-g-MD,MD
+massachusetts,2012-11-06,g,np,president,2012-11-06-g-MA,MA
+michigan,2012-11-06,g,np,president,2012-11-06-g-MI,MI
+minnesota,2012-11-06,g,np,president,2012-11-06-g-MN,MN
+mississippi,2012-11-06,g,np,president,2012-11-06-g-MS,MS
+missouri,2012-11-06,g,np,president,2012-11-06-g-MO,MO
+pennsylvania,2012-11-06,g,np,president,2012-11-06-g-PA,PA
+rhode island,2012-11-06,g,np,president,2012-11-06-g-RI,RI
+south carolina,2012-11-06,g,np,president,2012-11-06-g-SC,SC
+south dakota,2012-11-06,g,np,president,2012-11-06-g-SD,SD
+tennessee,2012-11-06,g,np,president,2012-11-06-g-TN,TN
+texas,2012-11-06,g,np,president,2012-11-06-g-TX,TX
+utah,2012-11-06,g,np,president,2012-11-06-g-UT,UT
+vermont,2012-11-06,g,np,president,2012-11-06-g-VT,VT
+virginia,2012-11-06,g,np,president,2012-11-06-g-VA,VA
+washington,2012-11-06,g,np,president,2012-11-06-g-WA,WA
+west virginia,2012-11-06,g,np,president,2012-11-06-g-WV,WV
+wisconsin,2012-11-06,g,np,president,2012-11-06-g-WI,WI
+wyoming,2012-11-06,g,np,president,2012-11-06-g-WY,WY
+alaska,2012-11-06,g,np,president,2012-11-06-g-AK,AK
+hawaii,2012-11-06,g,np,president,2012-11-06-g-HI,HI
+guam,2012-11-06,g,np,president,2012-11-06-g-GU,GU
+american samoa,2012-11-06,g,np,president,2012-11-06-g-AS,AS
+northern mariana islands,2012-11-06,g,np,president,2012-11-06-g-MP,MP
+virgin islands,2012-11-06,g,np,president,2012-11-06-g-VI,VI
+puerto rico,2012-11-06,g,np,president,2012-11-06-g-PR,PR
+alabama,2016-11-01,g,np,president,2016-11-01-g-AL,AL
+arizona,2016-11-01,g,np,president,2016-11-01-g-AZ,AZ
+arkansas,2016-11-01,g,np,president,2016-11-01-g-AR,AR
+california,2016-11-01,g,np,president,2016-11-01-g-CA,CA
+colorado,2016-11-01,g,np,president,2016-11-01-g-CO,CO
+connecticut,2016-11-01,g,np,president,2016-11-01-g-CT,CT
+delaware,2016-11-01,g,np,president,2016-11-01-g-DE,DE
+district of columbia,2016-11-01,g,np,president,2016-11-01-g-DC,DC
+florida,2016-11-01,g,np,president,2016-11-01-g-FL,FL
+georgia,2016-11-01,g,np,president,2016-11-01-g-GA,GA
+idaho,2016-11-01,g,np,president,2016-11-01-g-ID,ID
+illinois,2016-11-01,g,np,president,2016-11-01-g-IL,IL
+indiana,2016-11-01,g,np,president,2016-11-01-g-IN,IN
+iowa,2016-11-01,g,np,president,2016-11-01-g-IA,IA
+kansas,2016-11-01,g,np,president,2016-11-01-g-KS,KS
+kentucky,2016-11-01,g,np,president,2016-11-01-g-KY,KY
+louisiana,2016-11-01,g,np,president,2016-11-01-g-LA,LA
+maine,2016-11-01,g,np,president,2016-11-01-g-ME,ME
+montana,2016-11-01,g,np,president,2016-11-01-g-MT,MT
+nebraska,2016-11-01,g,np,president,2016-11-01-g-NE,NE
+nevada,2016-11-01,g,np,president,2016-11-01-g-NV,NV
+new hampshire,2016-11-01,g,np,president,2016-11-01-g-NH,NH
+new jersey,2016-11-01,g,np,president,2016-11-01-g-NJ,NJ
+new mexico,2016-11-01,g,np,president,2016-11-01-g-NM,NM
+new york,2016-11-01,g,np,president,2016-11-01-g-NY,NY
+north carolina,2016-11-01,g,np,president,2016-11-01-g-NC,NC
+north dakota,2016-11-01,g,np,president,2016-11-01-g-ND,ND
+ohio,2016-11-01,g,np,president,2016-11-01-g-OH,OH
+oklahoma,2016-11-01,g,np,president,2016-11-01-g-OK,OK
+oregon,2016-11-01,g,np,president,2016-11-01-g-OR,OR
+maryland,2016-11-01,g,np,president,2016-11-01-g-MD,MD
+massachusetts,2016-11-01,g,np,president,2016-11-01-g-MA,MA
+michigan,2016-11-01,g,np,president,2016-11-01-g-MI,MI
+minnesota,2016-11-01,g,np,president,2016-11-01-g-MN,MN
+mississippi,2016-11-01,g,np,president,2016-11-01-g-MS,MS
+missouri,2016-11-01,g,np,president,2016-11-01-g-MO,MO
+pennsylvania,2016-11-01,g,np,president,2016-11-01-g-PA,PA
+rhode island,2016-11-01,g,np,president,2016-11-01-g-RI,RI
+south carolina,2016-11-01,g,np,president,2016-11-01-g-SC,SC
+south dakota,2016-11-01,g,np,president,2016-11-01-g-SD,SD
+tennessee,2016-11-01,g,np,president,2016-11-01-g-TN,TN
+texas,2016-11-01,g,np,president,2016-11-01-g-TX,TX
+utah,2016-11-01,g,np,president,2016-11-01-g-UT,UT
+vermont,2016-11-01,g,np,president,2016-11-01-g-VT,VT
+virginia,2016-11-01,g,np,president,2016-11-01-g-VA,VA
+washington,2016-11-01,g,np,president,2016-11-01-g-WA,WA
+west virginia,2016-11-01,g,np,president,2016-11-01-g-WV,WV
+wisconsin,2016-11-01,g,np,president,2016-11-01-g-WI,WI
+wyoming,2016-11-01,g,np,president,2016-11-01-g-WY,WY
+alaska,2016-11-01,g,np,president,2016-11-01-g-AK,AK
+hawaii,2016-11-01,g,np,president,2016-11-01-g-HI,HI
+guam,2016-11-01,g,np,president,2016-11-01-g-GU,GU
+american samoa,2016-11-01,g,np,president,2016-11-01-g-AS,AS
+northern mariana islands,2016-11-01,g,np,president,2016-11-01-g-MP,MP
+virgin islands,2016-11-01,g,np,president,2016-11-01-g-VI,VI
+puerto rico,2016-11-01,g,np,president,2016-11-01-g-PR,PR
+alabama,2020-11-03,g,np,president,2020-11-03-g-AL,AL
+arizona,2020-11-03,g,np,president,2020-11-03-g-AZ,AZ
+arkansas,2020-11-03,g,np,president,2020-11-03-g-AR,AR
+california,2020-11-03,g,np,president,2020-11-03-g-CA,CA
+colorado,2020-11-03,g,np,president,2020-11-03-g-CO,CO
+connecticut,2020-11-03,g,np,president,2020-11-03-g-CT,CT
+delaware,2020-11-03,g,np,president,2020-11-03-g-DE,DE
+district of columbia,2020-11-03,g,np,president,2020-11-03-g-DC,DC
+florida,2020-11-03,g,np,president,2020-11-03-g-FL,FL
+georgia,2020-11-03,g,np,president,2020-11-03-g-GA,GA
+idaho,2020-11-03,g,np,president,2020-11-03-g-ID,ID
+illinois,2020-11-03,g,np,president,2020-11-03-g-IL,IL
+indiana,2020-11-03,g,np,president,2020-11-03-g-IN,IN
+iowa,2020-11-03,g,np,president,2020-11-03-g-IA,IA
+kansas,2020-11-03,g,np,president,2020-11-03-g-KS,KS
+kentucky,2020-11-03,g,np,president,2020-11-03-g-KY,KY
+louisiana,2020-11-03,g,np,president,2020-11-03-g-LA,LA
+maine,2020-11-03,g,np,president,2020-11-03-g-ME,ME
+montana,2020-11-03,g,np,president,2020-11-03-g-MT,MT
+nebraska,2020-11-03,g,np,president,2020-11-03-g-NE,NE
+nevada,2020-11-03,g,np,president,2020-11-03-g-NV,NV
+new hampshire,2020-11-03,g,np,president,2020-11-03-g-NH,NH
+new jersey,2020-11-03,g,np,president,2020-11-03-g-NJ,NJ
+new mexico,2020-11-03,g,np,president,2020-11-03-g-NM,NM
+new york,2020-11-03,g,np,president,2020-11-03-g-NY,NY
+north carolina,2020-11-03,g,np,president,2020-11-03-g-NC,NC
+north dakota,2020-11-03,g,np,president,2020-11-03-g-ND,ND
+ohio,2020-11-03,g,np,president,2020-11-03-g-OH,OH
+oklahoma,2020-11-03,g,np,president,2020-11-03-g-OK,OK
+oregon,2020-11-03,g,np,president,2020-11-03-g-OR,OR
+maryland,2020-11-03,g,np,president,2020-11-03-g-MD,MD
+massachusetts,2020-11-03,g,np,president,2020-11-03-g-MA,MA
+michigan,2020-11-03,g,np,president,2020-11-03-g-MI,MI
+minnesota,2020-11-03,g,np,president,2020-11-03-g-MN,MN
+mississippi,2020-11-03,g,np,president,2020-11-03-g-MS,MS
+missouri,2020-11-03,g,np,president,2020-11-03-g-MO,MO
+pennsylvania,2020-11-03,g,np,president,2020-11-03-g-PA,PA
+rhode island,2020-11-03,g,np,president,2020-11-03-g-RI,RI
+south carolina,2020-11-03,g,np,president,2020-11-03-g-SC,SC
+south dakota,2020-11-03,g,np,president,2020-11-03-g-SD,SD
+tennessee,2020-11-03,g,np,president,2020-11-03-g-TN,TN
+texas,2020-11-03,g,np,president,2020-11-03-g-TX,TX
+utah,2020-11-03,g,np,president,2020-11-03-g-UT,UT
+vermont,2020-11-03,g,np,president,2020-11-03-g-VT,VT
+virginia,2020-11-03,g,np,president,2020-11-03-g-VA,VA
+washington,2020-11-03,g,np,president,2020-11-03-g-WA,WA
+west virginia,2020-11-03,g,np,president,2020-11-03-g-WV,WV
+wisconsin,2020-11-03,g,np,president,2020-11-03-g-WI,WI
+wyoming,2020-11-03,g,np,president,2020-11-03-g-WY,WY
+alaska,2020-11-03,g,np,president,2020-11-03-g-AK,AK
+hawaii,2020-11-03,g,np,president,2020-11-03-g-HI,HI
+guam,2020-11-03,g,np,president,2020-11-03-g-GU,GU
+american samoa,2020-11-03,g,np,president,2020-11-03-g-AS,AS
+northern mariana islands,2020-11-03,g,np,president,2020-11-03-g-MP,MP
+virgin islands,2020-11-03,g,np,president,2020-11-03-g-VI,VI
+puerto rico,2020-11-03,g,np,president,2020-11-03-g-PR,PR
