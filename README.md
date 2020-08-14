@@ -2,7 +2,7 @@
 
 _What is this?_ 
 
-A repository for collecting, cleaning, mining, and storing election date data. 
+A repository for collecting, cleaning, and storing election date data. 
 
 _Why?_
 
