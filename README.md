@@ -1,4 +1,4 @@
-## welcome to the election-date-project
+## election-date-project
 
 _What is this?_ 
 
